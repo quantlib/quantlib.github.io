@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['integer_0',['Integer',['../group__types.html#gab9c87440c314438e51a899a03d2442d0',1,'QuantLib']]]
+  ['natural_0',['Natural',['../group__types.html#ga7e529c39c477ba1f5a22264d93e8457a',1,'QuantLib']]],
+  ['noarbsabrswaptionvolatilitycube_1',['NoArbSabrSwaptionVolatilityCube',['../namespace_quant_lib.html#a0f493e452b423831a8fb4425ef7e55af',1,'QuantLib']]]
 ];

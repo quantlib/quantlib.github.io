@@ -42,5 +42,7 @@ var searchData=
   ['expectedtrancheloss_39',['expectedTrancheLoss',['../class_quant_lib_1_1_synthetic_c_d_o.html#ad6dff0b873b2efd338a07fcf37626af8',1,'QuantLib::SyntheticCDO']]],
   ['expm_40',['Expm',['../namespace_quant_lib.html#a7046779c88fcedcfe7310cd2e39d2cc7',1,'QuantLib']]],
   ['exponentialcorrelations_41',['exponentialCorrelations',['../namespace_quant_lib.html#aafbfe459ea2a3d2df7e515fd53c1f8f3',1,'QuantLib']]],
-  ['exposure_42',['exposure',['../class_quant_lib_1_1_basket.html#a7ee298df74a748a191cc56836207f46f',1,'QuantLib::Basket']]]
+  ['exposure_42',['exposure',['../class_quant_lib_1_1_basket.html#a7ee298df74a748a191cc56836207f46f',1,'QuantLib::Basket']]],
+  ['extractgamma_43',['extractGamma',['../struct_quant_lib_1_1_xabr_model_traits_3_01_swaption_vol_cube_zabr_model_3_01_kernel_01_4_01_4.html#aa63f8dfe4e525732690f861ef024c458',1,'QuantLib::XabrModelTraits&lt; SwaptionVolCubeZabrModel&lt; Kernel &gt; &gt;']]],
+  ['extrapolatedvariance_44',['extrapolatedVariance',['../class_quant_lib_1_1_black_vol_time_extrapolation.html#a1450ae5e5d65a4f9a6884f319fb63ad3',1,'QuantLib::BlackVolTimeExtrapolation::extrapolatedVariance(Type type, Time t, Real strike, const std::vector&lt; Time &gt; &amp;times, const std::function&lt; Real(Time t, Real k)&gt; &amp;varianceSurface)'],['../class_quant_lib_1_1_black_vol_time_extrapolation.html#a36f81226178e1e0ec7019a0b625fb056',1,'QuantLib::BlackVolTimeExtrapolation::extrapolatedVariance(Type type, Time t, const std::vector&lt; Time &gt; &amp;times, const std::function&lt; Real(Time t)&gt; &amp;varianceCurve)']]]
 ];
