@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['rate_0',['Rate',['../group__types.html#gaede435af51236692b1107d7639581d39',1,'QuantLib']]],
-  ['real_1',['Real',['../group__types.html#ga4bdf4bfe76b9ffa6fa64c47d8bfa0c78',1,'QuantLib']]],
-  ['riskstatistics_2',['RiskStatistics',['../namespace_quant_lib.html#ac6495e303a40cd0a73ecbb5cd904ca09',1,'QuantLib']]]
+  ['time_0',['Time',['../group__types.html#ga14fb8fca43a68f4168654e1f9f7e22f7',1,'QuantLib']]],
+  ['tona_1',['Tona',['../namespace_quant_lib.html#abae7e5371c3636b51dc3611bcc2482f3',1,'QuantLib']]]
 ];

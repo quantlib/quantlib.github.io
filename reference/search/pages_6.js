@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['introduction_0',['Introduction',['../index.html',1,'']]]
+  ['history_0',['Version history',['../history.html',1,'']]]
 ];

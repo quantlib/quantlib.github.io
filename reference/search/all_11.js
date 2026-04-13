@@ -47,6 +47,5 @@ var searchData=
   ['quantotermstructure_44',['QuantoTermStructure',['../class_quant_lib_1_1_quanto_term_structure.html',1,'QuantLib']]],
   ['quantovanillaoption_45',['QuantoVanillaOption',['../class_quant_lib_1_1_quanto_vanilla_option.html',1,'QuantLib']]],
   ['quarterly_46',['Quarterly',['../group__datetime.html#gga6d41db8ba0ea90d22df35889df452adaab4fce358383d1822f7596659e00b07f7',1,'QuantLib']]],
-  ['quote_47',['Quote',['../class_quant_lib_1_1_quote.html',1,'QuantLib']]],
-  ['quotes_48',['quotes',['../class_quant_lib_1_1_commodity_index.html#a036758493110cb0f3acf413839ced60d',1,'QuantLib::CommodityIndex']]]
+  ['quote_47',['Quote',['../class_quant_lib_1_1_quote.html',1,'QuantLib']]]
 ];

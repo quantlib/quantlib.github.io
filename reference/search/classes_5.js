@@ -85,5 +85,6 @@ var searchData=
   ['frhicp_82',['FRHICP',['../class_quant_lib_1_1_f_r_h_i_c_p.html',1,'QuantLib']]],
   ['futuresconvadjustmentquote_83',['FuturesConvAdjustmentQuote',['../class_quant_lib_1_1_futures_conv_adjustment_quote.html',1,'QuantLib']]],
   ['futuresratehelper_84',['FuturesRateHelper',['../class_quant_lib_1_1_futures_rate_helper.html',1,'QuantLib']]],
-  ['fxswapratehelper_85',['FxSwapRateHelper',['../class_quant_lib_1_1_fx_swap_rate_helper.html',1,'QuantLib']]]
+  ['fxforward_85',['FxForward',['../class_quant_lib_1_1_fx_forward.html',1,'QuantLib']]],
+  ['fxswapratehelper_86',['FxSwapRateHelper',['../class_quant_lib_1_1_fx_swap_rate_helper.html',1,'QuantLib']]]
 ];
