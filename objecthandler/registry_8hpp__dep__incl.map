@@ -1,8 +1,13 @@
 <map id="registry.hpp" name="registry.hpp">
-<area shape="rect" id="node1" title="Class Registry &#45; A registry of enumerated types and classes." alt="" coords="31,5,130,32"/>
-<area shape="rect" id="node2" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="13,80,148,107"/>
-<area shape="rect" id="node3" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="19,155,142,181"/>
-<area shape="rect" id="node4" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="11,229,150,256"/>
-<area shape="rect" id="node5" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,304,156,331"/>
-<area shape="rect" id="node6" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,379,120,405"/>
+<area shape="rect" id="Node000001" title="Class Registry &#45; A registry of enumerated types and classes." alt="" coords="31,5,130,31"/>
+<area shape="rect" id="Node000002" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="13,79,148,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,83,79,78,79,78,44"/>
+<area shape="rect" id="Node000003" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="19,152,142,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,118,83,152,78,152,78,118"/>
+<area shape="rect" id="Node000004" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="11,225,150,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,191,83,225,78,225,78,191"/>
+<area shape="rect" id="Node000005" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,299,156,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,264,83,299,78,299,78,264"/>
+<area shape="rect" id="Node000006" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,372,120,397"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="83,338,83,372,78,372,78,338"/>
 </map>

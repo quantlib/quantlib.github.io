@@ -1,4 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_object_handler_1_1_registry_manager.html" title=" " alt="" coords="5,5,240,47"/>
-<area shape="rect" id="node2" href="$class_object_handler_1_1_create.html" title="Create the enumerated type associated with a string." alt="" coords="288,13,492,39"/>
+<area shape="rect" id="Node000000" href="$class_object_handler_1_1_repository.html" title="Maintain a store of Objects." alt="" coords="5,5,199,31"/>
+<area shape="rect" id="Node000001" href="$class_object_handler_1_1_repository_x_l.html" title="Excel&#45;specific enhancements to the Repository class." alt="" coords="247,5,456,31"/>
+<area shape="poly" id="edge12_Node000000_Node000001" title=" " alt="" coords="212,15,246,15,246,21,212,21"/>
 </map>

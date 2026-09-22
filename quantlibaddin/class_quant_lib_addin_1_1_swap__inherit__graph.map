@@ -1,8 +1,13 @@
 <map id="QuantLibAddin::Swap" name="QuantLibAddin::Swap">
-<area shape="rect" id="node1" title=" " alt="" coords="508,64,668,91"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_asset_swap.html" title=" " alt="" coords="720,5,916,32"/>
-<area shape="rect" id="node5" href="$class_quant_lib_addin_1_1_overnight_indexed_swap.html" title=" " alt="" coords="723,57,913,98"/>
-<area shape="rect" id="node6" href="$class_quant_lib_addin_1_1_vanilla_swap.html" title=" " alt="" coords="716,123,920,149"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="264,64,460,91"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,57,216,98"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,63,668,88"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_asset_swap.html" title=" " alt="" coords="720,5,916,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="653,57,715,41,765,28,767,33,717,46,654,62"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_overnight_indexed_swap.html" title=" " alt="" coords="723,55,913,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="682,73,723,73,723,78,682,78"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_vanilla_swap.html" title=" " alt="" coords="716,120,920,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="654,89,717,105,767,117,765,123,715,110,653,94"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="264,63,460,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,73,508,73,508,78,474,78"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,216,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,73,264,73,264,78,229,78"/>
 </map>

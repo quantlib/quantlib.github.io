@@ -1,18 +1,39 @@
 <map id="typefactory.hpp" name="typefactory.hpp">
-<area shape="rect" id="node1" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="554,5,677,32"/>
-<area shape="rect" id="node2" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="241,87,491,114"/>
-<area shape="rect" id="node10" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="597,244,732,271"/>
-<area shape="rect" id="node16" title=" " alt="" coords="653,80,820,121"/>
-<area shape="rect" id="node3" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,319,295,345"/>
-<area shape="rect" id="node7" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="158,169,289,196"/>
-<area shape="rect" id="node9" href="$registry_8hpp.html" title="Class Registry &#45; A registry of enumerated types and classes." alt="" coords="313,169,525,196"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,393,135,420"/>
-<area shape="rect" id="node5" title=" " alt="" coords="159,393,298,420"/>
-<area shape="rect" id="node6" title=" " alt="" coords="323,393,388,420"/>
-<area shape="rect" id="node8" title=" " alt="" coords="149,244,308,271"/>
-<area shape="rect" id="node12" title=" " alt="" coords="531,319,590,345"/>
-<area shape="rect" id="node14" title=" " alt="" coords="384,244,447,271"/>
-<area shape="rect" id="node15" title=" " alt="" coords="471,244,522,271"/>
-<area shape="rect" id="node11" title=" " alt="" coords="619,319,705,345"/>
-<area shape="rect" id="node13" title=" " alt="" coords="730,319,805,345"/>
+<area shape="rect" id="Node000001" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="554,5,677,31"/>
+<area shape="rect" id="Node000002" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="241,86,491,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,33,416,84,414,79,578,28"/>
+<area shape="rect" id="Node000010" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="597,240,732,265"/>
+<area shape="poly" id="edge20_Node000001_Node000010" title=" " alt="" coords="620,31,662,226,657,227,615,32"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="653,79,820,119"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="635,29,697,69,695,73,632,33"/>
+<area shape="rect" id="Node000003" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,313,295,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,114,196,134,170,149,148,169,130,192,120,214,120,238,131,264,153,288,181,306,178,310,149,292,126,267,115,239,115,213,125,189,144,165,167,145,194,129,251,109"/>
+<area shape="rect" id="Node000007" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="158,167,289,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="346,114,257,162,255,158,344,109"/>
+<area shape="rect" id="Node000009" href="$registry_8hpp.html" title="Class Registry &#45; A registry of enumerated types and classes." alt="" coords="313,167,525,192"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="376,110,406,154,401,157,372,113"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,387,135,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,341,109,383,107,379,202,336"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="159,387,298,412"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="231,339,231,373,226,373,226,339"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="323,387,388,412"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="250,336,324,377,321,382,248,341"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="197,194,172,207,150,224,137,244,136,253,139,264,159,288,185,305,182,309,156,292,134,267,130,254,132,242,146,220,169,203,194,190"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="149,240,308,265"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="227,192,229,226,224,227,222,193"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="409,194,321,267,261,308,258,304,318,263,405,190"/>
+<area shape="poly" id="edge19_Node000009_Node000008" title=" " alt="" coords="390,195,274,237,272,232,388,190"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="459,189,613,234,611,239,458,195"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="531,313,590,339"/>
+<area shape="poly" id="edge16_Node000009_Node000012" title=" " alt="" coords="459,190,499,208,519,222,536,238,553,268,560,299,555,300,548,270,532,242,516,226,497,213,457,195"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="384,240,447,265"/>
+<area shape="poly" id="edge17_Node000009_Node000014" title=" " alt="" coords="421,192,419,227,414,226,416,192"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="471,240,522,265"/>
+<area shape="poly" id="edge18_Node000009_Node000015" title=" " alt="" coords="434,190,476,229,472,232,430,194"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="597,268,309,314,308,309,597,262"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="619,313,705,339"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="667,266,666,300,660,300,662,266"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="649,268,591,307,588,303,646,263"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="730,313,805,339"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="683,263,741,303,738,307,680,268"/>
 </map>

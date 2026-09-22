@@ -1,6 +1,41 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,88,105"/>
-<area shape="rect" id="node2" href="$classgensrc_1_1configuration_1_1environment_1_1_environment.html" title=" " alt="" coords="136,5,381,47"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1serialization_1_1factory_1_1_factory.html" title=" " alt="" coords="158,71,359,112"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1utilities_1_1log_1_1_log.html" title=" " alt="" coords="174,137,343,163"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="155,5,244,31"/>
+<area shape="rect" id="Node000001" href="$classgensrc_1_1patterns_1_1singleton_1_1_singleton.html" title=" " alt="" coords="383,26,573,66"/>
+<area shape="poly" id="edge45_Node000000_Node000001" title=" " alt="" coords="258,21,383,34,382,39,258,26"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="168,385,231,411"/>
+<area shape="poly" id="edge55_Node000002_Node000001" title=" " alt="" coords="202,371,214,310,239,230,258,188,280,147,308,109,341,76,360,63,381,54,383,59,363,68,344,80,312,112,285,150,263,190,244,232,220,312,207,372"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1addins_1_1addinlist_1_1_addin_list.html" title=" " alt="" coords="390,90,566,130"/>
+<area shape="poly" id="edge46_Node000002_Node000003" title=" " alt="" coords="205,371,221,322,249,259,288,194,313,165,341,140,364,126,389,117,391,122,366,131,344,144,317,169,292,198,253,261,226,323,210,373"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1categories_1_1categorylist_1_1_category_list.html" title=" " alt="" coords="367,154,589,194"/>
+<area shape="poly" id="edge47_Node000002_Node000004" title=" " alt="" coords="210,372,229,334,258,288,296,242,341,204,365,191,368,196,344,208,300,246,263,291,234,337,214,374"/>
+<area shape="rect" id="Node000005" href="$classgensrc_1_1enumerations_1_1enumerationlist_1_1_enumeration_list.html" title=" " alt="" coords="343,218,613,258"/>
+<area shape="poly" id="edge48_Node000002_Node000005" title=" " alt="" coords="218,373,270,320,304,291,341,268,370,256,372,260,344,272,307,296,273,324,222,377"/>
+<area shape="rect" id="Node000006" href="$classgensrc_1_1functions_1_1behavior_1_1_behavior_member.html" title=" " alt="" coords="381,282,575,322"/>
+<area shape="poly" id="edge49_Node000002_Node000006" title=" " alt="" coords="236,377,286,354,342,331,382,320,383,325,344,337,288,359,238,382"/>
+<area shape="rect" id="Node000007" href="$classgensrc_1_1functions_1_1behavior_1_1_behavior_procedure.html" title=" " alt="" coords="381,346,575,386"/>
+<area shape="poly" id="edge50_Node000002_Node000007" title=" " alt="" coords="244,390,381,374,381,380,245,396"/>
+<area shape="rect" id="Node000008" href="$classgensrc_1_1functions_1_1behaviorloop_1_1_behavior_loop.html" title=" " alt="" coords="367,410,589,450"/>
+<area shape="poly" id="edge51_Node000002_Node000008" title=" " alt="" coords="245,400,366,415,366,420,244,406"/>
+<area shape="rect" id="Node000012" href="$classgensrc_1_1serialization_1_1serializable_1_1_serializable.html" title=" " alt="" coords="362,474,594,514"/>
+<area shape="poly" id="edge56_Node000002_Node000012" title=" " alt="" coords="238,414,288,437,344,459,383,471,382,476,342,465,286,442,236,419"/>
+<area shape="rect" id="Node000013" href="$classgensrc_1_1serialization_1_1serializer_1_1_serializer.html" title=" " alt="" coords="370,538,586,578"/>
+<area shape="poly" id="edge57_Node000002_Node000013" title=" " alt="" coords="222,419,273,472,307,500,344,524,372,536,370,540,341,528,304,505,270,476,218,423"/>
+<area shape="rect" id="Node000015" href="$classgensrc_1_1types_1_1fulltype_1_1_full_type.html" title=" " alt="" coords="370,603,586,628"/>
+<area shape="poly" id="edge59_Node000002_Node000015" title=" " alt="" coords="214,422,234,460,262,505,299,551,344,588,371,600,369,605,341,592,295,554,258,509,229,463,209,425"/>
+<area shape="rect" id="Node000016" href="$classgensrc_1_1types_1_1typelist_1_1_type_list.html" title=" " alt="" coords="371,652,585,677"/>
+<area shape="poly" id="edge60_Node000002_Node000016" title=" " alt="" coords="211,423,227,471,254,530,293,590,317,616,344,638,372,652,369,657,341,643,313,620,289,593,250,533,222,473,205,425"/>
+<area shape="rect" id="Node000017" href="$classgensrc_1_1utilities_1_1outputfile_1_1_output_file.html" title=" " alt="" coords="384,702,572,742"/>
+<area shape="poly" id="edge61_Node000002_Node000017" title=" " alt="" coords="208,424,222,480,248,551,266,589,288,625,314,659,344,688,363,700,385,709,383,714,361,705,341,692,310,663,284,628,262,592,243,553,217,481,203,425"/>
+<area shape="rect" id="Node000009" href="$classgensrc_1_1functions_1_1behaviorloop_1_1_behavior_member_loop.html" title=" " alt="" coords="661,378,884,418"/>
+<area shape="poly" id="edge52_Node000008_Node000009" title=" " alt="" coords="603,414,661,407,662,413,603,419"/>
+<area shape="rect" id="Node000011" href="$classgensrc_1_1functions_1_1behaviorloop_1_1_behavior_procedure_loop.html" title=" " alt="" coords="661,442,884,482"/>
+<area shape="poly" id="edge54_Node000008_Node000011" title=" " alt="" coords="603,441,662,447,661,453,603,446"/>
+<area shape="rect" id="Node000010" href="$classgensrc_1_1functions_1_1behaviorloop_1_1_behavior_enumeration_loop.html" title=" " alt="" coords="932,378,1155,418"/>
+<area shape="poly" id="edge53_Node000009_Node000010" title=" " alt="" coords="898,395,932,395,932,401,898,401"/>
+<area shape="rect" id="Node000014" href="$classgensrc_1_1serialization_1_1xmlreader_1_1_xml_reader.html" title=" " alt="" coords="661,538,884,578"/>
+<area shape="poly" id="edge58_Node000013_Node000014" title=" " alt="" coords="600,555,661,555,661,561,600,561"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="5,63,56,88"/>
+<area shape="rect" id="Node000018" href="$classgensrc_1_1patterns_1_1singleton_1_1_meta_singleton.html" title=" " alt="" coords="104,55,295,95"/>
+<area shape="poly" id="edge62_Node000019_Node000018" title=" " alt="" coords="70,73,104,73,104,78,70,78"/>
+<area shape="poly" id="edge63_Node000018_Node000001" title=" " alt="" coords="308,61,382,53,383,59,309,67"/>
 </map>

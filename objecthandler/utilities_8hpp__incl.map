@@ -1,13 +1,25 @@
 <map id="utilities.hpp" name="utilities.hpp">
-<area shape="rect" id="node1" title="ObjectHandler utilities." alt="" coords="465,5,563,32"/>
-<area shape="rect" id="node2" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,155,295,181"/>
-<area shape="rect" id="node6" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="341,80,476,107"/>
-<area shape="rect" id="node8" title=" " alt="" coords="530,155,589,181"/>
-<area shape="rect" id="node10" title=" " alt="" coords="552,80,615,107"/>
-<area shape="rect" id="node11" title=" " alt="" coords="639,80,805,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,229,135,256"/>
-<area shape="rect" id="node4" title=" " alt="" coords="159,229,298,256"/>
-<area shape="rect" id="node5" title=" " alt="" coords="323,229,388,256"/>
-<area shape="rect" id="node7" title=" " alt="" coords="320,155,407,181"/>
-<area shape="rect" id="node9" title=" " alt="" coords="431,155,506,181"/>
+<area shape="rect" id="Node000001" title="ObjectHandler utilities." alt="" coords="465,5,563,31"/>
+<area shape="rect" id="Node000002" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,152,295,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,32,399,51,330,81,286,112,250,144,247,140,282,108,327,76,397,46,464,27"/>
+<area shape="rect" id="Node000006" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="341,79,476,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="499,33,438,73,436,69,496,28"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="530,152,589,177"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="520,30,554,138,549,140,515,32"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="552,79,615,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="527,29,565,67,561,71,524,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="639,79,805,104"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="548,28,676,72,674,77,547,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,135,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,180,109,222,107,217,202,175"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,225,298,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,178,231,212,226,212,226,178"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="323,225,388,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,175,324,216,321,221,248,180"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="381,107,272,149,270,144,379,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="320,152,407,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="403,106,380,142,376,139,399,103"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="434,102,523,144,521,148,432,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="431,152,506,177"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="421,103,452,140,448,143,417,106"/>
 </map>

@@ -1,13 +1,30 @@
 <map id="leg.hpp" name="leg.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="129,5,200,32"/>
-<area shape="rect" id="node2" href="$bonds_8hpp.html" title=" " alt="" coords="37,80,127,107"/>
-<area shape="rect" id="node4" href="$qladdin_8hpp.html" title=" " alt="" coords="342,304,441,331"/>
-<area shape="rect" id="node5" href="$couponvectors_8hpp.html" title=" " alt="" coords="260,80,405,107"/>
-<area shape="rect" id="node3" href="$btp_8hpp.html" title=" " alt="" coords="5,155,76,181"/>
-<area shape="rect" id="node6" href="$conundrumpricer_8hpp.html" title=" " alt="" coords="253,229,412,256"/>
-<area shape="rect" id="node7" href="$rangeaccrual_8hpp.html" title=" " alt="" coords="377,155,512,181"/>
-<area shape="rect" id="node8" href="$swap_8hpp.html" title=" " alt="" coords="556,155,640,181"/>
-<area shape="rect" id="node9" href="$assetswap_8hpp.html" title=" " alt="" coords="539,229,657,256"/>
-<area shape="rect" id="node10" href="$overnightindexedswap_8hpp.html" title=" " alt="" coords="682,229,879,256"/>
-<area shape="rect" id="node11" href="$vanillaswap_8hpp.html" title=" " alt="" coords="903,229,1031,256"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,5,200,31"/>
+<area shape="rect" id="Node000002" href="$bonds_8hpp.html" title=" " alt="" coords="37,79,127,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,42,97,80,94,76,139,38"/>
+<area shape="rect" id="Node000004" href="$qladdin_8hpp.html" title=" " alt="" coords="342,299,441,324"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="167,44,169,88,178,142,197,199,211,225,229,249,254,269,283,285,343,302,341,307,281,290,251,274,225,253,207,228,192,201,173,144,164,88,162,44"/>
+<area shape="rect" id="Node000005" href="$couponvectors_8hpp.html" title=" " alt="" coords="260,79,405,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,34,306,76,304,81,203,38"/>
+<area shape="rect" id="Node000003" href="$btp_8hpp.html" title=" " alt="" coords="5,152,76,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,117,50,153,45,151,66,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="88,117,94,148,105,183,123,219,148,249,169,265,193,277,245,295,296,305,342,308,341,313,296,310,243,300,191,282,167,269,144,253,118,222,100,185,89,149,82,118"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="308,115,277,142,249,177,240,195,235,214,235,232,243,249,263,270,288,285,315,296,342,302,341,307,314,301,285,290,259,274,238,252,230,233,229,213,235,193,245,174,273,138,304,111"/>
+<area shape="rect" id="Node000006" href="$conundrumpricer_8hpp.html" title=" " alt="" coords="253,225,412,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="335,118,335,225,330,225,330,118"/>
+<area shape="rect" id="Node000007" href="$rangeaccrual_8hpp.html" title=" " alt="" coords="377,152,512,177"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="364,109,428,150,425,154,361,114"/>
+<area shape="rect" id="Node000008" href="$swap_8hpp.html" title=" " alt="" coords="556,152,640,177"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="389,105,557,150,555,155,388,110"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="353,260,384,297,380,300,349,263"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="443,192,426,252,401,300,396,297,421,250,437,190"/>
+<area shape="poly" id="edge14_Node000008_Node000004" title=" " alt="" coords="572,188,409,301,406,296,569,183"/>
+<area shape="rect" id="Node000009" href="$assetswap_8hpp.html" title=" " alt="" coords="539,225,657,251"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="601,191,601,225,595,225,595,191"/>
+<area shape="rect" id="Node000010" href="$overnightindexedswap_8hpp.html" title=" " alt="" coords="682,225,879,251"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="641,180,752,223,750,228,639,185"/>
+<area shape="rect" id="Node000011" href="$vanillaswap_8hpp.html" title=" " alt="" coords="903,225,1031,251"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="654,174,908,223,907,228,653,179"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="553,258,426,301,424,296,551,253"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="890,254,441,307,440,302,889,248"/>
 </map>

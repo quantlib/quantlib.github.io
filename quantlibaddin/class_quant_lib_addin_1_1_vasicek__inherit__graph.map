@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::Vasicek" name="QuantLibAddin::Vasicek">
-<area shape="rect" id="node1" title=" " alt="" coords="13,169,188,196"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_hull_white.html" title=" " alt="" coords="6,244,195,271"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_one_factor_affine_model.html" title=" " alt="" coords="5,80,196,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="51,5,151,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,167,188,192"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_hull_white.html" title=" " alt="" coords="6,240,195,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="103,206,103,240,98,240,98,206"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_one_factor_affine_model.html" title=" " alt="" coords="5,79,196,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,132,103,166,98,166,98,132"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,5,151,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,44,103,79,98,79,98,44"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="basketlossmodels.hpp" name="basketlossmodels.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="56,5,223,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,108,107"/>
-<area shape="rect" id="node3" href="$baseinstruments_8hpp.html" title=" " alt="" coords="132,80,315,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="147,155,299,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,5,223,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,33,82,72,79,67,124,29"/>
+<area shape="rect" id="Node000003" href="$baseinstruments_8hpp.html" title=" " alt="" coords="132,79,315,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,29,201,67,197,72,151,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="147,152,299,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,104,226,138,221,138,221,104"/>
 </map>

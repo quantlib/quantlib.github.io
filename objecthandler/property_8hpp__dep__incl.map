@@ -1,29 +1,68 @@
 <map id="property.hpp" name="property.hpp">
-<area shape="rect" id="node1" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="825,5,927,32"/>
-<area shape="rect" id="node2" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="409,453,548,480"/>
-<area shape="rect" id="node5" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="699,80,826,107"/>
-<area shape="rect" id="node22" href="$scalartooper_8hpp.html" title="Conversion function scalarToOper &#45; convert an Excel OPER to a scalar value." alt="" coords="1143,379,1273,405"/>
-<area shape="rect" id="node25" href="$convert__oper_8hpp.html" title="Class ConvertOper &#45; Perform datatype conversions of OPERs." alt="" coords="905,379,1039,405"/>
-<area shape="rect" id="node3" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="323,603,474,629"/>
-<area shape="rect" id="node4" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="359,677,438,704"/>
-<area shape="rect" id="node6" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="579,155,669,181"/>
-<area shape="rect" id="node18" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="257,229,431,256"/>
-<area shape="rect" id="node19" href="$vo__group_8hpp_source.html" title=" " alt="" coords="707,155,818,181"/>
-<area shape="rect" id="node21" href="$vo__range_8hpp_source.html" title=" " alt="" coords="842,155,953,181"/>
-<area shape="rect" id="node7" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="713,379,799,405"/>
-<area shape="rect" id="node10" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="558,304,690,331"/>
-<area shape="rect" id="node11" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="286,304,429,331"/>
-<area shape="rect" id="node17" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="714,304,801,331"/>
-<area shape="rect" id="node8" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="573,453,723,480"/>
-<area shape="rect" id="node9" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="939,528,1005,555"/>
-<area shape="rect" id="node12" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="285,379,397,405"/>
-<area shape="rect" id="node13" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="421,379,536,405"/>
-<area shape="rect" id="node15" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="5,379,160,405"/>
-<area shape="rect" id="node14" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="257,453,385,480"/>
-<area shape="rect" id="node16" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="17,453,148,480"/>
-<area shape="rect" id="node20" href="$vo__all_8hpp_source.html" title=" " alt="" coords="863,229,953,256"/>
-<area shape="rect" id="node23" href="$matrixtooper_8hpp.html" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="1062,453,1197,480"/>
-<area shape="rect" id="node24" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="1221,453,1353,480"/>
-<area shape="rect" id="node26" href="$opertomatrix_8hpp.html" title="Conversion function operToMatrix &#45; convert an OPER to a matrix." alt="" coords="747,453,882,480"/>
-<area shape="rect" id="node27" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="906,453,1038,480"/>
+<area shape="rect" id="Node000001" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="489,5,592,31"/>
+<area shape="rect" id="Node000002" href="$convert__oper_8hpp.html" title="Class ConvertOper &#45; Perform datatype conversions of OPERs." alt="" coords="163,372,297,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,30,414,44,352,70,326,87,305,108,291,134,286,164,286,240,281,279,268,317,240,373,235,371,263,315,276,278,281,239,281,163,286,132,301,105,322,83,350,65,413,39,475,25"/>
+<area shape="rect" id="Node000008" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="686,445,825,471"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="606,23,720,40,849,67,907,86,955,108,987,133,996,148,999,163,999,239,998,288,992,327,976,363,945,399,922,414,888,427,810,448,809,443,887,422,920,409,942,395,972,360,987,326,993,288,994,239,994,164,991,150,983,137,952,112,905,91,848,73,719,45,605,29"/>
+<area shape="rect" id="Node000009" href="$scalartooper_8hpp.html" title="Conversion function scalarToOper &#45; convert an Excel OPER to a scalar value." alt="" coords="322,372,453,397"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="501,39,465,59,429,87,401,122,393,142,390,164,390,239,390,372,385,372,385,239,385,163,388,140,396,119,425,83,462,55,499,34"/>
+<area shape="rect" id="Node000012" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="592,79,719,104"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="572,35,638,76,635,81,569,40"/>
+<area shape="rect" id="Node000003" href="$opertomatrix_8hpp.html" title="Conversion function operToMatrix &#45; convert an OPER to a matrix." alt="" coords="5,445,140,471"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,405,99,448,97,443,191,401"/>
+<area shape="rect" id="Node000007" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="164,445,296,471"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="233,411,233,445,227,445,227,411"/>
+<area shape="rect" id="Node000004" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="511,519,578,544"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,469,511,522,510,528,154,474"/>
+<area shape="rect" id="Node000005" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="888,592,1039,617"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="592,538,896,589,896,595,591,543"/>
+<area shape="rect" id="Node000006" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="924,665,1003,691"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="966,631,966,665,961,665,961,631"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="294,471,512,520,511,525,293,476"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="785,476,948,590,945,594,782,481"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="462,397,564,420,604,432,625,443,631,455,631,467,618,488,595,507,571,521,568,516,592,502,614,485,626,466,626,456,621,447,602,437,563,425,461,403"/>
+<area shape="rect" id="Node000010" href="$matrixtooper_8hpp.html" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="320,445,455,471"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="390,411,390,445,385,445,385,411"/>
+<area shape="rect" id="Node000011" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="479,445,611,471"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="426,401,520,443,518,448,424,405"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="426,474,520,516,518,521,424,479"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="547,484,547,519,542,519,542,484"/>
+<area shape="rect" id="Node000013" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="610,152,701,177"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="658,118,658,152,653,152,653,118"/>
+<area shape="rect" id="Node000024" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="784,225,959,251"/>
+<area shape="poly" id="edge42_Node000012_Node000024" title=" " alt="" coords="685,109,855,223,852,227,682,114"/>
+<area shape="poly" id="edge24_Node000013_Node000008" title=" " alt="" coords="606,184,549,207,496,239,476,258,463,278,459,299,467,323,486,349,510,372,537,392,567,408,628,431,686,445,685,450,627,436,564,413,534,396,506,376,482,353,462,325,454,300,458,276,472,254,493,235,547,202,604,179"/>
+<area shape="rect" id="Node000014" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="684,372,771,397"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="666,190,726,371,721,372,661,192"/>
+<area shape="rect" id="Node000016" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="476,299,608,324"/>
+<area shape="poly" id="edge22_Node000013_Node000016" title=" " alt="" coords="614,185,585,203,561,227,552,245,547,264,544,299,539,298,542,263,547,243,557,224,582,199,611,181"/>
+<area shape="rect" id="Node000017" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="764,299,907,324"/>
+<area shape="poly" id="edge25_Node000013_Node000017" title=" " alt="" coords="682,184,823,296,819,301,679,188"/>
+<area shape="rect" id="Node000023" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="571,225,657,251"/>
+<area shape="poly" id="edge37_Node000013_Node000023" title=" " alt="" coords="644,191,623,227,618,224,639,188"/>
+<area shape="poly" id="edge39_Node000013_Node000024" title=" " alt="" coords="704,179,837,223,836,228,702,184"/>
+<area shape="poly" id="edge21_Node000014_Node000008" title=" " alt="" coords="739,409,753,444,748,446,735,411"/>
+<area shape="rect" id="Node000015" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="849,445,1000,471"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="773,399,893,443,891,448,771,404"/>
+<area shape="poly" id="edge20_Node000015_Node000004" title=" " alt="" coords="851,476,579,526,578,521,850,471"/>
+<area shape="poly" id="edge23_Node000016_Node000008" title=" " alt="" coords="562,333,592,364,629,395,677,423,724,443,722,448,675,428,626,400,588,368,558,337"/>
+<area shape="rect" id="Node000018" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="1171,372,1326,397"/>
+<area shape="poly" id="edge26_Node000017_Node000018" title=" " alt="" coords="916,324,1183,369,1182,375,915,329"/>
+<area shape="rect" id="Node000021" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="795,372,907,397"/>
+<area shape="poly" id="edge31_Node000017_Node000021" title=" " alt="" coords="844,337,851,371,846,372,838,338"/>
+<area shape="rect" id="Node000022" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="1033,372,1147,397"/>
+<area shape="poly" id="edge33_Node000017_Node000022" title=" " alt="" coords="890,325,1049,369,1048,374,889,330"/>
+<area shape="poly" id="edge28_Node000018_Node000005" title=" " alt="" coords="1231,410,1166,473,1067,544,985,594,982,590,1064,540,1163,469,1228,406"/>
+<area shape="rect" id="Node000019" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="1227,445,1358,471"/>
+<area shape="poly" id="edge27_Node000018_Node000019" title=" " alt="" coords="1265,408,1288,444,1283,447,1261,411"/>
+<area shape="rect" id="Node000020" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="1025,445,1153,471"/>
+<area shape="poly" id="edge29_Node000018_Node000020" title=" " alt="" coords="1212,405,1116,448,1114,443,1210,400"/>
+<area shape="poly" id="edge30_Node000020_Node000005" title=" " alt="" coords="1072,483,975,594,971,590,1068,480"/>
+<area shape="poly" id="edge32_Node000021_Node000008" title=" " alt="" coords="826,408,773,447,769,443,823,403"/>
+<area shape="poly" id="edge35_Node000022_Node000008" title=" " alt="" coords="1023,403,810,448,809,443,1022,398"/>
+<area shape="poly" id="edge34_Node000022_Node000015" title=" " alt="" coords="1052,405,953,448,951,443,1050,400"/>
+<area shape="poly" id="edge36_Node000022_Node000020" title=" " alt="" coords="1092,411,1092,445,1086,445,1087,411"/>
+<area shape="poly" id="edge38_Node000023_Node000008" title=" " alt="" coords="621,263,639,327,654,363,675,396,703,423,734,443,731,447,700,427,671,399,650,365,634,329,616,265"/>
+<area shape="poly" id="edge40_Node000024_Node000008" title=" " alt="" coords="897,259,911,277,922,298,932,326,937,350,935,373,921,399,903,414,874,427,806,448,804,443,872,422,900,409,917,396,929,372,932,350,926,327,917,300,907,280,893,263"/>
+<area shape="poly" id="edge41_Node000024_Node000017" title=" " alt="" coords="862,264,844,300,839,297,857,262"/>
 </map>

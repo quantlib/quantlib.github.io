@@ -1,4 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,13,207,39"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_piecewise_constant_abcd_variance.html" title=" " alt="" coords="255,5,445,47"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,205,112,230"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_flat_smile_section.html" title=" " alt="" coords="183,5,370,45"/>
+<area shape="poly" id="edge227_Node000000_Node000001" title=" " alt="" coords="67,191,100,123,126,86,158,55,182,42,184,46,162,59,130,90,105,126,71,193"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_interpolated_smile_section.html" title=" " alt="" coords="175,69,379,109"/>
+<area shape="poly" id="edge228_Node000000_Node000002" title=" " alt="" coords="77,192,112,154,159,119,184,107,187,112,161,124,116,158,81,195"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_sabr_interpolated_smile_section.html" title=" " alt="" coords="160,133,393,173"/>
+<area shape="poly" id="edge229_Node000000_Node000003" title=" " alt="" coords="111,198,159,183,201,171,202,176,161,188,113,203"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_sabr_smile_section.html" title=" " alt="" coords="181,197,372,237"/>
+<area shape="poly" id="edge230_Node000000_Node000004" title=" " alt="" coords="126,215,181,215,181,220,126,220"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_sabr_smile_section_impl.html" title=" " alt="" coords="181,261,372,301"/>
+<area shape="poly" id="edge231_Node000000_Node000005" title=" " alt="" coords="113,232,161,247,202,259,201,264,159,252,111,237"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_smile_section_by_cube.html" title=" " alt="" coords="171,325,382,365"/>
+<area shape="poly" id="edge232_Node000000_Node000006" title=" " alt="" coords="81,239,116,276,161,311,187,323,184,328,159,316,112,280,77,243"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_addin_1_1_smile_section_from_sabr_vol_surface.html" title=" " alt="" coords="171,389,382,429"/>
+<area shape="poly" id="edge233_Node000000_Node000007" title=" " alt="" coords="71,242,105,309,130,345,162,375,181,387,179,392,158,379,126,348,100,312,67,244"/>
 </map>

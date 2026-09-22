@@ -1,4 +1,5 @@
 <map id="QuantLibAddin::RangeAccrualFloatersCoupon" name="QuantLibAddin::RangeAccrualFloatersCoupon">
-<area shape="rect" id="node1" title=" " alt="" coords="21,109,235,151"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,251,61"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,108,235,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,251,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,74,131,108,125,108,125,74"/>
 </map>

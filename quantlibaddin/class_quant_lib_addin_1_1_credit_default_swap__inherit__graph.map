@@ -1,5 +1,7 @@
 <map id="QuantLibAddin::CreditDefaultSwap" name="QuantLibAddin::CreditDefaultSwap">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,252,196"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="31,95,227,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="23,5,234,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,252,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="31,93,227,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,132,131,167,126,167,126,132"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,5,234,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,59,131,93,126,93,126,59"/>
 </map>

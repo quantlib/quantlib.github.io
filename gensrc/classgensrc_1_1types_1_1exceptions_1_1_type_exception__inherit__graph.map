@@ -1,7 +1,11 @@
 <map id="gensrc.types.exceptions.TypeException" name="gensrc.types.exceptions.TypeException">
-<area shape="rect" id="node1" title=" " alt="" coords="184,71,368,112"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_native_type_exception.html" title=" " alt="" coords="433,5,635,47"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_super_type_name_exception.html" title=" " alt="" coords="416,71,652,112"/>
-<area shape="rect" id="node5" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_type_name_exception.html" title=" " alt="" coords="435,136,633,177"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,78,136,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="260,69,444,109"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_native_type_exception.html" title=" " alt="" coords="509,5,711,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="446,63,528,43,530,48,447,69"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_super_type_name_exception.html" title=" " alt="" coords="492,69,728,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="458,87,492,87,492,92,458,92"/>
+<area shape="rect" id="Node000005" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_type_name_exception.html" title=" " alt="" coords="511,133,709,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="447,110,530,131,528,136,446,115"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,77,212,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,87,260,87,260,92,226,92"/>
 </map>

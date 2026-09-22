@@ -1,7 +1,12 @@
 <map id="stickyratchet.hpp" name="stickyratchet.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="89,5,223,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,155,157,181"/>
-<area shape="rect" id="node3" title=" " alt="" coords="40,80,272,107"/>
-<area shape="rect" id="node4" href="$payoffs_8hpp.html" title=" " alt="" coords="296,80,419,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="259,155,455,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,223,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,157,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,33,61,51,44,64,30,80,26,96,31,112,42,127,56,141,52,145,38,131,26,114,21,96,26,77,40,60,58,46,98,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="40,79,272,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,31,159,65,153,65,153,31"/>
+<area shape="rect" id="Node000004" href="$payoffs_8hpp.html" title=" " alt="" coords="296,79,419,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,28,313,71,311,77,187,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="314,107,140,151,139,146,312,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="259,152,455,177"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="360,104,360,138,355,138,355,104"/>
 </map>

@@ -1,6 +1,7 @@
 <map id="gensrc.rules.exceptions.RuleCodeInvalidException" name="gensrc.rules.exceptions.RuleCodeInvalidException">
-<area shape="rect" id="node1" title=" " alt="" coords="71,185,263,227"/>
-<area shape="rect" id="node2" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_exception.html" title=" " alt="" coords="5,81,185,123"/>
-<area shape="rect" id="node3" title=" " alt="" coords="30,5,161,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="210,89,269,115"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,167,205,207"/>
+<area shape="rect" id="Node000002" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_exception.html" title=" " alt="" coords="19,79,199,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,133,111,166,106,166,106,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
 </map>

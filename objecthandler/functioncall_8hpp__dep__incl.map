@@ -1,9 +1,17 @@
 <map id="functioncall.hpp" name="functioncall.hpp">
-<area shape="rect" id="node1" title="Class FunctionCall &#45; Handle state related to the function in progress." alt="" coords="215,5,342,32"/>
-<area shape="rect" id="node2" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="5,80,136,107"/>
-<area shape="rect" id="node3" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="161,80,293,107"/>
-<area shape="rect" id="node5" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="255,229,406,256"/>
-<area shape="rect" id="node7" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="368,155,496,181"/>
-<area shape="rect" id="node4" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="211,155,277,181"/>
-<area shape="rect" id="node6" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="291,304,370,331"/>
+<area shape="rect" id="Node000001" title="Class FunctionCall &#45; Handle state related to the function in progress." alt="" coords="161,5,287,31"/>
+<area shape="rect" id="Node000002" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="5,79,136,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,39,97,81,95,76,186,34"/>
+<area shape="rect" id="Node000003" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="199,225,350,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,44,203,72,194,106,192,142,201,176,211,191,223,204,252,223,249,227,220,208,207,194,196,178,187,143,189,105,198,71,209,42"/>
+<area shape="rect" id="Node000005" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="211,152,339,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="235,43,273,151,268,153,230,45"/>
+<area shape="rect" id="Node000006" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="322,79,454,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="264,34,362,76,360,81,262,39"/>
+<area shape="rect" id="Node000004" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="235,299,314,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,264,277,299,272,299,272,264"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="277,191,277,225,272,225,272,191"/>
+<area shape="rect" id="Node000007" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="363,152,429,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="393,117,397,152,392,152,388,118"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="366,187,296,227,293,223,363,182"/>
 </map>

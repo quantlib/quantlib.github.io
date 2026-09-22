@@ -1,46 +1,89 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,765,136,791"/>
-<area shape="rect" id="node2" href="$classgensrc_1_1addins_1_1cppexceptions_1_1_cpp_exception.html" title=" " alt="" coords="212,128,427,169"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_exception.html" title=" " alt="" coords="206,193,433,235"/>
-<area shape="rect" id="node8" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_serialization_exception.html" title=" " alt="" coords="184,275,455,316"/>
-<area shape="rect" id="node10" href="$classgensrc_1_1categories_1_1exceptions_1_1_category_exception.html" title=" " alt="" coords="211,372,427,413"/>
-<area shape="rect" id="node12" href="$classgensrc_1_1configuration_1_1exceptions_1_1_configuration_exception.html" title=" " alt="" coords="203,463,436,504"/>
-<area shape="rect" id="node15" href="$classgensrc_1_1functions_1_1exceptions_1_1_function_exception.html" title=" " alt="" coords="215,659,423,700"/>
-<area shape="rect" id="node20" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_exception.html" title=" " alt="" coords="208,855,431,896"/>
-<area shape="rect" id="node25" href="$classgensrc_1_1patterns_1_1exceptions_1_1_pattern_exception.html" title=" " alt="" coords="218,1051,421,1092"/>
-<area shape="rect" id="node28" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_exception.html" title=" " alt="" coords="229,1148,409,1189"/>
-<area shape="rect" id="node30" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_exception.html" title=" " alt="" coords="205,1409,433,1451"/>
-<area shape="rect" id="node38" href="$classgensrc_1_1types_1_1exceptions_1_1_type_exception.html" title=" " alt="" coords="227,1736,411,1777"/>
-<area shape="rect" id="node42" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_exception.html" title=" " alt="" coords="221,1900,418,1941"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_cell_name_exception.html" title=" " alt="" coords="531,5,757,47"/>
-<area shape="rect" id="node5" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_parameter_count_exception.html" title=" " alt="" coords="531,71,757,112"/>
-<area shape="rect" id="node6" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_parameter_length_exception.html" title=" " alt="" coords="528,136,760,177"/>
-<area shape="rect" id="node7" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_string_length_exception.html" title=" " alt="" coords="531,201,757,243"/>
-<area shape="rect" id="node9" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_invalid_class_exception.html" title=" " alt="" coords="509,267,779,308"/>
-<area shape="rect" id="node11" href="$classgensrc_1_1categories_1_1exceptions_1_1_duplicate_name_exception.html" title=" " alt="" coords="536,332,752,373"/>
-<area shape="rect" id="node13" href="$classgensrc_1_1configuration_1_1exceptions_1_1_invalid_core_path_exception.html" title=" " alt="" coords="527,397,761,439"/>
-<area shape="rect" id="node14" href="$classgensrc_1_1configuration_1_1exceptions_1_1_invalid_relative_path_exception.html" title=" " alt="" coords="527,463,761,504"/>
-<area shape="rect" id="node16" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_default_exception.html" title=" " alt="" coords="533,528,755,569"/>
-<area shape="rect" id="node17" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_non_vector_exception.html" title=" " alt="" coords="523,593,765,635"/>
-<area shape="rect" id="node18" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_parameter_exception.html" title=" " alt="" coords="523,659,765,700"/>
-<area shape="rect" id="node19" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_return_non_vector_exception.html" title=" " alt="" coords="517,724,771,765"/>
-<area shape="rect" id="node21" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_duplicate_name_exception.html" title=" " alt="" coords="517,789,771,831"/>
-<area shape="rect" id="node22" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_illegal_name_exception.html" title=" " alt="" coords="528,855,760,896"/>
-<area shape="rect" id="node23" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_name_capitalization_exception.html" title=" " alt="" coords="503,920,785,961"/>
-<area shape="rect" id="node24" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_name_null_exception.html" title=" " alt="" coords="533,985,755,1027"/>
-<area shape="rect" id="node26" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_call_exception.html" title=" " alt="" coords="543,1051,745,1092"/>
-<area shape="rect" id="node27" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_override_new_exception.html" title=" " alt="" coords="528,1116,760,1157"/>
-<area shape="rect" id="node29" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_code_invalid_exception.html" title=" " alt="" coords="548,1181,740,1223"/>
-<area shape="rect" id="node31" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_convert_boolean_exception.html" title=" " alt="" coords="509,1247,779,1288"/>
-<area shape="rect" id="node32" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_creator_exception.html" title=" " alt="" coords="530,1312,758,1353"/>
-<area shape="rect" id="node33" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_dict_exception.html" title=" " alt="" coords="530,1377,758,1419"/>
-<area shape="rect" id="node34" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_duplicate_key_exception.html" title=" " alt="" coords="517,1443,771,1484"/>
-<area shape="rect" id="node35" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_element_missing_exception.html" title=" " alt="" coords="509,1508,779,1549"/>
-<area shape="rect" id="node36" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_override_exception.html" title=" " alt="" coords="530,1573,758,1615"/>
-<area shape="rect" id="node37" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_parse_exception.html" title=" " alt="" coords="530,1639,758,1680"/>
-<area shape="rect" id="node39" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_native_type_exception.html" title=" " alt="" coords="543,1704,745,1745"/>
-<area shape="rect" id="node40" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_super_type_name_exception.html" title=" " alt="" coords="526,1769,762,1811"/>
-<area shape="rect" id="node41" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_type_name_exception.html" title=" " alt="" coords="545,1835,743,1876"/>
-<area shape="rect" id="node43" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_serialization_exception.html" title=" " alt="" coords="535,1900,753,1941"/>
-<area shape="rect" id="node44" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_serialization_list_exception.html" title=" " alt="" coords="523,1965,765,2007"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,749,212,774"/>
+<area shape="rect" id="Node000001" href="$classgensrc_1_1addins_1_1cppexceptions_1_1_cpp_exception.html" title=" " alt="" coords="288,125,503,165"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="111,735,127,615,158,447,178,361,202,283,228,219,243,194,258,175,286,157,289,161,262,179,247,197,233,221,207,285,183,363,163,448,133,616,116,735"/>
+<area shape="rect" id="Node000002" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_exception.html" title=" " alt="" coords="282,189,509,229"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="107,734,113,645,120,584,133,517,152,448,178,379,213,313,258,255,278,239,300,227,303,232,281,244,262,259,218,316,183,381,157,449,138,518,126,585,118,645,113,735"/>
+<area shape="rect" id="Node000007" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_serialization_exception.html" title=" " alt="" coords="260,269,531,309"/>
+<area shape="poly" id="edge8_Node000000_Node000007" title=" " alt="" coords="110,735,122,662,148,560,167,505,191,451,222,399,258,351,290,325,326,307,328,312,293,330,262,355,226,402,196,453,172,507,153,562,127,663,115,736"/>
+<area shape="rect" id="Node000009" href="$classgensrc_1_1categories_1_1exceptions_1_1_category_exception.html" title=" " alt="" coords="287,365,503,405"/>
+<area shape="poly" id="edge10_Node000000_Node000009" title=" " alt="" coords="113,734,129,675,157,597,200,513,227,474,258,439,287,418,318,403,321,408,289,423,262,443,231,478,204,516,162,599,134,677,118,736"/>
+<area shape="rect" id="Node000011" href="$classgensrc_1_1configuration_1_1exceptions_1_1_configuration_exception.html" title=" " alt="" coords="279,453,512,493"/>
+<area shape="poly" id="edge12_Node000000_Node000011" title=" " alt="" coords="130,737,372,492,376,495,134,741"/>
+<area shape="rect" id="Node000014" href="$classgensrc_1_1functions_1_1exceptions_1_1_function_exception.html" title=" " alt="" coords="291,645,499,685"/>
+<area shape="poly" id="edge15_Node000000_Node000014" title=" " alt="" coords="160,742,333,683,335,688,162,747"/>
+<area shape="rect" id="Node000019" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_exception.html" title=" " alt="" coords="284,837,507,877"/>
+<area shape="poly" id="edge20_Node000000_Node000019" title=" " alt="" coords="162,776,335,835,333,840,160,781"/>
+<area shape="rect" id="Node000024" href="$classgensrc_1_1patterns_1_1exceptions_1_1_pattern_exception.html" title=" " alt="" coords="294,1029,497,1069"/>
+<area shape="poly" id="edge25_Node000000_Node000024" title=" " alt="" coords="134,782,376,1027,372,1031,130,786"/>
+<area shape="rect" id="Node000027" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_exception.html" title=" " alt="" coords="305,1125,485,1165"/>
+<area shape="poly" id="edge28_Node000000_Node000027" title=" " alt="" coords="118,786,135,845,163,923,205,1005,232,1044,262,1079,295,1105,331,1123,329,1128,292,1109,258,1083,227,1048,201,1008,158,925,130,847,113,788"/>
+<area shape="rect" id="Node000029" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_exception.html" title=" " alt="" coords="281,1381,509,1421"/>
+<area shape="poly" id="edge30_Node000000_Node000029" title=" " alt="" coords="120,787,173,953,215,1065,262,1176,327,1293,382,1380,378,1383,322,1296,258,1179,210,1067,168,955,115,788"/>
+<area shape="rect" id="Node000037" href="$classgensrc_1_1types_1_1exceptions_1_1_type_exception.html" title=" " alt="" coords="303,1701,487,1741"/>
+<area shape="poly" id="edge38_Node000000_Node000037" title=" " alt="" coords="116,788,133,893,164,1053,207,1242,233,1339,263,1432,293,1512,328,1588,385,1700,380,1702,323,1590,288,1514,257,1434,228,1340,202,1243,158,1054,128,894,111,789"/>
+<area shape="rect" id="Node000041" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_exception.html" title=" " alt="" coords="297,1861,494,1901"/>
+<area shape="poly" id="edge42_Node000000_Node000041" title=" " alt="" coords="114,788,129,973,158,1257,178,1407,202,1547,230,1666,246,1714,262,1752,284,1785,310,1814,364,1859,361,1863,307,1818,280,1788,258,1755,241,1716,225,1668,197,1548,173,1408,152,1257,123,973,109,788"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_cell_name_exception.html" title=" " alt="" coords="607,5,833,45"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="519,183,529,175,541,161,548,147,552,117,556,86,564,70,577,55,605,38,608,43,580,59,568,73,561,87,557,118,553,149,546,164,532,179,522,187"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_parameter_count_exception.html" title=" " alt="" coords="607,69,833,109"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="518,181,529,175,544,162,552,148,561,133,577,119,605,106,608,110,580,124,565,137,557,151,548,165,532,180,520,186"/>
+<area shape="rect" id="Node000005" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_parameter_length_exception.html" title=" " alt="" coords="604,133,836,173"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="522,185,603,171,604,176,523,190"/>
+<area shape="rect" id="Node000006" href="$classgensrc_1_1addins_1_1excelexceptions_1_1_excel_string_length_exception.html" title=" " alt="" coords="607,197,833,237"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="522,210,606,212,606,217,522,215"/>
+<area shape="rect" id="Node000008" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_invalid_class_exception.html" title=" " alt="" coords="585,261,855,301"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="544,283,585,282,585,287,544,288"/>
+<area shape="rect" id="Node000010" href="$classgensrc_1_1categories_1_1exceptions_1_1_duplicate_name_exception.html" title=" " alt="" coords="612,325,828,365"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="517,368,611,356,612,361,517,373"/>
+<area shape="rect" id="Node000012" href="$classgensrc_1_1configuration_1_1exceptions_1_1_invalid_core_path_exception.html" title=" " alt="" coords="603,389,837,429"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="510,448,618,427,619,432,511,453"/>
+<area shape="rect" id="Node000013" href="$classgensrc_1_1configuration_1_1exceptions_1_1_invalid_relative_path_exception.html" title=" " alt="" coords="603,453,837,493"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="526,471,603,471,603,476,526,476"/>
+<area shape="rect" id="Node000015" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_default_exception.html" title=" " alt="" coords="609,517,831,557"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="439,636,503,600,578,567,616,555,617,560,580,572,506,605,442,640"/>
+<area shape="rect" id="Node000016" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_non_vector_exception.html" title=" " alt="" coords="599,581,841,621"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="510,640,618,619,619,624,511,645"/>
+<area shape="rect" id="Node000017" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_loop_parameter_exception.html" title=" " alt="" coords="599,645,841,685"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="513,663,598,663,598,668,513,668"/>
+<area shape="rect" id="Node000018" href="$classgensrc_1_1functions_1_1exceptions_1_1_behavior_return_non_vector_exception.html" title=" " alt="" coords="593,709,847,749"/>
+<area shape="poly" id="edge19_Node000014_Node000018" title=" " alt="" coords="511,685,619,707,618,712,510,691"/>
+<area shape="rect" id="Node000020" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_duplicate_name_exception.html" title=" " alt="" coords="593,773,847,813"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="510,832,618,811,619,816,511,837"/>
+<area shape="rect" id="Node000021" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_illegal_name_exception.html" title=" " alt="" coords="604,837,836,877"/>
+<area shape="poly" id="edge22_Node000019_Node000021" title=" " alt="" coords="521,855,604,855,604,860,521,860"/>
+<area shape="rect" id="Node000022" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_name_capitalization_exception.html" title=" " alt="" coords="579,901,861,941"/>
+<area shape="poly" id="edge23_Node000019_Node000022" title=" " alt="" coords="511,877,619,899,618,904,510,883"/>
+<area shape="rect" id="Node000023" href="$classgensrc_1_1parameters_1_1exceptions_1_1_parameter_name_null_exception.html" title=" " alt="" coords="609,965,831,1005"/>
+<area shape="poly" id="edge24_Node000019_Node000023" title=" " alt="" coords="442,882,506,918,580,951,617,963,616,968,578,956,503,923,439,887"/>
+<area shape="rect" id="Node000025" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_call_exception.html" title=" " alt="" coords="619,1029,821,1069"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="510,1047,619,1047,619,1052,510,1052"/>
+<area shape="rect" id="Node000026" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_override_new_exception.html" title=" " alt="" coords="604,1093,836,1133"/>
+<area shape="poly" id="edge27_Node000024_Node000026" title=" " alt="" coords="511,1069,618,1091,617,1096,510,1074"/>
+<area shape="rect" id="Node000028" href="$classgensrc_1_1rules_1_1exceptions_1_1_rule_code_invalid_exception.html" title=" " alt="" coords="624,1157,816,1197"/>
+<area shape="poly" id="edge29_Node000027_Node000028" title=" " alt="" coords="499,1153,624,1165,624,1171,499,1158"/>
+<area shape="rect" id="Node000030" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_convert_boolean_exception.html" title=" " alt="" coords="585,1221,855,1261"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="428,1370,494,1319,535,1293,578,1271,610,1259,612,1264,580,1276,538,1298,497,1324,431,1374"/>
+<area shape="rect" id="Node000031" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_creator_exception.html" title=" " alt="" coords="606,1285,834,1325"/>
+<area shape="poly" id="edge32_Node000029_Node000031" title=" " alt="" coords="461,1374,578,1335,623,1323,625,1328,579,1340,462,1379"/>
+<area shape="rect" id="Node000032" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_dict_exception.html" title=" " alt="" coords="606,1349,834,1389"/>
+<area shape="poly" id="edge33_Node000029_Node000032" title=" " alt="" coords="523,1386,606,1378,606,1383,523,1391"/>
+<area shape="rect" id="Node000033" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_duplicate_key_exception.html" title=" " alt="" coords="593,1413,847,1453"/>
+<area shape="poly" id="edge34_Node000029_Node000033" title=" " alt="" coords="523,1411,594,1418,593,1424,523,1417"/>
+<area shape="rect" id="Node000034" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_element_missing_exception.html" title=" " alt="" coords="585,1477,855,1517"/>
+<area shape="poly" id="edge35_Node000029_Node000034" title=" " alt="" coords="462,1424,579,1463,625,1475,623,1480,578,1468,461,1429"/>
+<area shape="rect" id="Node000035" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_override_exception.html" title=" " alt="" coords="606,1541,834,1581"/>
+<area shape="poly" id="edge36_Node000029_Node000035" title=" " alt="" coords="431,1428,497,1479,538,1505,580,1527,612,1539,610,1544,578,1532,535,1510,494,1484,428,1433"/>
+<area shape="rect" id="Node000036" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_parse_exception.html" title=" " alt="" coords="606,1605,834,1645"/>
+<area shape="poly" id="edge37_Node000029_Node000036" title=" " alt="" coords="420,1432,448,1469,485,1512,530,1555,580,1591,607,1603,605,1608,577,1596,526,1559,481,1516,444,1472,415,1435"/>
+<area shape="rect" id="Node000038" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_native_type_exception.html" title=" " alt="" coords="619,1669,821,1709"/>
+<area shape="poly" id="edge39_Node000037_Node000038" title=" " alt="" coords="501,1708,618,1697,619,1702,502,1714"/>
+<area shape="rect" id="Node000039" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_super_type_name_exception.html" title=" " alt="" coords="602,1733,838,1773"/>
+<area shape="poly" id="edge40_Node000037_Node000039" title=" " alt="" coords="501,1729,602,1739,602,1744,501,1734"/>
+<area shape="rect" id="Node000040" href="$classgensrc_1_1types_1_1exceptions_1_1_invalid_type_name_exception.html" title=" " alt="" coords="621,1797,819,1837"/>
+<area shape="poly" id="edge41_Node000037_Node000040" title=" " alt="" coords="462,1744,579,1783,625,1795,623,1800,578,1788,461,1749"/>
+<area shape="rect" id="Node000042" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_serialization_exception.html" title=" " alt="" coords="611,1861,829,1901"/>
+<area shape="poly" id="edge43_Node000041_Node000042" title=" " alt="" coords="508,1879,610,1879,610,1884,508,1884"/>
+<area shape="rect" id="Node000043" href="$classgensrc_1_1utilities_1_1exceptions_1_1_utilities_serialization_list_exception.html" title=" " alt="" coords="599,1925,841,1965"/>
+<area shape="poly" id="edge44_Node000041_Node000043" title=" " alt="" coords="508,1901,618,1923,617,1928,507,1906"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="gensrc.patterns.exceptions.PatternException" name="gensrc.patterns.exceptions.PatternException">
-<area shape="rect" id="node1" title=" " alt="" coords="184,39,387,80"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_call_exception.html" title=" " alt="" coords="449,5,652,47"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_override_new_exception.html" title=" " alt="" coords="435,71,667,112"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,46,136,73"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="260,37,463,77"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_call_exception.html" title=" " alt="" coords="525,5,728,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="476,41,525,35,525,40,477,46"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1patterns_1_1exceptions_1_1_singleton_override_new_exception.html" title=" " alt="" coords="511,69,743,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,69,511,73,510,78,476,74"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,45,212,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,55,260,55,260,60,225,60"/>
 </map>

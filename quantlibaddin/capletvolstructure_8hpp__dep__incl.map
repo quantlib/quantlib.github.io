@@ -1,4 +1,5 @@
 <map id="capletvolstructure.hpp" name="capletvolstructure.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,173,32"/>
-<area shape="rect" id="node2" href="$qladdin_8hpp.html" title=" " alt="" coords="40,80,139,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,173,31"/>
+<area shape="rect" id="Node000002" href="$qladdin_8hpp.html" title=" " alt="" coords="40,79,139,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,44,92,79,87,79,87,44"/>
 </map>

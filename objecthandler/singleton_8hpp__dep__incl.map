@@ -1,10 +1,18 @@
 <map id="singleton.hpp" name="singleton.hpp">
-<area shape="rect" id="node1" title="basic support for the singleton pattern" alt="" coords="155,5,265,32"/>
-<area shape="rect" id="node2" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="5,80,140,107"/>
-<area shape="rect" id="node7" href="$logger_8hpp.html" title="Logger class wrapper for logging framework." alt="" coords="165,80,255,107"/>
-<area shape="rect" id="node8" href="$configuration_8hpp.html" title="Class Configuration &#45; Global configuration information." alt="" coords="208,155,343,181"/>
-<area shape="rect" id="node3" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="45,155,167,181"/>
-<area shape="rect" id="node4" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="59,229,198,256"/>
-<area shape="rect" id="node5" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="107,304,257,331"/>
-<area shape="rect" id="node6" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="143,379,221,405"/>
+<area shape="rect" id="Node000001" title="basic support for the singleton pattern" alt="" coords="159,5,269,31"/>
+<area shape="rect" id="Node000002" href="$configuration_8hpp.html" title="Class Configuration &#45; Global configuration information." alt="" coords="5,152,140,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,41,136,81,104,119,82,153,77,150,100,116,132,77,182,36"/>
+<area shape="rect" id="Node000005" href="$enumregistry_8hpp.html" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="147,79,281,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="217,44,217,79,211,79,211,44"/>
+<area shape="rect" id="Node000008" href="$logger_8hpp.html" title="Logger class wrapper for logging framework." alt="" coords="306,79,397,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="249,34,330,76,328,81,247,39"/>
+<area shape="rect" id="Node000003" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="73,299,224,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,188,145,297,140,300,83,191"/>
+<area shape="rect" id="Node000004" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="109,372,188,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,338,151,372,146,372,146,338"/>
+<area shape="rect" id="Node000006" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="165,152,287,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="221,117,227,151,221,152,216,118"/>
+<area shape="rect" id="Node000007" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="145,225,283,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="224,192,219,226,213,225,219,191"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="196,263,161,300,157,297,192,259"/>
 </map>

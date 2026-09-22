@@ -1,5 +1,7 @@
 <map id="gensrc.categories.exceptions.CategoryException" name="gensrc.categories.exceptions.CategoryException">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,221,121"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1categories_1_1exceptions_1_1_duplicate_name_exception.html" title=" " alt="" coords="5,169,221,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="48,5,179,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,221,119"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1categories_1_1exceptions_1_1_duplicate_name_exception.html" title=" " alt="" coords="5,167,221,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,133,116,166,111,166,111,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,44,116,79,111,79,111,44"/>
 </map>

@@ -1,7 +1,11 @@
 <map id="enumregistry.hpp" name="enumregistry.hpp">
-<area shape="rect" id="node1" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="13,5,148,32"/>
-<area shape="rect" id="node2" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="19,80,142,107"/>
-<area shape="rect" id="node3" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="11,155,150,181"/>
-<area shape="rect" id="node4" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,229,156,256"/>
-<area shape="rect" id="node5" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,304,120,331"/>
+<area shape="rect" id="Node000001" title="EnumRegistry Classes &#45; Concrete implementations of class Registry." alt="" coords="13,5,148,31"/>
+<area shape="rect" id="Node000002" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="19,79,142,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,83,79,78,79,78,44"/>
+<area shape="rect" id="Node000003" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="11,152,150,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,118,83,152,78,152,78,118"/>
+<area shape="rect" id="Node000004" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,225,156,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,191,83,225,78,225,78,191"/>
+<area shape="rect" id="Node000005" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,299,120,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,264,83,299,78,299,78,264"/>
 </map>

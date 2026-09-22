@@ -1,5 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,97,73"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_alpha_form_inverse_linear.html" title=" " alt="" coords="145,5,340,47"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_alpha_form_linear_hyperbolic.html" title=" " alt="" coords="145,71,340,112"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,55,81,80"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_american_exercise.html" title=" " alt="" coords="132,5,373,31"/>
+<area shape="poly" id="edge36_Node000000_Node000001" title=" " alt="" coords="94,49,129,39,180,28,181,33,130,45,95,54"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_bermudan_exercise.html" title=" " alt="" coords="129,55,376,80"/>
+<area shape="poly" id="edge37_Node000000_Node000002" title=" " alt="" coords="95,65,129,65,129,70,95,70"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_european_exercise.html" title=" " alt="" coords="133,104,373,129"/>
+<area shape="poly" id="edge38_Node000000_Node000003" title=" " alt="" coords="95,80,130,89,187,101,185,107,129,94,94,85"/>
 </map>

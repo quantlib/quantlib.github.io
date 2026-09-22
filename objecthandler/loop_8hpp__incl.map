@@ -1,52 +1,172 @@
 <map id="loop.hpp" name="loop.hpp">
-<area shape="rect" id="node1" title="Support for Excel functions which loop on an input value." alt="" coords="367,5,445,32"/>
-<area shape="rect" id="node2" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="508,80,691,107"/>
-<area shape="rect" id="node45" href="$xlutilities_8hpp.html" title="General utility functions for the Excel platform." alt="" coords="183,603,379,629"/>
-<area shape="rect" id="node3" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="2165,229,2324,256"/>
-<area shape="rect" id="node33" href="$configuration_8hpp.html" title="Class Configuration &#45; Global configuration information." alt="" coords="516,155,683,181"/>
-<area shape="rect" id="node35" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="1970,304,2157,331"/>
-<area shape="rect" id="node36" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="375,229,535,256"/>
-<area shape="rect" id="node39" href="$functioncall_8hpp.html" title="Class FunctionCall &#45; Handle state related to the function in progress." alt="" coords="251,528,409,555"/>
-<area shape="rect" id="node41" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="984,155,1164,181"/>
-<area shape="rect" id="node4" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="1295,841,1429,868"/>
-<area shape="rect" id="node8" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="2256,528,2367,555"/>
-<area shape="rect" id="node13" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="2082,677,2205,704"/>
-<area shape="rect" id="node14" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="2784,759,2919,786"/>
-<area shape="rect" id="node20" href="$utilities_8hpp.html" title="ObjectHandler utilities." alt="" coords="2476,677,2595,704"/>
-<area shape="rect" id="node24" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="2333,304,2485,331"/>
-<area shape="rect" id="node25" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="1527,304,1661,331"/>
-<area shape="rect" id="node27" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="1855,453,2050,480"/>
-<area shape="rect" id="node29" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="1762,379,1869,405"/>
-<area shape="rect" id="node30" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="2277,453,2383,480"/>
-<area shape="rect" id="node31" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="2610,379,2847,405"/>
-<area shape="rect" id="node32" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="1813,304,1945,331"/>
-<area shape="rect" id="node5" title=" " alt="" coords="1139,916,1268,943"/>
-<area shape="rect" id="node6" title=" " alt="" coords="1293,916,1431,943"/>
-<area shape="rect" id="node7" title=" " alt="" coords="1456,916,1521,943"/>
-<area shape="rect" id="node9" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="2166,603,2313,629"/>
-<area shape="rect" id="node10" title=" " alt="" coords="2322,841,2381,868"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1552,759,1615,786"/>
-<area shape="rect" id="node16" title=" " alt="" coords="2982,841,3057,868"/>
-<area shape="rect" id="node22" title=" " alt="" coords="896,603,1055,629"/>
-<area shape="rect" id="node23" title=" " alt="" coords="2387,603,2462,629"/>
-<area shape="rect" id="node12" title=" " alt="" coords="1754,677,1805,704"/>
-<area shape="rect" id="node18" title=" " alt="" coords="2171,752,2313,793"/>
-<area shape="rect" id="node17" title=" " alt="" coords="1791,759,1927,786"/>
-<area shape="rect" id="node19" title=" " alt="" coords="1952,752,2095,793"/>
-<area shape="rect" id="node15" title=" " alt="" coords="2808,841,2895,868"/>
-<area shape="rect" id="node21" title=" " alt="" coords="2491,759,2657,786"/>
-<area shape="rect" id="node26" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="1994,379,2157,405"/>
-<area shape="rect" id="node28" href="$iless_8hpp.html" title="is_less comparison functors and less predicates" alt="" coords="1536,379,1636,405"/>
-<area shape="rect" id="node34" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="855,528,986,555"/>
-<area shape="rect" id="node37" title=" " alt="" coords="103,677,274,704"/>
-<area shape="rect" id="node38" href="$ohxldefines_8hpp_source.html" title=" " alt="" coords="403,603,561,629"/>
-<area shape="rect" id="node40" href="$xloper_8hpp.html" title="Class Xloper &#45; Perform RAII for Excel&#39;s XLOPER datatype." alt="" coords="35,603,158,629"/>
-<area shape="rect" id="node42" href="$coerce_8hpp.html" title="Class Coerce &#45; Support for automatic conversion of datatypes." alt="" coords="2922,677,3117,704"/>
-<area shape="rect" id="node43" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="1467,229,1721,256"/>
-<area shape="rect" id="node44" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="585,528,832,555"/>
-<area shape="rect" id="node46" href="$opertomatrix_8hpp.html" title="Conversion function operToMatrix &#45; convert an OPER to a matrix." alt="" coords="1161,379,1411,405"/>
-<area shape="rect" id="node47" href="$scalartooper_8hpp.html" title="Conversion function scalarToOper &#45; convert an Excel OPER to a scalar value." alt="" coords="1131,603,1375,629"/>
-<area shape="rect" id="node48" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="740,453,987,480"/>
-<area shape="rect" id="node49" href="$matrixtooper_8hpp.html" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="1213,528,1461,555"/>
-<area shape="rect" id="node50" href="$validations_8hpp.html" title="Miscellaneous validation routines." alt="" coords="585,603,821,629"/>
+<area shape="rect" id="Node000001" title="Support for Excel functions which loop on an input value." alt="" coords="367,5,445,31"/>
+<area shape="rect" id="Node000002" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="508,79,691,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,28,556,71,554,76,436,33"/>
+<area shape="rect" id="Node000061" href="$xlutilities_8hpp.html" title="General utility functions for the Excel platform." alt="" coords="183,592,379,617"/>
+<area shape="poly" id="edge120_Node000001_Node000061" title=" " alt="" coords="367,32,320,49,270,77,248,94,231,114,220,137,215,164,215,459,217,484,221,502,240,543,265,580,260,583,236,545,216,504,212,485,210,459,210,163,215,136,227,111,245,90,267,72,318,45,366,27"/>
+<area shape="rect" id="Node000003" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="2165,225,2324,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="691,91,962,97,1320,108,1674,125,1822,136,1933,149,2007,164,2080,182,2200,218,2199,223,2079,187,2006,169,1932,155,1821,142,1674,130,1320,113,961,102,691,97"/>
+<area shape="rect" id="Node000048" href="$configuration_8hpp.html" title="Class Configuration &#45; Global configuration information." alt="" coords="516,152,683,177"/>
+<area shape="poly" id="edge70_Node000002_Node000048" title=" " alt="" coords="602,104,602,138,597,138,597,104"/>
+<area shape="rect" id="Node000049" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="1970,299,2157,324"/>
+<area shape="poly" id="edge74_Node000002_Node000049" title=" " alt="" coords="691,96,882,111,1141,137,1436,174,1733,223,1886,258,2013,292,2011,297,1885,263,1732,228,1435,179,1140,142,881,117,691,101"/>
+<area shape="rect" id="Node000050" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="375,225,535,251"/>
+<area shape="poly" id="edge76_Node000002_Node000050" title=" " alt="" coords="575,106,540,126,505,154,483,184,468,214,463,211,479,181,502,150,537,122,572,102"/>
+<area shape="rect" id="Node000053" href="$functioncall_8hpp.html" title="Class FunctionCall &#45; Handle state related to the function in progress." alt="" coords="251,519,409,544"/>
+<area shape="poly" id="edge119_Node000002_Node000053" title=" " alt="" coords="508,97,428,107,388,117,350,130,316,149,290,172,272,201,266,237,266,386,271,420,283,453,315,506,310,509,278,455,266,421,261,386,261,236,267,199,286,169,313,144,347,126,386,112,427,102,508,92"/>
+<area shape="rect" id="Node000055" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="984,152,1164,177"/>
+<area shape="poly" id="edge87_Node000002_Node000055" title=" " alt="" coords="676,101,985,147,984,153,675,107"/>
+<area shape="rect" id="Node000004" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="1295,827,1429,852"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2165,243,1995,247,1790,257,1611,274,1549,286,1516,301,1492,328,1480,354,1476,381,1476,409,1483,471,1482,506,1475,545,1458,601,1442,643,1402,740,1374,814,1369,813,1397,738,1437,641,1453,599,1470,543,1477,506,1477,471,1471,410,1470,381,1475,353,1488,325,1513,297,1548,281,1610,269,1790,252,1994,242,2165,238"/>
+<area shape="rect" id="Node000008" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="2256,519,2367,544"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="2325,245,2428,264,2471,278,2498,297,2526,323,2534,332,2536,344,2527,361,2507,385,2423,473,2391,497,2357,516,2354,511,2388,493,2419,469,2503,382,2522,358,2530,343,2530,334,2522,326,2495,301,2469,283,2427,269,2324,250"/>
+<area shape="rect" id="Node000015" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="2082,665,2205,691"/>
+<area shape="poly" id="edge55_Node000003_Node000015" title=" " alt="" coords="2245,251,2229,325,2191,458,2174,517,2157,592,2148,652,2143,651,2152,592,2169,515,2186,457,2224,323,2240,250"/>
+<area shape="rect" id="Node000016" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="2784,746,2919,771"/>
+<area shape="poly" id="edge54_Node000003_Node000016" title=" " alt="" coords="2325,238,2485,246,2578,255,2670,269,2754,287,2822,311,2849,326,2870,343,2883,362,2887,383,2887,606,2885,641,2879,676,2863,734,2858,732,2874,675,2880,641,2882,606,2882,384,2878,364,2866,347,2846,331,2820,316,2752,292,2669,274,2577,261,2484,252,2324,243"/>
+<area shape="rect" id="Node000024" href="$utilities_8hpp.html" title="ObjectHandler utilities." alt="" coords="2476,665,2595,691"/>
+<area shape="poly" id="edge53_Node000003_Node000024" title=" " alt="" coords="2325,246,2442,265,2495,279,2530,296,2552,315,2566,333,2573,355,2575,383,2575,533,2573,566,2566,599,2548,653,2543,652,2561,598,2568,565,2570,533,2570,383,2568,356,2561,336,2548,319,2527,301,2493,284,2441,271,2324,251"/>
+<area shape="rect" id="Node000028" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="2333,299,2485,324"/>
+<area shape="poly" id="edge38_Node000003_Node000028" title=" " alt="" coords="2272,248,2371,291,2369,296,2270,253"/>
+<area shape="rect" id="Node000029" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="1527,299,1661,324"/>
+<area shape="poly" id="edge40_Node000003_Node000029" title=" " alt="" coords="2165,251,1676,304,1675,299,2165,245"/>
+<area shape="rect" id="Node000033" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="1855,445,2050,471"/>
+<area shape="poly" id="edge62_Node000003_Node000033" title=" " alt="" coords="2243,252,2212,330,2191,372,2171,399,2146,416,2120,430,2065,447,2063,442,2118,425,2144,412,2167,395,2186,369,2207,328,2238,250"/>
+<area shape="rect" id="Node000041" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="1762,372,1869,397"/>
+<area shape="poly" id="edge56_Node000003_Node000041" title=" " alt="" coords="2166,247,1947,267,1851,283,1819,291,1803,301,1796,313,1795,328,1805,359,1800,360,1790,329,1791,312,1799,297,1817,286,1850,277,1946,262,2165,242"/>
+<area shape="rect" id="Node000042" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="2277,445,2383,471"/>
+<area shape="poly" id="edge59_Node000003_Node000042" title=" " alt="" coords="2252,250,2323,431,2318,433,2247,252"/>
+<area shape="rect" id="Node000043" href="$typefactory_8hpp.html" title="Class RegistryManager &#45; Manage access to an Enumeration Registry." alt="" coords="2610,372,2847,397"/>
+<area shape="poly" id="edge63_Node000003_Node000043" title=" " alt="" coords="2325,242,2452,259,2523,274,2592,296,2655,328,2705,361,2702,366,2652,332,2590,301,2522,280,2451,264,2324,247"/>
+<area shape="rect" id="Node000047" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="1813,299,1945,324"/>
+<area shape="poly" id="edge65_Node000003_Node000047" title=" " alt="" coords="2187,253,1952,299,1951,293,2186,248"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="1139,900,1268,925"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1338,854,1243,897,1241,892,1336,850"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1293,900,1431,925"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1365,852,1365,886,1359,886,1359,852"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1456,900,1521,925"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1384,850,1457,891,1455,895,1381,854"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="2280,547,2155,594,2098,620,2009,660,1918,693,1848,707,1792,711,1737,718,1707,726,1673,741,1659,750,1651,760,1642,771,1627,781,1582,801,1534,815,1443,833,1442,828,1533,810,1580,796,1625,776,1638,767,1647,757,1656,746,1670,736,1705,721,1736,712,1791,706,1847,702,1916,688,2007,655,2096,615,2153,590,2278,542"/>
+<area shape="rect" id="Node000009" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="2166,592,2313,617"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="2301,546,2263,584,2259,580,2298,542"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="2322,827,2381,852"/>
+<area shape="poly" id="edge35_Node000008_Node000010" title=" " alt="" coords="2368,539,2448,560,2495,576,2542,597,2588,623,2630,655,2665,693,2693,738,2700,759,2699,770,2692,780,2671,796,2641,809,2560,826,2471,836,2395,840,2394,834,2470,830,2559,821,2639,804,2669,791,2688,777,2693,768,2695,760,2688,740,2661,696,2626,659,2585,628,2540,602,2493,581,2447,565,2366,544"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1552,746,1615,771"/>
+<area shape="poly" id="edge34_Node000008_Node000011" title=" " alt="" coords="2269,547,2111,595,2041,621,1987,645,1933,669,1862,693,1798,709,1748,718,1698,726,1635,741,1626,744,1624,739,1633,736,1697,721,1747,712,1797,704,1860,688,1931,664,1985,641,2039,616,2109,589,2268,542"/>
+<area shape="poly" id="edge32_Node000008_Node000016" title=" " alt="" coords="2367,532,2462,537,2575,547,2680,564,2722,575,2753,590,2770,610,2794,649,2841,733,2836,735,2789,651,2765,613,2750,594,2720,580,2679,569,2575,552,2462,542,2367,537"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="2982,827,3057,852"/>
+<area shape="poly" id="edge36_Node000008_Node000018" title=" " alt="" coords="2367,530,2544,534,2657,541,2775,552,2890,569,2994,592,3038,607,3077,623,3108,642,3131,664,3142,685,3143,707,3136,729,3123,750,3087,790,3050,821,3046,816,3084,786,3119,747,3131,727,3138,706,3137,686,3127,667,3105,646,3074,628,3036,612,2992,597,2889,574,2775,558,2656,547,2543,540,2367,535"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="896,592,1055,617"/>
+<area shape="poly" id="edge33_Node000008_Node000026" title=" " alt="" coords="2256,537,1788,558,1118,595,1069,598,1069,593,1118,589,1788,553,2256,532"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="2387,592,2462,617"/>
+<area shape="poly" id="edge37_Node000008_Node000027" title=" " alt="" coords="2331,542,2396,582,2393,587,2328,546"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="2251,616,2287,667,2327,738,2341,777,2350,813,2345,814,2336,778,2322,740,2283,670,2246,619"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="2199,620,1912,693,1629,752,1628,746,1911,688,2198,615"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1754,665,1805,691"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="2166,620,1819,673,1818,668,2166,615"/>
+<area shape="poly" id="edge13_Node000009_Node000015" title=" " alt="" coords="2226,620,2172,659,2169,655,2222,615"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="2171,739,2313,779"/>
+<area shape="poly" id="edge31_Node000009_Node000020" title=" " alt="" coords="2242,617,2244,725,2239,725,2237,617"/>
+<area shape="poly" id="edge25_Node000009_Node000024" title=" " alt="" coords="2288,615,2475,659,2474,665,2286,620"/>
+<area shape="poly" id="edge14_Node000015_Node000004" title=" " alt="" coords="2082,688,1943,708,1861,723,1780,741,1726,761,1672,781,1553,809,1443,829,1442,824,1551,804,1671,776,1724,756,1779,736,1860,717,1942,702,2081,683"/>
+<area shape="poly" id="edge20_Node000015_Node000010" title=" " alt="" coords="2144,691,2143,733,2149,756,2160,777,2193,803,2231,821,2272,830,2309,835,2308,840,2271,836,2230,826,2190,808,2156,780,2144,758,2138,733,2139,691"/>
+<area shape="poly" id="edge21_Node000015_Node000011" title=" " alt="" coords="2082,691,2064,693,1874,716,1685,741,1629,751,1628,746,1684,736,1874,711,2063,688,2082,686"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="2205,683,2771,746,2770,751,2205,689"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1791,746,1927,771"/>
+<area shape="poly" id="edge22_Node000015_Node000019" title=" " alt="" coords="2103,693,1915,745,1913,740,2101,688"/>
+<area shape="poly" id="edge23_Node000015_Node000020" title=" " alt="" coords="2160,689,2209,728,2206,732,2156,693"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1952,739,2095,779"/>
+<area shape="poly" id="edge24_Node000015_Node000021" title=" " alt="" coords="2127,693,2065,733,2062,729,2124,689"/>
+<area shape="poly" id="edge16_Node000016_Node000004" title=" " alt="" coords="2784,770,2669,781,2310,804,1959,821,1442,839,1442,833,1958,815,2310,799,2669,776,2784,765"/>
+<area shape="poly" id="edge18_Node000016_Node000010" title=" " alt="" coords="2802,774,2765,781,2558,814,2395,835,2394,830,2557,809,2764,776,2801,769"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="2808,827,2895,852"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="2854,772,2854,813,2849,813,2849,772"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="2877,769,2984,819,2982,823,2875,774"/>
+<area shape="poly" id="edge26_Node000024_Node000004" title=" " alt="" coords="2519,693,2437,738,2383,762,2325,781,2248,796,2145,808,1897,825,1642,835,1443,840,1443,834,1642,830,1897,820,2145,803,2247,791,2324,776,2381,757,2435,733,2516,689"/>
+<area shape="poly" id="edge28_Node000024_Node000010" title=" " alt="" coords="2596,688,2637,706,2656,720,2671,737,2679,759,2677,770,2671,780,2652,795,2623,807,2549,824,2466,834,2395,839,2394,834,2465,829,2548,819,2622,802,2649,791,2667,777,2672,768,2674,759,2667,740,2652,724,2635,711,2594,693"/>
+<area shape="poly" id="edge29_Node000024_Node000011" title=" " alt="" coords="2476,686,1780,741,1629,755,1628,750,1779,736,2475,681"/>
+<area shape="poly" id="edge27_Node000024_Node000016" title=" " alt="" coords="2582,688,2793,740,2792,745,2581,693"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="2491,746,2657,771"/>
+<area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="2544,690,2565,732,2560,735,2539,692"/>
+<area shape="poly" id="edge39_Node000028_Node000008" title=" " alt="" coords="2414,324,2417,352,2418,390,2413,432,2398,472,2377,496,2352,514,2349,510,2374,492,2393,469,2408,431,2413,390,2412,352,2408,325"/>
+<area shape="poly" id="edge50_Node000029_Node000004" title=" " alt="" coords="1574,326,1548,346,1526,373,1517,397,1514,418,1518,456,1524,495,1524,518,1519,545,1490,627,1452,704,1412,770,1381,817,1376,814,1408,767,1447,702,1485,625,1514,543,1519,518,1519,496,1512,456,1508,417,1512,395,1521,371,1544,342,1571,322"/>
+<area shape="poly" id="edge52_Node000029_Node000012" title=" " alt="" coords="1608,322,1650,370,1694,447,1731,526,1758,598,1775,651,1770,653,1753,600,1726,528,1690,449,1645,374,1604,326"/>
+<area shape="rect" id="Node000030" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="1994,372,2157,397"/>
+<area shape="poly" id="edge41_Node000029_Node000030" title=" " alt="" coords="1662,320,1985,367,1984,373,1661,325"/>
+<area shape="rect" id="Node000037" href="$iless_8hpp.html" title="is_less comparison functors and less predicates" alt="" coords="1536,372,1636,397"/>
+<area shape="poly" id="edge51_Node000029_Node000037" title=" " alt="" coords="1595,325,1592,359,1586,358,1590,324"/>
+<area shape="poly" id="edge42_Node000030_Node000008" title=" " alt="" coords="2096,395,2282,509,2280,514,2093,400"/>
+<area shape="poly" id="edge49_Node000030_Node000024" title=" " alt="" coords="2157,391,2293,410,2355,425,2397,443,2424,465,2448,491,2486,549,2514,606,2531,651,2526,653,2509,608,2482,552,2444,495,2420,469,2394,448,2353,430,2292,416,2156,396"/>
+<area shape="poly" id="edge43_Node000030_Node000033" title=" " alt="" coords="2057,400,1986,441,1983,436,2054,395"/>
+<area shape="poly" id="edge44_Node000033_Node000004" title=" " alt="" coords="1936,473,1393,821,1390,817,1933,469"/>
+<area shape="poly" id="edge45_Node000033_Node000008" title=" " alt="" coords="2011,468,2243,514,2242,519,2010,473"/>
+<area shape="poly" id="edge46_Node000033_Node000009" title=" " alt="" coords="1968,469,2011,504,2070,542,2127,567,2183,586,2182,591,2126,572,2068,546,2008,508,1964,473"/>
+<area shape="poly" id="edge48_Node000033_Node000010" title=" " alt="" coords="1949,472,1910,545,1867,621,1819,692,1797,715,1789,725,1782,740,1776,760,1776,768,1781,777,1808,790,1860,801,2010,818,2177,829,2308,834,2308,839,2177,834,2009,824,1859,806,1806,795,1778,781,1771,770,1770,760,1777,738,1785,722,1794,712,1815,689,1863,618,1905,543,1944,470"/>
+<area shape="poly" id="edge47_Node000033_Node000012" title=" " alt="" coords="1946,473,1910,520,1875,570,1839,619,1803,658,1799,654,1835,616,1871,567,1905,517,1942,469"/>
+<area shape="poly" id="edge57_Node000041_Node000008" title=" " alt="" coords="1869,395,2063,443,2175,478,2269,511,2267,516,2173,483,2061,448,1868,400"/>
+<area shape="poly" id="edge58_Node000041_Node000011" title=" " alt="" coords="1802,400,1777,421,1750,452,1728,489,1722,509,1719,530,1719,606,1718,632,1713,653,1687,692,1658,716,1617,741,1614,737,1655,712,1683,689,1708,651,1713,631,1714,606,1714,530,1717,508,1723,487,1746,449,1773,418,1798,396"/>
+<area shape="poly" id="edge60_Node000042_Node000008" title=" " alt="" coords="2330,472,2321,506,2315,505,2324,470"/>
+<area shape="poly" id="edge61_Node000042_Node000011" title=" " alt="" coords="2302,473,2115,551,1989,607,1862,668,1840,681,1818,693,1768,711,1727,720,1686,728,1635,741,1626,744,1625,739,1633,736,1685,722,1726,715,1766,706,1816,688,1838,676,1860,663,1987,602,2113,546,2300,468"/>
+<area shape="poly" id="edge64_Node000043_Node000016" title=" " alt="" coords="2747,395,2773,417,2803,448,2827,486,2834,508,2837,530,2837,606,2841,675,2850,732,2844,733,2836,675,2831,606,2831,530,2829,509,2822,488,2799,451,2770,421,2744,399"/>
+<area shape="poly" id="edge67_Node000047_Node000010" title=" " alt="" coords="1894,322,1933,356,1984,395,2327,590,2343,618,2354,648,2364,710,2364,768,2359,813,2353,813,2358,768,2359,710,2348,649,2338,620,2323,594,1981,400,1930,360,1890,326"/>
+<area shape="poly" id="edge66_Node000047_Node000012" title=" " alt="" coords="1885,324,1889,357,1888,378,1883,398,1875,414,1865,424,1855,433,1846,447,1823,502,1805,559,1786,652,1780,651,1800,558,1818,500,1841,444,1851,429,1862,420,1871,411,1878,396,1882,377,1883,358,1879,324"/>
+<area shape="poly" id="edge68_Node000047_Node000026" title=" " alt="" coords="1852,327,1762,361,1648,400,1523,436,1425,460,1326,484,1202,521,1102,556,1017,589,1015,584,1100,551,1200,516,1325,479,1423,455,1522,431,1647,395,1760,356,1850,322"/>
+<area shape="poly" id="edge69_Node000047_Node000030" title=" " alt="" coords="1912,322,2032,365,2030,370,1910,327"/>
+<area shape="rect" id="Node000045" href="$singleton_8hpp.html" title="basic support for the singleton pattern" alt="" coords="855,519,986,544"/>
+<area shape="poly" id="edge71_Node000048_Node000045" title=" " alt="" coords="602,178,602,310,602,386,609,405,628,424,658,443,695,460,779,490,858,513,857,518,777,496,692,465,655,448,625,429,604,408,597,386,597,310,597,178"/>
+<area shape="poly" id="edge72_Node000045_Node000004" title=" " alt="" coords="960,542,1012,561,1068,590,1130,636,1173,680,1214,725,1272,777,1332,817,1329,822,1269,781,1210,729,1169,684,1126,640,1065,594,1010,566,958,547"/>
+<area shape="poly" id="edge73_Node000045_Node000026" title=" " alt="" coords="932,543,960,580,956,583,928,546"/>
+<area shape="poly" id="edge75_Node000049_Node000030" title=" " alt="" coords="2068,324,2074,358,2069,359,2063,325"/>
+<area shape="poly" id="edge77_Node000050_Node000029" title=" " alt="" coords="536,242,1513,302,1513,308,535,247"/>
+<area shape="poly" id="edge80_Node000050_Node000049" title=" " alt="" coords="536,238,1123,254,1533,271,1957,296,1956,301,1533,276,1122,259,536,243"/>
+<area shape="rect" id="Node000051" title=" " alt="" coords="103,665,274,691"/>
+<area shape="poly" id="edge78_Node000050_Node000051" title=" " alt="" coords="429,253,341,295,284,327,223,367,162,413,104,467,53,527,13,593,8,607,10,618,15,629,25,638,54,652,91,663,89,668,52,657,22,642,11,632,5,620,3,606,8,591,49,523,100,463,158,409,220,362,281,323,339,291,426,248"/>
+<area shape="rect" id="Node000052" href="$ohxldefines_8hpp_source.html" title=" " alt="" coords="403,592,561,617"/>
+<area shape="poly" id="edge79_Node000050_Node000052" title=" " alt="" coords="457,251,450,383,450,459,453,492,459,524,475,578,470,580,454,525,447,493,445,459,445,383,452,251"/>
+<area shape="poly" id="edge81_Node000050_Node000053" title=" " alt="" coords="453,252,431,300,343,507,338,505,426,298,448,250"/>
+<area shape="poly" id="edge86_Node000053_Node000026" title=" " alt="" coords="410,539,883,590,882,596,410,544"/>
+<area shape="poly" id="edge82_Node000053_Node000051" title=" " alt="" coords="251,540,185,546,118,556,60,572,39,582,26,594,19,605,19,616,24,625,33,633,64,648,103,660,102,665,62,653,30,638,19,628,13,617,14,604,21,590,37,578,59,567,117,551,185,541,251,534"/>
+<area shape="poly" id="edge83_Node000053_Node000052" title=" " alt="" coords="356,542,446,584,444,589,353,546"/>
+<area shape="rect" id="Node000054" href="$xloper_8hpp.html" title="Class Xloper &#45; Perform RAII for Excel&#39;s XLOPER datatype." alt="" coords="35,592,158,617"/>
+<area shape="poly" id="edge84_Node000053_Node000054" title=" " alt="" coords="293,547,148,591,147,585,292,541"/>
+<area shape="poly" id="edge85_Node000054_Node000051" title=" " alt="" coords="113,615,165,655,161,659,110,619"/>
+<area shape="rect" id="Node000056" href="$coerce_8hpp.html" title="Class Coerce &#45; Support for automatic conversion of datatypes." alt="" coords="2922,665,3117,691"/>
+<area shape="poly" id="edge88_Node000055_Node000056" title=" " alt="" coords="1165,165,1607,178,2213,205,2503,224,2747,248,2842,261,2915,275,2962,291,2975,300,2979,309,2979,533,2983,565,2990,598,3010,652,3005,654,2985,599,2977,566,2974,533,2974,311,2971,303,2959,296,2914,280,2842,266,2747,253,2503,230,2212,211,1607,184,1165,171"/>
+<area shape="rect" id="Node000057" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="1467,225,1721,251"/>
+<area shape="poly" id="edge91_Node000055_Node000057" title=" " alt="" coords="1158,175,1497,221,1497,226,1157,180"/>
+<area shape="rect" id="Node000058" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="585,519,832,544"/>
+<area shape="poly" id="edge94_Node000055_Node000058" title=" " alt="" coords="1070,179,1043,234,1031,271,1026,310,1026,386,1024,434,1017,453,1000,473,973,488,934,501,837,519,836,514,932,496,971,483,996,469,1012,450,1019,433,1021,386,1021,310,1026,270,1038,232,1065,176"/>
+<area shape="rect" id="Node000062" href="$opertomatrix_8hpp.html" title="Conversion function operToMatrix &#45; convert an OPER to a matrix." alt="" coords="1161,372,1411,397"/>
+<area shape="poly" id="edge100_Node000055_Node000062" title=" " alt="" coords="1091,176,1145,223,1215,297,1270,359,1266,363,1211,301,1142,227,1087,180"/>
+<area shape="rect" id="Node000063" href="$scalartooper_8hpp.html" title="Conversion function scalarToOper &#45; convert an Excel OPER to a scalar value." alt="" coords="1131,592,1375,617"/>
+<area shape="poly" id="edge102_Node000055_Node000063" title=" " alt="" coords="1077,178,1077,310,1077,386,1081,419,1092,450,1110,479,1131,506,1179,551,1223,583,1220,587,1175,555,1127,509,1105,482,1088,452,1076,420,1071,386,1071,310,1071,178"/>
+<area shape="rect" id="Node000064" href="$vectortooper_8hpp.html" title="Conversion function vectorToOper &#45; Convert STL vector to Excel OPER." alt="" coords="740,445,987,471"/>
+<area shape="poly" id="edge107_Node000055_Node000064" title=" " alt="" coords="1060,180,1034,201,1007,227,965,282,928,340,877,434,872,432,924,337,961,279,1003,224,1030,197,1056,175"/>
+<area shape="rect" id="Node000065" href="$matrixtooper_8hpp.html" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="1213,519,1461,544"/>
+<area shape="poly" id="edge112_Node000055_Node000065" title=" " alt="" coords="1084,176,1111,232,1123,270,1127,310,1127,386,1131,411,1141,432,1157,451,1176,468,1223,494,1272,512,1270,517,1221,499,1173,472,1153,455,1137,435,1126,412,1122,386,1122,310,1117,271,1106,234,1079,179"/>
+<area shape="rect" id="Node000066" href="$validations_8hpp.html" title="Miscellaneous validation routines." alt="" coords="585,592,821,617"/>
+<area shape="poly" id="edge115_Node000055_Node000066" title=" " alt="" coords="1041,180,942,220,878,251,810,289,741,335,677,389,620,450,596,484,575,520,572,531,572,541,585,559,609,574,639,586,637,590,607,579,582,563,567,543,566,531,570,518,591,481,616,447,673,385,738,331,807,284,875,246,939,215,1039,175"/>
+<area shape="poly" id="edge89_Node000056_Node000016" title=" " alt="" coords="2996,693,2889,743,2887,738,2994,688"/>
+<area shape="poly" id="edge90_Node000056_Node000018" title=" " alt="" coords="3022,691,3022,813,3017,813,3017,691"/>
+<area shape="poly" id="edge92_Node000057_Node000029" title=" " alt="" coords="1597,251,1597,285,1591,285,1591,251"/>
+<area shape="poly" id="edge93_Node000057_Node000041" title=" " alt="" coords="1613,249,1788,362,1785,367,1610,253"/>
+<area shape="poly" id="edge98_Node000058_Node000011" title=" " alt="" coords="734,542,834,590,859,604,884,615,979,637,1055,645,1132,649,1229,663,1402,703,1540,741,1538,747,1401,708,1228,668,1131,654,1054,650,978,643,883,620,856,608,832,594,732,547"/>
+<area shape="poly" id="edge99_Node000058_Node000026" title=" " alt="" coords="752,541,919,586,918,591,751,547"/>
+<area shape="poly" id="edge95_Node000058_Node000061" title=" " alt="" coords="640,547,364,592,363,587,640,541"/>
+<area shape="poly" id="edge96_Node000061_Node000004" title=" " alt="" coords="321,615,589,688,775,734,965,776,1134,805,1282,826,1282,831,1134,811,964,781,774,739,588,693,320,620"/>
+<area shape="poly" id="edge97_Node000061_Node000051" title=" " alt="" coords="268,619,216,659,213,655,264,615"/>
+<area shape="poly" id="edge101_Node000062_Node000011" title=" " alt="" coords="1355,395,1450,415,1552,444,1597,462,1634,482,1659,505,1666,517,1669,530,1669,606,1662,645,1647,681,1626,713,1606,738,1602,734,1622,710,1642,679,1657,643,1663,606,1663,530,1661,519,1655,508,1631,486,1595,467,1550,449,1448,420,1354,400"/>
+<area shape="poly" id="edge103_Node000063_Node000004" title=" " alt="" coords="1256,617,1264,688,1275,734,1295,777,1313,799,1333,817,1330,821,1309,803,1291,780,1270,736,1258,689,1250,618"/>
+<area shape="poly" id="edge105_Node000063_Node000010" title=" " alt="" coords="1268,616,1311,649,1376,694,1455,740,1497,760,1540,776,1609,792,1701,804,1924,822,2147,831,2309,835,2308,840,2147,837,1923,827,1700,810,1608,797,1539,781,1495,765,1452,745,1373,699,1308,653,1265,620"/>
+<area shape="poly" id="edge106_Node000063_Node000015" title=" " alt="" coords="1375,613,2068,668,2068,673,1375,618"/>
+<area shape="poly" id="edge104_Node000063_Node000051" title=" " alt="" coords="1131,617,288,673,288,667,1131,611"/>
+<area shape="poly" id="edge111_Node000064_Node000011" title=" " alt="" coords="910,468,1387,590,1442,623,1492,663,1566,734,1562,737,1489,667,1439,628,1385,594,908,473"/>
+<area shape="poly" id="edge108_Node000064_Node000052" title=" " alt="" coords="741,472,656,490,614,503,574,521,533,551,501,583,497,580,529,546,571,516,612,498,655,485,740,467"/>
+<area shape="poly" id="edge110_Node000064_Node000053" title=" " alt="" coords="778,473,424,520,423,515,777,468"/>
+<area shape="poly" id="edge109_Node000064_Node000063" title=" " alt="" coords="896,468,1210,585,1208,590,894,473"/>
+<area shape="poly" id="edge114_Node000065_Node000011" title=" " alt="" coords="1437,541,1526,560,1562,574,1585,590,1596,607,1602,625,1606,664,1602,702,1595,733,1589,732,1597,701,1601,664,1597,627,1591,609,1582,594,1560,578,1525,565,1436,547"/>
+<area shape="poly" id="edge113_Node000065_Node000063" title=" " alt="" coords="1325,546,1279,585,1275,581,1322,542"/>
+<area shape="poly" id="edge116_Node000066_Node000004" title=" " alt="" coords="725,615,868,690,969,736,1075,776,1182,805,1282,824,1281,829,1181,810,1073,781,967,741,866,695,722,620"/>
+<area shape="poly" id="edge118_Node000066_Node000010" title=" " alt="" coords="743,615,860,648,1033,692,1236,738,1445,776,1701,806,1951,823,2165,832,2308,835,2308,840,2165,837,1951,829,1700,811,1444,781,1235,743,1031,697,859,653,741,620"/>
+<area shape="poly" id="edge117_Node000066_Node000051" title=" " alt="" coords="621,620,285,666,285,661,620,615"/>
 </map>

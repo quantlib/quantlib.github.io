@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::DefaultProbabilityHelper" name="QuantLibAddin::DefaultProbabilityHelper">
-<area shape="rect" id="node1" title=" " alt="" coords="92,95,335,136"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_spread_cds_helper.html" title=" " alt="" coords="5,184,200,225"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_upfront_cds_helper.html" title=" " alt="" coords="225,184,423,225"/>
-<area shape="rect" id="node2" title=" " alt="" coords="74,5,353,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,93,335,133"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_spread_cds_helper.html" title=" " alt="" coords="5,181,200,221"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,144,129,183,126,179,176,140"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_upfront_cds_helper.html" title=" " alt="" coords="225,181,423,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,140,301,179,298,183,247,144"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,5,353,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,59,216,93,211,93,211,59"/>
 </map>

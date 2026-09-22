@@ -1,8 +1,13 @@
 <map id="QuantLibAddin::SABRInterpolation" name="QuantLibAddin::SABRInterpolation">
-<area shape="rect" id="node1" title=" " alt="" coords="207,276,451,303"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_interpolation.html" title=" " alt="" coords="109,179,317,206"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,96,213,123"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,216,47"/>
-<area shape="rect" id="node5" title=" " alt="" coords="237,96,397,123"/>
-<area shape="rect" id="node6" href="$class_quant_lib_1_1_handle.html" title=" " alt="" coords="342,172,549,213"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,272,451,297"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_interpolation.html" title=" " alt="" coords="109,177,317,202"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,208,317,270,313,274,236,212"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,95,213,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,126,200,175,197,179,134,130"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,216,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,59,113,94,108,94,108,59"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="237,95,397,120"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="293,130,230,179,227,175,290,126"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_1_1_handle.html" title=" " alt="" coords="342,169,549,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="413,220,346,274,342,270,410,216"/>
 </map>

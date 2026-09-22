@@ -1,4 +1,5 @@
 <map id="QuantLibAddin::DefaultProbabilityHelper" name="QuantLibAddin::DefaultProbabilityHelper">
-<area shape="rect" id="node1" title=" " alt="" coords="23,95,266,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,284,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,93,266,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,284,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,59,147,93,142,93,142,59"/>
 </map>

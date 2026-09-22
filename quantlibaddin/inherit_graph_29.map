@@ -1,10 +1,17 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,166,68,193"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_double_sticky_ratchet_payoff.html" title=" " alt="" coords="116,159,327,200"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_ratchet_max_payoff.html" title=" " alt="" coords="381,5,583,47"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_ratchet_min_payoff.html" title=" " alt="" coords="383,71,581,112"/>
-<area shape="rect" id="node5" href="$class_quant_lib_addin_1_1_ratchet_payoff.html" title=" " alt="" coords="375,137,589,163"/>
-<area shape="rect" id="node6" href="$class_quant_lib_addin_1_1_sticky_max_payoff.html" title=" " alt="" coords="386,188,578,229"/>
-<area shape="rect" id="node7" href="$class_quant_lib_addin_1_1_sticky_min_payoff.html" title=" " alt="" coords="388,253,576,295"/>
-<area shape="rect" id="node8" href="$class_quant_lib_addin_1_1_sticky_payoff.html" title=" " alt="" coords="380,319,584,346"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,163,68,189"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_double_sticky_ratchet_payoff.html" title=" " alt="" coords="116,156,327,196"/>
+<area shape="poly" id="edge91_Node000000_Node000001" title=" " alt="" coords="82,173,116,173,116,179,82,179"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_ratchet_max_payoff.html" title=" " alt="" coords="381,5,583,45"/>
+<area shape="poly" id="edge92_Node000001_Node000002" title=" " alt="" coords="251,145,306,99,373,55,401,43,403,48,376,60,309,103,255,149"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_ratchet_min_payoff.html" title=" " alt="" coords="383,69,581,109"/>
+<area shape="poly" id="edge93_Node000001_Node000003" title=" " alt="" coords="288,149,374,119,411,107,413,112,376,124,290,154"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_ratchet_payoff.html" title=" " alt="" coords="375,134,589,159"/>
+<area shape="poly" id="edge94_Node000001_Node000004" title=" " alt="" coords="340,160,374,156,375,161,340,165"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_sticky_max_payoff.html" title=" " alt="" coords="386,184,578,224"/>
+<area shape="poly" id="edge95_Node000001_Node000005" title=" " alt="" coords="340,186,386,191,385,196,340,191"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_sticky_min_payoff.html" title=" " alt="" coords="388,248,576,288"/>
+<area shape="poly" id="edge96_Node000001_Node000006" title=" " alt="" coords="284,199,376,233,412,245,411,251,374,239,282,204"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_addin_1_1_sticky_payoff.html" title=" " alt="" coords="380,313,584,338"/>
+<area shape="poly" id="edge97_Node000001_Node000007" title=" " alt="" coords="253,204,307,253,340,277,376,298,409,310,407,315,374,302,337,281,304,257,249,208"/>
 </map>

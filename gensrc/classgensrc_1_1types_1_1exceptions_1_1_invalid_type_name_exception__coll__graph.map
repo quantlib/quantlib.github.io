@@ -1,6 +1,7 @@
 <map id="gensrc.types.exceptions.InvalidTypeNameException" name="gensrc.types.exceptions.InvalidTypeNameException">
-<area shape="rect" id="node1" title=" " alt="" coords="106,185,305,227"/>
-<area shape="rect" id="node2" href="$classgensrc_1_1types_1_1exceptions_1_1_type_exception.html" title=" " alt="" coords="5,81,189,123"/>
-<area shape="rect" id="node3" title=" " alt="" coords="32,5,163,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="213,89,272,115"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,167,208,207"/>
+<area shape="rect" id="Node000002" href="$classgensrc_1_1types_1_1exceptions_1_1_type_exception.html" title=" " alt="" coords="17,79,201,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,133,111,166,106,166,106,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
 </map>

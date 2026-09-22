@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::MersenneTwisterRsg" name="QuantLibAddin::MersenneTwisterRsg">
-<area shape="rect" id="node1" title=" " alt="" coords="791,20,1049,47"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_pseudo_random_sequence_generator.html" title=" " alt="" coords="509,5,743,61"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_random_sequence_generator.html" title=" " alt="" coords="219,13,461,54"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,20,171,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="791,20,1049,45"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_pseudo_random_sequence_generator.html" title=" " alt="" coords="509,5,743,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,30,790,30,790,35,756,35"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_random_sequence_generator.html" title=" " alt="" coords="219,13,461,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,30,509,30,509,35,475,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,20,171,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,30,218,30,218,35,184,35"/>
 </map>

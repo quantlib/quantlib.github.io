@@ -1,8 +1,13 @@
 <map id="singleton.hpp" name="singleton.hpp">
-<area shape="rect" id="node1" title="basic support for the singleton pattern" alt="" coords="259,5,369,32"/>
-<area shape="rect" id="node2" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,80,295,107"/>
-<area shape="rect" id="node6" title=" " alt="" coords="320,80,479,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,155,135,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="159,155,298,181"/>
-<area shape="rect" id="node5" title=" " alt="" coords="323,155,388,181"/>
+<area shape="rect" id="Node000001" title="basic support for the singleton pattern" alt="" coords="259,5,369,31"/>
+<area shape="rect" id="Node000002" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,79,295,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,33,255,72,251,68,299,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="320,79,479,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="329,29,377,68,373,72,326,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,135,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,106,109,149,107,144,202,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,152,298,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,104,231,138,226,138,226,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="323,152,388,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,102,324,143,321,147,248,106"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="flowanalysis.hpp" name="flowanalysis.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="154,5,285,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,164,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="188,80,251,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="275,80,398,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="154,5,285,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,164,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,33,120,74,118,70,196,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="188,79,251,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,31,222,65,217,65,217,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="275,79,398,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,28,307,69,304,74,237,33"/>
 </map>

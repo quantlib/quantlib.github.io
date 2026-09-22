@@ -1,14 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,339,67,366"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_composite_quote.html" title=" " alt="" coords="125,5,320,47"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_eurodollar_futures_implied_std_dev_quote.html" title=" " alt="" coords="120,71,325,112"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_forward_swap_quote.html" title=" " alt="" coords="117,136,329,177"/>
-<area shape="rect" id="node5" href="$class_quant_lib_addin_1_1_forward_value_quote.html" title=" " alt="" coords="116,201,329,243"/>
-<area shape="rect" id="node6" href="$class_quant_lib_addin_1_1_futures_conv_adjustment_quote.html" title=" " alt="" coords="119,267,326,308"/>
-<area shape="rect" id="node7" href="$class_quant_lib_addin_1_1_implied_std_dev_quote.html" title=" " alt="" coords="125,332,320,373"/>
-<area shape="rect" id="node8" href="$class_quant_lib_addin_1_1_last_fixing_quote.html" title=" " alt="" coords="127,397,318,439"/>
-<area shape="rect" id="node9" href="$class_quant_lib_addin_1_1_recovery_rate_quote.html" title=" " alt="" coords="115,463,331,504"/>
-<area shape="rect" id="node10" href="$class_quant_lib_addin_1_1_rendistato_equivalent_swap_length_quote.html" title=" " alt="" coords="118,528,327,569"/>
-<area shape="rect" id="node11" href="$class_quant_lib_addin_1_1_rendistato_equivalent_swap_spread_quote.html" title=" " alt="" coords="117,593,328,635"/>
-<area shape="rect" id="node12" href="$class_quant_lib_addin_1_1_simple_quote.html" title=" " alt="" coords="118,659,327,686"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,77,161,102"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_log_normal_fwd_rate_ipc.html" title=" " alt="" coords="211,5,407,45"/>
+<area shape="poly" id="edge56_Node000000_Node000001" title=" " alt="" coords="142,70,237,43,239,48,143,75"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_log_normal_fwd_rate_pc.html" title=" " alt="" coords="211,69,407,109"/>
+<area shape="poly" id="edge57_Node000000_Node000002" title=" " alt="" coords="175,87,211,87,211,92,175,92"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_normal_fwd_rate_pc.html" title=" " alt="" coords="209,133,409,173"/>
+<area shape="poly" id="edge58_Node000000_Node000003" title=" " alt="" coords="143,103,239,131,237,136,142,108"/>
 </map>

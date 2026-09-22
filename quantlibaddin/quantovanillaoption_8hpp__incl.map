@@ -1,10 +1,18 @@
 <map id="quantovanillaoption.hpp" name="quantovanillaoption.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="171,5,351,32"/>
-<area shape="rect" id="node2" href="$baseinstruments_8hpp.html" title=" " alt="" coords="78,80,261,107"/>
-<area shape="rect" id="node4" href="$processes_8hpp.html" title=" " alt="" coords="329,80,468,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,162,157,189"/>
-<area shape="rect" id="node5" title=" " alt="" coords="182,162,285,189"/>
-<area shape="rect" id="node6" title=" " alt="" coords="309,162,579,189"/>
-<area shape="rect" id="node7" title=" " alt="" coords="603,155,826,196"/>
-<area shape="rect" id="node8" title=" " alt="" coords="851,155,1101,196"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,5,351,31"/>
+<area shape="rect" id="Node000002" href="$baseinstruments_8hpp.html" title=" " alt="" coords="78,79,261,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,33,197,72,193,68,245,29"/>
+<area shape="rect" id="Node000004" href="$processes_8hpp.html" title=" " alt="" coords="329,79,468,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,28,365,70,363,75,282,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,159,157,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,106,106,152,103,148,155,102"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="353,107,141,159,140,153,352,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="182,159,285,185"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="376,106,271,156,269,151,373,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="309,159,579,185"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="408,103,433,146,428,149,403,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="603,152,826,192"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="445,101,626,146,625,151,444,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="851,152,1101,192"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="468,99,838,149,837,154,468,105"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="dividendvanillaoption.hpp" name="dividendvanillaoption.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="84,5,275,32"/>
-<area shape="rect" id="node2" href="$baseinstruments_8hpp.html" title=" " alt="" coords="5,80,188,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="212,80,315,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="21,155,173,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="84,5,275,31"/>
+<area shape="rect" id="Node000002" href="$baseinstruments_8hpp.html" title=" " alt="" coords="5,79,188,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,33,122,72,119,67,164,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="212,79,315,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,29,241,67,237,72,191,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,152,173,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,104,99,138,94,138,94,104"/>
 </map>

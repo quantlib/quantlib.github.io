@@ -1,5 +1,8 @@
 <map id="forwardvanillaoption.hpp" name="forwardvanillaoption.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,191,32"/>
-<area shape="rect" id="node2" href="$options_8hpp.html" title=" " alt="" coords="6,80,105,107"/>
-<area shape="rect" id="node3" href="$qladdin_8hpp.html" title=" " alt="" coords="49,155,147,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,31"/>
+<area shape="rect" id="Node000002" href="$options_8hpp.html" title=" " alt="" coords="6,79,105,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,44,65,80,60,77,82,41"/>
+<area shape="rect" id="Node000003" href="$qladdin_8hpp.html" title=" " alt="" coords="49,152,147,177"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="110,43,119,78,120,99,117,120,106,153,101,151,111,119,115,99,114,79,105,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,114,93,151,89,153,67,117"/>
 </map>

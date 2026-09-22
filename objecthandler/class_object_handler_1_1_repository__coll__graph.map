@@ -1,3 +1,4 @@
 <map id="ObjectHandler::Repository" name="ObjectHandler::Repository">
-<area shape="rect" id="node1" title="Maintain a store of Objects." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="Node000001" title="Maintain a store of Objects." alt="" coords="5,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="214,12,225,18,200,25,199,19,220,18,212,18"/>
 </map>

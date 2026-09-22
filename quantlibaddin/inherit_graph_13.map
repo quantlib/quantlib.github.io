@@ -1,6 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,81,83"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_american_exercise.html" title=" " alt="" coords="132,5,373,32"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_bermudan_exercise.html" title=" " alt="" coords="129,56,376,83"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_european_exercise.html" title=" " alt="" coords="133,107,373,133"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,45,196,70"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_cms_coupon_pricer.html" title=" " alt="" coords="244,5,447,45"/>
+<area shape="poly" id="edge39_Node000000_Node000001" title=" " alt="" coords="209,40,243,36,244,41,210,46"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_ibor_coupon_pricer.html" title=" " alt="" coords="246,69,445,109"/>
+<area shape="poly" id="edge41_Node000000_Node000003" title=" " alt="" coords="210,69,246,74,245,79,209,74"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_numeric_hagan_pricer.html" title=" " alt="" coords="495,5,717,45"/>
+<area shape="poly" id="edge40_Node000001_Node000002" title=" " alt="" coords="460,23,494,23,494,28,460,28"/>
 </map>

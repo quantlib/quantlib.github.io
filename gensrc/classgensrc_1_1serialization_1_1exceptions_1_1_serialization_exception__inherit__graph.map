@@ -1,11 +1,19 @@
 <map id="gensrc.serialization.exceptions.SerializationException" name="gensrc.serialization.exceptions.SerializationException">
-<area shape="rect" id="node1" title=" " alt="" coords="264,201,492,243"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_convert_boolean_exception.html" title=" " alt="" coords="540,5,811,47"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_creator_exception.html" title=" " alt="" coords="561,71,789,112"/>
-<area shape="rect" id="node5" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_dict_exception.html" title=" " alt="" coords="561,136,789,177"/>
-<area shape="rect" id="node6" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_duplicate_key_exception.html" title=" " alt="" coords="549,201,802,243"/>
-<area shape="rect" id="node7" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_element_missing_exception.html" title=" " alt="" coords="540,267,811,308"/>
-<area shape="rect" id="node8" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_override_exception.html" title=" " alt="" coords="561,332,789,373"/>
-<area shape="rect" id="node9" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_parse_exception.html" title=" " alt="" coords="561,397,789,439"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,209,216,235"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="260,197,488,237"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_convert_boolean_exception.html" title=" " alt="" coords="536,5,807,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,184,454,118,492,84,535,55,561,43,563,48,537,60,495,88,458,122,400,188"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_creator_exception.html" title=" " alt="" coords="557,69,785,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,187,469,152,535,119,570,107,572,112,537,124,472,156,416,192"/>
+<area shape="rect" id="Node000005" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_dict_exception.html" title=" " alt="" coords="557,133,785,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="481,192,577,171,578,176,482,197"/>
+<area shape="rect" id="Node000006" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_duplicate_key_exception.html" title=" " alt="" coords="545,197,798,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="502,215,544,215,544,220,502,220"/>
+<area shape="rect" id="Node000007" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_element_missing_exception.html" title=" " alt="" coords="536,261,807,301"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="482,238,578,259,577,264,481,243"/>
+<area shape="rect" id="Node000008" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_override_exception.html" title=" " alt="" coords="557,325,785,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="416,243,472,278,537,311,572,323,570,328,535,316,469,283,413,247"/>
+<area shape="rect" id="Node000009" href="$classgensrc_1_1serialization_1_1exceptions_1_1_serialization_parse_exception.html" title=" " alt="" coords="557,389,785,429"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="400,247,458,313,495,347,537,375,563,387,561,392,535,380,492,351,454,316,396,250"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,205,212,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,215,260,215,260,220,226,220"/>
 </map>

@@ -1,6 +1,31 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,204,105"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_constant_optionlet_volatility.html" title=" " alt="" coords="254,5,497,47"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_spreaded_optionlet_volatility.html" title=" " alt="" coords="252,71,499,112"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_stripped_optionlet_adapter.html" title=" " alt="" coords="256,136,495,177"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,221,171,247"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_handle.html" title=" " alt="" coords="255,107,425,132"/>
+<area shape="poly" id="edge60_Node000000_Node000001" title=" " alt="" coords="129,213,310,130,312,135,131,218"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_random_sequence_generator.html" title=" " alt="" coords="219,242,461,282"/>
+<area shape="poly" id="edge63_Node000000_Node000004" title=" " alt="" coords="185,242,219,246,218,251,184,247"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_relinkable_handle.html" title=" " alt="" coords="529,13,723,53"/>
+<area shape="poly" id="edge61_Node000001_Node000002" title=" " alt="" coords="391,100,509,62,550,50,551,55,510,67,393,105"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_relinkable_handle_impl.html" title=" " alt="" coords="823,5,1017,60"/>
+<area shape="poly" id="edge62_Node000002_Node000003" title=" " alt="" coords="736,30,823,30,823,35,736,35"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="511,77,741,132"/>
+<area shape="poly" id="edge64_Node000004_Node000005" title=" " alt="" coords="374,231,435,186,508,141,533,130,535,135,511,146,438,190,377,235"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="511,156,741,211"/>
+<area shape="poly" id="edge66_Node000004_Node000007" title=" " alt="" coords="426,236,525,208,527,213,427,241"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="511,235,741,289"/>
+<area shape="poly" id="edge68_Node000004_Node000009" title=" " alt="" coords="475,259,511,259,511,265,475,265"/>
+<area shape="rect" id="Node000011" href="$class_quant_lib_addin_1_1_pseudo_random_sequence_generator.html" title=" " alt="" coords="509,313,743,368"/>
+<area shape="poly" id="edge70_Node000004_Node000011" title=" " alt="" coords="427,283,527,311,525,316,426,288"/>
+<area shape="rect" id="Node000013" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="511,393,741,433"/>
+<area shape="poly" id="edge72_Node000004_Node000013" title=" " alt="" coords="376,289,437,335,511,378,540,390,538,395,508,383,434,339,373,293"/>
+<area shape="rect" id="Node000014" href="$class_quant_lib_addin_1_1_pseudo_random_sequence_generator.html" title=" " alt="" coords="513,457,739,497"/>
+<area shape="poly" id="edge73_Node000004_Node000014" title=" " alt="" coords="364,292,424,368,465,408,511,442,534,454,532,459,508,447,461,412,420,372,360,295"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_faure_rsg.html" title=" " alt="" coords="828,92,1012,117"/>
+<area shape="poly" id="edge65_Node000005_Node000006" title=" " alt="" coords="755,102,828,102,828,107,755,107"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_addin_1_1_halton_rsg.html" title=" " alt="" coords="824,171,1016,196"/>
+<area shape="poly" id="edge67_Node000007_Node000008" title=" " alt="" coords="755,181,824,181,824,186,755,186"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_addin_1_1_sobol_rsg.html" title=" " alt="" coords="827,249,1013,275"/>
+<area shape="poly" id="edge69_Node000009_Node000010" title=" " alt="" coords="755,259,827,259,827,265,755,265"/>
+<area shape="rect" id="Node000012" href="$class_quant_lib_addin_1_1_mersenne_twister_rsg.html" title=" " alt="" coords="791,328,1049,353"/>
+<area shape="poly" id="edge71_Node000011_Node000012" title=" " alt="" coords="756,338,790,338,790,343,756,343"/>
 </map>

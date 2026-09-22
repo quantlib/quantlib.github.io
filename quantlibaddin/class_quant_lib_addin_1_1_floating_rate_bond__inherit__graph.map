@@ -1,7 +1,11 @@
 <map id="QuantLibAddin::FloatingRateBond" name="QuantLibAddin::FloatingRateBond">
-<area shape="rect" id="node1" title=" " alt="" coords="5,244,247,271"/>
-<area shape="rect" id="node5" href="$class_quant_lib_addin_1_1_c_c_t_e_u.html" title=" " alt="" coords="41,319,211,345"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_bond.html" title=" " alt="" coords="47,169,205,196"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="28,95,224,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="21,5,231,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,247,265"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_c_c_t_e_u.html" title=" " alt="" coords="41,313,211,339"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="129,279,129,313,123,313,123,279"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_bond.html" title=" " alt="" coords="47,167,205,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,206,129,240,123,240,123,206"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="28,93,224,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,132,129,167,123,167,123,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="21,5,231,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,59,129,93,123,93,123,59"/>
 </map>

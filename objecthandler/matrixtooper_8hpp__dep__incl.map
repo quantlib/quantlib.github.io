@@ -1,6 +1,9 @@
 <map id="matrixtooper.hpp" name="matrixtooper.hpp">
-<area shape="rect" id="node1" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="13,5,148,32"/>
-<area shape="rect" id="node2" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="47,80,114,107"/>
-<area shape="rect" id="node3" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,155,156,181"/>
-<area shape="rect" id="node4" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,229,120,256"/>
+<area shape="rect" id="Node000001" title="Conversion function matrixToOper &#45; Convert matrix to Excel OPER." alt="" coords="13,5,148,31"/>
+<area shape="rect" id="Node000002" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="47,79,114,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,83,79,78,79,78,44"/>
+<area shape="rect" id="Node000003" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,152,156,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,118,83,152,78,152,78,118"/>
+<area shape="rect" id="Node000004" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="41,225,120,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,191,83,225,78,225,78,191"/>
 </map>

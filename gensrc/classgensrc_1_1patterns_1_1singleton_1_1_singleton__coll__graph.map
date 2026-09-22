@@ -1,7 +1,11 @@
 <map id="gensrc.patterns.singleton.Singleton" name="gensrc.patterns.singleton.Singleton">
-<area shape="rect" id="node1" title=" " alt="" coords="41,169,232,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,87,68,114"/>
-<area shape="rect" id="node3" title=" " alt="" coords="92,87,181,114"/>
-<area shape="rect" id="node4" href="$classgensrc_1_1patterns_1_1singleton_1_1_meta_singleton.html" title=" " alt="" coords="205,80,396,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="275,5,326,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,167,232,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,86,68,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,118,116,164,113,169,59,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,86,181,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,125,139,166,134,166,134,125"/>
+<area shape="rect" id="Node000004" href="$classgensrc_1_1patterns_1_1singleton_1_1_meta_singleton.html" title=" " alt="" coords="205,79,396,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,127,174,169,171,164,251,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="275,5,326,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,44,303,79,298,79,298,44"/>
 </map>

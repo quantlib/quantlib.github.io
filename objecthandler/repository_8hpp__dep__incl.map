@@ -1,9 +1,17 @@
 <map id="repository.hpp" name="repository.hpp">
-<area shape="rect" id="node1" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="143,5,258,32"/>
-<area shape="rect" id="node2" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="5,80,156,107"/>
-<area shape="rect" id="node6" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="131,155,270,181"/>
-<area shape="rect" id="node7" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="241,80,369,107"/>
-<area shape="rect" id="node3" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="41,155,107,181"/>
-<area shape="rect" id="node4" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="125,229,276,256"/>
-<area shape="rect" id="node5" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="161,304,240,331"/>
+<area shape="rect" id="Node000001" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="143,5,258,31"/>
+<area shape="rect" id="Node000002" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="5,79,156,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,40,102,81,99,76,168,35"/>
+<area shape="rect" id="Node000006" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="131,152,270,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,45,203,152,198,152,198,45"/>
+<area shape="rect" id="Node000007" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="241,79,369,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="230,36,289,76,286,81,227,41"/>
+<area shape="rect" id="Node000003" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="41,152,107,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,118,78,152,72,152,76,118"/>
+<area shape="rect" id="Node000004" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="125,225,276,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,182,181,223,179,227,105,186"/>
+<area shape="rect" id="Node000005" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="161,299,240,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,264,203,299,198,299,198,264"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="203,191,203,225,198,225,198,191"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="305,118,298,148,284,179,256,208,226,228,223,223,253,203,280,176,293,147,300,117"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="date.hpp" name="date.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="182,5,261,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,168,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="192,80,251,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="275,80,338,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,5,261,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,168,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,33,122,74,120,70,198,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="192,79,251,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,31,224,65,219,65,219,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="275,79,338,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,29,284,68,281,72,233,33"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::Interpolation" name="QuantLibAddin::Interpolation">
-<area shape="rect" id="node1" title=" " alt="" coords="109,169,317,196"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,95,213,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,5,216,47"/>
-<area shape="rect" id="node4" title=" " alt="" coords="237,95,397,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,167,317,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,93,213,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,124,198,164,195,169,137,129"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,216,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,59,113,93,108,93,108,59"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,93,397,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,129,232,169,229,164,288,124"/>
 </map>

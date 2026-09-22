@@ -1,4 +1,5 @@
 <map id="QuantLibAddin::GeneralizedBlackScholesProcess" name="QuantLibAddin::GeneralizedBlackScholesProcess">
-<area shape="rect" id="node1" title=" " alt="" coords="37,109,240,151"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,272,61"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,108,240,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,272,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,74,141,108,136,108,136,74"/>
 </map>

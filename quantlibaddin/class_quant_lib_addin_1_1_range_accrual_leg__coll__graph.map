@@ -1,5 +1,7 @@
 <map id="QuantLibAddin::RangeAccrualLeg" name="QuantLibAddin::RangeAccrualLeg">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,243,196"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_leg.html" title=" " alt="" coords="50,95,198,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="19,5,229,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,243,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_leg.html" title=" " alt="" coords="50,93,198,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,132,127,167,121,167,121,132"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="19,5,229,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,59,127,93,121,93,121,59"/>
 </map>

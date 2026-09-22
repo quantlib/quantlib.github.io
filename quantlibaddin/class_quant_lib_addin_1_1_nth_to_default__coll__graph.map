@@ -1,5 +1,7 @@
 <map id="QuantLibAddin::NthToDefault" name="QuantLibAddin::NthToDefault">
-<area shape="rect" id="node1" title=" " alt="" coords="5,169,216,196"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="13,95,209,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,167,216,192"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="13,93,209,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,132,113,167,108,167,108,132"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,216,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,59,113,93,108,93,108,59"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="piecewiseyieldcurve.hpp" name="piecewiseyieldcurve.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,188,32"/>
-<area shape="rect" id="node2" href="$credit_8hpp.html" title=" " alt="" coords="53,80,140,107"/>
-<area shape="rect" id="node3" href="$qladdin_8hpp.html" title=" " alt="" coords="47,155,146,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,31"/>
+<area shape="rect" id="Node000002" href="$credit_8hpp.html" title=" " alt="" coords="53,79,140,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,44,99,79,94,79,94,44"/>
+<area shape="rect" id="Node000003" href="$qladdin_8hpp.html" title=" " alt="" coords="47,152,146,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,118,99,152,94,152,94,118"/>
 </map>

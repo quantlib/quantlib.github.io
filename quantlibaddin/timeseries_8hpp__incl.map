@@ -1,6 +1,9 @@
 <map id="timeseries.hpp" name="timeseries.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="174,5,293,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,157,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="182,80,285,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="309,80,360,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,5,293,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,157,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,33,119,75,117,70,208,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="182,79,285,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,31,236,65,231,65,231,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="309,79,360,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,28,308,68,305,73,248,33"/>
 </map>

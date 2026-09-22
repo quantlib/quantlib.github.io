@@ -1,5 +1,7 @@
 <map id="gensrc.serialization.serializer.Serializer" name="gensrc.serialization.serializer.Serializer">
-<area shape="rect" id="node1" title=" " alt="" coords="9,80,225,121"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1serialization_1_1xmlreader_1_1_xml_reader.html" title=" " alt="" coords="5,169,228,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="85,5,148,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,79,225,119"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1serialization_1_1xmlreader_1_1_xml_reader.html" title=" " alt="" coords="5,167,228,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,133,119,166,114,166,114,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="85,5,148,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,44,119,79,114,79,114,44"/>
 </map>

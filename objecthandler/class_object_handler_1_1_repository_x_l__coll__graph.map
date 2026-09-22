@@ -1,4 +1,6 @@
 <map id="ObjectHandler::RepositoryXL" name="ObjectHandler::RepositoryXL">
-<area shape="rect" id="node1" title="Excel&#45;specific enhancements to the Repository class." alt="" coords="5,81,215,108"/>
-<area shape="rect" id="node2" href="$class_object_handler_1_1_repository.html" title="Maintain a store of Objects." alt="" coords="13,5,207,32"/>
+<area shape="rect" id="Node000001" title="Excel&#45;specific enhancements to the Repository class." alt="" coords="5,80,215,105"/>
+<area shape="rect" id="Node000002" href="$class_object_handler_1_1_repository.html" title="Maintain a store of Objects." alt="" coords="13,5,207,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,45,113,80,107,80,107,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="222,11,233,18,225,24,207,27,207,22,223,19,228,18,220,16"/>
 </map>

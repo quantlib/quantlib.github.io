@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::ZeroCouponBond" name="QuantLibAddin::ZeroCouponBond">
-<area shape="rect" id="node1" title=" " alt="" coords="5,244,243,271"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_bond.html" title=" " alt="" coords="45,169,203,196"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="26,95,222,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="19,5,229,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,243,265"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_bond.html" title=" " alt="" coords="45,167,203,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,206,127,240,121,240,121,206"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_instrument.html" title=" " alt="" coords="26,93,222,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,132,127,167,121,167,121,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="19,5,229,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,59,127,93,121,93,121,59"/>
 </map>

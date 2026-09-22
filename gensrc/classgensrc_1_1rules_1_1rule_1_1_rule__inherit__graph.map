@@ -1,4 +1,5 @@
 <map id="gensrc.rules.rule.Rule" name="gensrc.rules.rule.Rule">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,168,107"/>
-<area shape="rect" id="node2" title=" " alt="" coords="37,5,136,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,79,175,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,44,97,79,91,79,91,44"/>
 </map>

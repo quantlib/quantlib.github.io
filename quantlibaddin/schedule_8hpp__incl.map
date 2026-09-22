@@ -1,6 +1,9 @@
 <map id="schedule.hpp" name="schedule.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="254,5,362,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,157,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="181,80,435,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="459,80,683,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,5,362,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,157,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,33,132,77,130,72,271,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="181,79,435,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,31,311,65,305,65,305,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="459,79,683,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,28,516,72,514,78,350,33"/>
 </map>

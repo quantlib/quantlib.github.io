@@ -1,5 +1,7 @@
 <map id="QuantLibAddin::BlackCalibrationHelper" name="QuantLibAddin::BlackCalibrationHelper">
-<area shape="rect" id="node1" title=" " alt="" coords="23,95,255,136"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_swaption_helper.html" title=" " alt="" coords="25,184,253,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,273,47"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,93,255,133"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_swaption_helper.html" title=" " alt="" coords="25,181,253,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,147,142,181,137,181,137,147"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,273,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,59,142,93,137,93,137,59"/>
 </map>

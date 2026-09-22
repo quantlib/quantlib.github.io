@@ -1,4 +1,5 @@
 <map id="interpolation2D.hpp" name="interpolation2D.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,156,32"/>
-<area shape="rect" id="node2" href="$qladdin_8hpp.html" title=" " alt="" coords="31,80,130,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,156,31"/>
+<area shape="rect" id="Node000002" href="$qladdin_8hpp.html" title=" " alt="" coords="31,79,130,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,83,79,78,79,78,44"/>
 </map>

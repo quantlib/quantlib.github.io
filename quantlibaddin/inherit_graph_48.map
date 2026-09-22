@@ -1,4 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,173,32"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_stripped_optionlet.html" title=" " alt="" coords="221,5,460,32"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,45,204,70"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_constant_swaption_volatility.html" title=" " alt="" coords="254,5,497,45"/>
+<area shape="poly" id="edge238_Node000000_Node000001" title=" " alt="" coords="217,41,254,37,254,42,218,47"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_spreaded_swaption_volatility.html" title=" " alt="" coords="252,69,499,109"/>
+<area shape="poly" id="edge239_Node000000_Node000002" title=" " alt="" coords="218,68,252,72,251,77,217,73"/>
 </map>

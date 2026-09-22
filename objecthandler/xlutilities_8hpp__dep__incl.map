@@ -1,7 +1,12 @@
 <map id="xlutilities.hpp" name="xlutilities.hpp">
-<area shape="rect" id="node1" title="General utility functions for the Excel platform." alt="" coords="84,5,195,32"/>
-<area shape="rect" id="node2" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="21,80,153,107"/>
-<area shape="rect" id="node5" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="97,304,176,331"/>
-<area shape="rect" id="node3" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="50,155,117,181"/>
-<area shape="rect" id="node4" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="5,229,156,256"/>
+<area shape="rect" id="Node000001" title="General utility functions for the Excel platform." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="Node000002" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="25,299,104,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,44,41,79,26,165,28,203,37,250,46,276,59,297,54,300,42,278,31,251,22,203,21,165,35,78,47,42"/>
+<area shape="rect" id="Node000003" href="$opertovector_8hpp.html" title="Conversion function operToVector &#45; convert an OPER to a std::vector." alt="" coords="51,79,183,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,40,110,77,106,80,76,43"/>
+<area shape="rect" id="Node000004" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="86,152,153,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,118,122,152,116,152,115,118"/>
+<area shape="rect" id="Node000005" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="47,225,197,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="123,191,124,225,119,225,118,191"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="106,263,76,300,72,297,102,260"/>
 </map>

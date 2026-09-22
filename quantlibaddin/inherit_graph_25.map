@@ -1,5 +1,23 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,204,73"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_constant_swaption_volatility.html" title=" " alt="" coords="254,5,497,47"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_spreaded_swaption_volatility.html" title=" " alt="" coords="252,71,499,112"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,269,132,295"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_barrier_option.html" title=" " alt="" coords="196,5,408,31"/>
+<area shape="poly" id="edge74_Node000000_Node000001" title=" " alt="" coords="71,255,82,208,102,150,133,90,154,63,178,40,197,28,200,33,182,44,158,67,138,93,107,152,87,209,77,256"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_cliquet_option.html" title=" " alt="" coords="195,55,409,80"/>
+<area shape="poly" id="edge75_Node000000_Node000002" title=" " alt="" coords="75,255,89,218,110,173,140,128,178,91,202,78,205,82,182,95,144,131,115,176,94,220,80,257"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_continuous_averaging_asian_option.html" title=" " alt="" coords="203,105,401,145"/>
+<area shape="poly" id="edge76_Node000000_Node000003" title=" " alt="" coords="83,256,122,205,148,177,179,154,202,142,205,147,181,159,152,181,126,208,87,259"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_discrete_averaging_asian_option.html" title=" " alt="" coords="180,169,424,209"/>
+<area shape="poly" id="edge77_Node000000_Node000004" title=" " alt="" coords="100,260,137,238,179,218,213,206,215,211,181,223,139,243,102,264"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_dividend_vanilla_option.html" title=" " alt="" coords="189,233,415,273"/>
+<area shape="poly" id="edge78_Node000000_Node000005" title=" " alt="" coords="145,270,188,264,189,270,146,275"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_european_option.html" title=" " alt="" coords="187,297,417,323"/>
+<area shape="poly" id="edge79_Node000000_Node000006" title=" " alt="" coords="146,289,196,295,196,300,146,294"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_addin_1_1_forward_vanilla_option.html" title=" " alt="" coords="191,347,413,387"/>
+<area shape="poly" id="edge80_Node000000_Node000007" title=" " alt="" coords="107,299,181,332,221,345,219,350,179,336,105,303"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_addin_1_1_quanto_forward_vanilla_option.html" title=" " alt="" coords="190,411,414,451"/>
+<area shape="poly" id="edge81_Node000000_Node000008" title=" " alt="" coords="88,304,127,352,153,376,181,397,206,409,203,414,179,402,149,380,123,355,84,308"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_addin_1_1_quanto_vanilla_option.html" title=" " alt="" coords="194,475,410,515"/>
+<area shape="poly" id="edge82_Node000000_Node000009" title=" " alt="" coords="81,307,95,342,117,384,145,426,182,461,201,473,198,477,178,465,141,429,112,387,90,344,76,309"/>
+<area shape="rect" id="Node000010" href="$class_quant_lib_addin_1_1_vanilla_option.html" title=" " alt="" coords="196,540,408,565"/>
+<area shape="poly" id="edge83_Node000000_Node000010" title=" " alt="" coords="77,308,87,356,106,415,137,475,158,502,182,525,202,538,200,542,178,529,154,506,133,478,102,417,82,357,71,310"/>
 </map>

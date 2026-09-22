@@ -1,12 +1,28 @@
 <map id="termstructures.hpp" name="termstructures.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="340,5,487,32"/>
-<area shape="rect" id="node2" href="$capletvolstructure_8hpp.html" title=" " alt="" coords="5,155,173,181"/>
-<area shape="rect" id="node4" href="$defaulttermstructures_8hpp.html" title=" " alt="" coords="837,155,1029,181"/>
-<area shape="rect" id="node6" href="$shortratemodels_8hpp.html" title=" " alt="" coords="85,229,243,256"/>
-<area shape="rect" id="node7" href="$swaptionvolstructure_8hpp.html" title=" " alt="" coords="267,229,453,256"/>
-<area shape="rect" id="node8" href="$volatilities_8hpp.html" title=" " alt="" coords="419,80,538,107"/>
-<area shape="rect" id="node9" href="$yieldtermstructures_8hpp.html" title=" " alt="" coords="575,80,753,107"/>
-<area shape="rect" id="node3" href="$qladdin_8hpp.html" title=" " alt="" coords="376,304,475,331"/>
-<area shape="rect" id="node5" href="$credit_8hpp.html" title=" " alt="" coords="693,229,779,256"/>
-<area shape="rect" id="node10" href="$piecewiseyieldcurve_8hpp.html" title=" " alt="" coords="579,155,762,181"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="340,5,487,31"/>
+<area shape="rect" id="Node000002" href="$capletvolstructure_8hpp.html" title=" " alt="" coords="5,152,173,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,38,262,81,112,154,110,149,260,76,368,33"/>
+<area shape="rect" id="Node000004" href="$defaulttermstructures_8hpp.html" title=" " alt="" coords="837,152,1029,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,24,628,42,698,57,766,76,810,93,852,113,916,149,914,154,849,118,808,98,764,81,697,62,627,47,500,29"/>
+<area shape="rect" id="Node000006" href="$shortratemodels_8hpp.html" title=" " alt="" coords="85,225,243,251"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="392,42,179,227,176,223,388,38"/>
+<area shape="rect" id="Node000007" href="$swaptionvolstructure_8hpp.html" title=" " alt="" coords="267,225,453,251"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="410,45,365,226,360,224,405,44"/>
+<area shape="rect" id="Node000008" href="$volatilities_8hpp.html" title=" " alt="" coords="419,79,538,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="435,39,470,77,466,80,431,43"/>
+<area shape="rect" id="Node000009" href="$yieldtermstructures_8hpp.html" title=" " alt="" coords="575,79,753,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="468,32,624,76,623,81,466,37"/>
+<area shape="rect" id="Node000003" href="$qladdin_8hpp.html" title=" " alt="" coords="376,299,475,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,190,68,221,69,236,75,249,95,264,125,276,206,293,297,303,376,307,376,312,297,308,206,299,124,281,92,268,71,252,64,237,63,220,73,189"/>
+<area shape="rect" id="Node000005" href="$credit_8hpp.html" title=" " alt="" coords="693,225,779,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="890,184,769,228,767,223,888,179"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="680,255,476,301,475,296,679,250"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="220,252,384,296,382,301,218,257"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="382,259,417,297,413,300,378,263"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="483,118,482,180,477,216,468,252,454,279,438,300,434,297,450,276,463,250,472,215,477,179,478,118"/>
+<area shape="poly" id="edge16_Node000009_Node000003" title=" " alt="" coords="630,113,600,131,570,154,545,179,529,201,513,225,490,252,440,301,436,297,486,249,509,221,524,198,541,176,566,150,597,127,628,108"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="722,107,753,124,777,151,782,172,775,193,750,227,746,224,771,191,776,172,772,153,749,129,719,112"/>
+<area shape="rect" id="Node000010" href="$piecewiseyieldcurve_8hpp.html" title=" " alt="" coords="579,152,762,177"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="669,118,672,152,667,152,664,118"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="693,186,727,223,723,227,689,189"/>
 </map>

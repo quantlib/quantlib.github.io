@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::HaltonRsg" name="QuantLibAddin::HaltonRsg">
-<area shape="rect" id="node1" title=" " alt="" coords="31,273,223,300"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="11,169,242,225"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_random_sequence_generator.html" title=" " alt="" coords="5,80,248,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="44,5,209,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,269,223,295"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_low_discrepancy_sequence_generator.html" title=" " alt="" coords="11,167,242,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,235,129,269,124,269,124,235"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_random_sequence_generator.html" title=" " alt="" coords="5,79,248,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,132,129,167,124,167,124,132"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="44,5,209,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,44,129,79,124,79,124,44"/>
 </map>

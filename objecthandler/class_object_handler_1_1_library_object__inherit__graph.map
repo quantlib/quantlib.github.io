@@ -1,4 +1,5 @@
 <map id="ObjectHandler::LibraryObject&lt; LibraryClass &gt;" name="ObjectHandler::LibraryObject&lt; LibraryClass &gt;">
-<area shape="rect" id="node1" title="Customizes the Object class for most typical uses." alt="" coords="5,80,216,121"/>
-<area shape="rect" id="node2" href="$class_object_handler_1_1_object.html" title="Interface for Objects to be stored in the ObjectHandler Repository." alt="" coords="28,5,193,32"/>
+<area shape="rect" id="Node000001" title="Customizes the Object class for most typical uses." alt="" coords="5,79,216,119"/>
+<area shape="rect" id="Node000002" href="$class_object_handler_1_1_object.html" title="Interface for Objects to be stored in the ObjectHandler Repository." alt="" coords="28,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,44,113,79,108,79,108,44"/>
 </map>

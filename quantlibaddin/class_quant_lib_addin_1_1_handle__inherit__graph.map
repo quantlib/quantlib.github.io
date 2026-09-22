@@ -1,6 +1,9 @@
 <map id="QuantLibAddin::Handle" name="QuantLibAddin::Handle">
-<area shape="rect" id="node1" title=" " alt="" coords="17,80,187,107"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_relinkable_handle.html" title=" " alt="" coords="5,155,199,196"/>
-<area shape="rect" id="node2" title=" " alt="" coords="70,5,134,32"/>
-<area shape="rect" id="node4" href="$class_quant_lib_addin_1_1_relinkable_handle_impl.html" title=" " alt="" coords="5,244,199,300"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,79,187,104"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_relinkable_handle.html" title=" " alt="" coords="5,152,199,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,118,105,152,99,152,99,118"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,185,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,44,105,79,99,79,99,44"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_relinkable_handle_impl.html" title=" " alt="" coords="5,240,199,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,205,105,240,99,240,99,205"/>
 </map>

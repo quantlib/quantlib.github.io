@@ -1,5 +1,7 @@
 <map id="gensrc.addins.serializationexceptions.SerializationException" name="gensrc.addins.serializationexceptions.SerializationException">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,276,121"/>
-<area shape="rect" id="node3" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_invalid_class_exception.html" title=" " alt="" coords="5,169,276,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="75,5,206,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,276,119"/>
+<area shape="rect" id="Node000003" href="$classgensrc_1_1addins_1_1serializationexceptions_1_1_invalid_class_exception.html" title=" " alt="" coords="5,167,276,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,133,143,166,138,166,138,133"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,44,143,79,138,79,138,44"/>
 </map>

@@ -1,34 +1,92 @@
 <map id="processor.hpp" name="processor.hpp">
-<area shape="rect" id="node1" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="59,5,171,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="148,379,199,405"/>
-<area shape="rect" id="node3" title=" " alt="" coords="1751,543,1809,569"/>
-<area shape="rect" id="node4" title=" " alt="" coords="93,229,136,256"/>
-<area shape="rect" id="node5" title=" " alt="" coords="2551,304,2710,331"/>
-<area shape="rect" id="node6" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="1965,80,2128,107"/>
-<area shape="rect" id="node7" title=" " alt="" coords="2047,155,2123,181"/>
-<area shape="rect" id="node8" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="2233,229,2343,256"/>
-<area shape="rect" id="node26" href="$utilities_8hpp.html" title="ObjectHandler utilities." alt="" coords="1950,379,2069,405"/>
-<area shape="rect" id="node29" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="2618,229,2761,256"/>
-<area shape="rect" id="node30" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="633,155,828,181"/>
-<area shape="rect" id="node9" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="1953,543,2087,569"/>
-<area shape="rect" id="node13" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="1247,304,1393,331"/>
-<area shape="rect" id="node14" title=" " alt="" coords="1869,461,1931,487"/>
-<area shape="rect" id="node18" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="2351,461,2486,487"/>
-<area shape="rect" id="node20" title=" " alt="" coords="2487,543,2561,569"/>
-<area shape="rect" id="node28" title=" " alt="" coords="2351,304,2425,331"/>
-<area shape="rect" id="node10" title=" " alt="" coords="1797,617,1926,644"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1951,617,2089,644"/>
-<area shape="rect" id="node12" title=" " alt="" coords="2114,617,2179,644"/>
-<area shape="rect" id="node15" title=" " alt="" coords="2640,379,2683,405"/>
-<area shape="rect" id="node16" title=" " alt="" coords="903,379,988,405"/>
-<area shape="rect" id="node17" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="1527,379,1649,405"/>
-<area shape="rect" id="node22" title=" " alt="" coords="819,453,962,495"/>
-<area shape="rect" id="node21" title=" " alt="" coords="1272,461,1408,487"/>
-<area shape="rect" id="node23" title=" " alt="" coords="1433,453,1575,495"/>
-<area shape="rect" id="node24" title=" " alt="" coords="1599,453,1742,495"/>
-<area shape="rect" id="node25" href="$convert2_8hpp.html" title="Generic conversion functions &#45; used to convert from property_t or OPER to an C++ data type." alt="" coords="1038,461,1247,487"/>
-<area shape="rect" id="node19" title=" " alt="" coords="2375,543,2462,569"/>
-<area shape="rect" id="node27" title=" " alt="" coords="2058,461,2225,487"/>
-<area shape="rect" id="node31" title=" " alt="" coords="211,229,437,256"/>
-<area shape="rect" id="node32" title=" " alt="" coords="462,229,693,256"/>
+<area shape="rect" id="Node000001" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="59,5,171,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="148,372,199,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,32,77,87,64,124,59,164,59,239,61,259,67,277,88,311,116,340,144,362,141,366,113,344,84,315,62,280,56,260,53,239,53,163,59,123,73,85,104,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1751,533,1809,559"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,33,71,54,42,84,18,122,11,142,8,163,8,385,12,393,23,400,69,416,142,430,238,444,482,470,770,492,1352,524,1737,540,1737,546,1352,530,769,497,481,475,237,450,141,436,68,421,21,405,8,396,3,387,3,163,5,141,13,119,38,81,68,50,95,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,225,136,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,31,117,211,112,211,112,31"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="2551,299,2710,324"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,17,581,20,1197,30,1793,47,2012,60,2089,68,2141,76,2211,96,2282,122,2415,182,2527,242,2603,289,2601,294,2524,247,2413,187,2280,127,2210,101,2139,81,2089,73,2012,65,1793,53,1197,35,581,26,171,22"/>
+<area shape="rect" id="Node000006" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="1965,79,2128,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="171,19,1951,84,1951,89,171,24"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="2047,152,2123,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="2055,103,2075,139,2070,141,2051,106"/>
+<area shape="rect" id="Node000008" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="2233,225,2343,251"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="2067,102,2259,216,2256,221,2065,106"/>
+<area shape="rect" id="Node000026" href="$utilities_8hpp.html" title="ObjectHandler utilities." alt="" coords="1950,372,2069,397"/>
+<area shape="poly" id="edge58_Node000006_Node000026" title=" " alt="" coords="2047,105,2037,152,2023,267,2014,359,2009,358,2017,267,2032,152,2041,104"/>
+<area shape="rect" id="Node000029" href="$observable_8hpp.html" title="observer/observable pattern" alt="" coords="2618,225,2761,251"/>
+<area shape="poly" id="edge45_Node000006_Node000029" title=" " alt="" coords="2098,101,2626,220,2624,225,2097,107"/>
+<area shape="rect" id="Node000030" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="633,152,828,177"/>
+<area shape="poly" id="edge49_Node000006_Node000030" title=" " alt="" coords="1965,100,842,160,842,155,1965,94"/>
+<area shape="poly" id="edge42_Node000008_Node000003" title=" " alt="" coords="2292,251,2296,295,2293,359,2287,394,2277,428,2261,460,2238,487,2215,498,2174,507,2059,524,1823,545,1823,539,2058,519,2173,502,2213,493,2234,483,2256,457,2272,426,2282,393,2288,359,2290,295,2287,251"/>
+<area shape="poly" id="edge40_Node000008_Node000005" title=" " alt="" coords="2344,248,2562,293,2561,298,2343,253"/>
+<area shape="rect" id="Node000009" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="1953,533,2087,559"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="2295,250,2307,293,2316,356,2316,390,2312,425,2301,458,2283,487,2254,506,2208,521,2101,540,2100,535,2207,516,2252,502,2279,483,2297,455,2307,424,2311,390,2311,356,2301,294,2289,251"/>
+<area shape="rect" id="Node000013" href="$valueobject_8hpp.html" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="1247,299,1393,324"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="2233,246,1407,306,1407,301,2232,241"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1869,453,1931,478"/>
+<area shape="poly" id="edge41_Node000008_Node000014" title=" " alt="" coords="2233,249,2167,262,2088,286,2009,322,1972,346,1939,374,1927,389,1918,406,1907,440,1902,438,1913,403,1923,386,1935,370,1969,342,2006,318,2087,281,2165,257,2232,244"/>
+<area shape="rect" id="Node000018" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="2351,453,2486,478"/>
+<area shape="poly" id="edge39_Node000008_Node000018" title=" " alt="" coords="2344,243,2396,261,2420,276,2440,297,2449,315,2453,334,2453,373,2445,410,2433,441,2428,439,2439,409,2448,372,2448,334,2444,317,2435,300,2417,280,2394,266,2343,248"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="2487,533,2561,559"/>
+<area shape="poly" id="edge43_Node000008_Node000020" title=" " alt="" coords="2344,242,2375,249,2406,259,2437,275,2463,297,2483,323,2498,352,2518,414,2526,473,2528,519,2522,520,2521,473,2512,415,2493,354,2478,326,2459,301,2434,280,2404,264,2373,254,2343,247"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="2351,299,2425,324"/>
+<area shape="poly" id="edge44_Node000008_Node000028" title=" " alt="" coords="2306,249,2362,288,2359,293,2303,253"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1797,607,1926,632"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1996,561,1901,603,1899,599,1993,556"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1951,607,2089,632"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="2023,559,2023,593,2017,593,2017,559"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="2114,607,2179,632"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="2042,556,2115,597,2113,602,2039,561"/>
+<area shape="poly" id="edge15_Node000013_Node000002" title=" " alt="" coords="1247,320,213,384,213,378,1246,315"/>
+<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="1260,327,1167,350,1119,365,1074,384,1039,406,1016,429,1012,442,1011,455,1016,469,1027,483,1041,492,1064,500,1136,514,1232,524,1342,532,1568,540,1737,542,1737,547,1568,545,1342,537,1231,530,1135,519,1063,505,1038,497,1024,487,1012,471,1006,456,1006,441,1012,427,1035,401,1072,379,1117,360,1166,344,1258,321"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1394,319,1520,338,1662,369,1773,407,1863,444,1861,449,1771,412,1661,375,1519,343,1393,324"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2640,372,2683,397"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="1394,314,2626,379,2626,384,1393,319"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="903,372,988,397"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="1260,327,1002,375,1001,370,1259,321"/>
+<area shape="rect" id="Node000017" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="1527,372,1649,397"/>
+<area shape="poly" id="edge18_Node000013_Node000017" title=" " alt="" coords="1364,321,1532,366,1531,371,1362,327"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="819,445,962,485"/>
+<area shape="poly" id="edge38_Node000013_Node000022" title=" " alt="" coords="1247,314,1151,317,1045,325,995,333,951,343,916,357,893,374,885,386,882,401,884,432,878,432,877,400,880,384,889,370,913,352,949,338,994,328,1044,320,1151,311,1247,309"/>
+<area shape="poly" id="edge32_Node000013_Node000026" title=" " alt="" coords="1394,318,1936,373,1936,378,1393,323"/>
+<area shape="poly" id="edge25_Node000017_Node000003" title=" " alt="" coords="1650,391,1706,409,1732,424,1755,444,1767,461,1775,481,1782,519,1777,520,1770,483,1763,464,1751,447,1729,428,1703,414,1649,396"/>
+<area shape="poly" id="edge19_Node000017_Node000009" title=" " alt="" coords="1636,395,1706,415,1784,443,1821,463,1857,483,1972,526,1970,531,1855,488,1818,467,1782,448,1705,420,1634,400"/>
+<area shape="poly" id="edge26_Node000017_Node000014" title=" " alt="" coords="1649,395,1744,415,1850,443,1859,446,1857,451,1849,448,1743,420,1648,400"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="1650,389,2236,443,2338,453,2337,458,2236,448,1649,394"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1272,453,1408,478"/>
+<area shape="poly" id="edge27_Node000017_Node000021" title=" " alt="" coords="1553,400,1390,451,1388,446,1551,395"/>
+<area shape="poly" id="edge28_Node000017_Node000022" title=" " alt="" coords="1527,394,1305,417,1026,448,976,454,975,449,1025,443,1305,411,1526,389"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1433,445,1575,485"/>
+<area shape="poly" id="edge29_Node000017_Node000023" title=" " alt="" coords="1577,399,1536,438,1532,434,1574,396"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="1599,445,1742,485"/>
+<area shape="poly" id="edge30_Node000017_Node000024" title=" " alt="" coords="1602,396,1643,434,1639,438,1598,399"/>
+<area shape="rect" id="Node000025" href="$convert2_8hpp.html" title="Generic conversion functions &#45; used to convert from property_t or OPER to an C++ data type." alt="" coords="1038,453,1247,478"/>
+<area shape="poly" id="edge31_Node000017_Node000025" title=" " alt="" coords="1527,399,1221,453,1221,448,1526,394"/>
+<area shape="poly" id="edge23_Node000018_Node000003" title=" " alt="" coords="2352,479,2282,488,1823,543,1822,537,2281,483,2351,473"/>
+<area shape="poly" id="edge21_Node000018_Node000009" title=" " alt="" coords="2367,481,2333,488,2096,533,2095,528,2331,483,2366,475"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="2375,533,2462,559"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="2421,478,2421,519,2416,519,2416,478"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="2436,476,2499,523,2496,527,2433,480"/>
+<area shape="poly" id="edge35_Node000026_Node000003" title=" " alt="" coords="2007,399,1984,441,1966,466,1944,487,1915,506,1884,521,1824,539,1822,534,1882,516,1913,502,1941,483,1962,462,1980,439,2002,396"/>
+<area shape="poly" id="edge33_Node000026_Node000009" title=" " alt="" coords="2013,397,2021,519,2016,520,2007,398"/>
+<area shape="poly" id="edge36_Node000026_Node000014" title=" " alt="" coords="1995,400,1929,447,1926,442,1992,395"/>
+<area shape="poly" id="edge34_Node000026_Node000018" title=" " alt="" coords="2069,395,2346,448,2345,453,2068,400"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="2058,453,2225,478"/>
+<area shape="poly" id="edge37_Node000026_Node000027" title=" " alt="" coords="2030,395,2112,443,2109,448,2027,400"/>
+<area shape="poly" id="edge47_Node000029_Node000005" title=" " alt="" coords="2682,253,2651,290,2647,287,2678,249"/>
+<area shape="poly" id="edge48_Node000029_Node000015" title=" " alt="" coords="2702,250,2723,283,2728,304,2725,325,2711,347,2693,365,2689,361,2707,344,2720,323,2723,304,2718,285,2698,252"/>
+<area shape="poly" id="edge46_Node000029_Node000018" title=" " alt="" coords="2707,249,2728,270,2745,298,2751,330,2742,356,2723,378,2696,400,2649,426,2598,444,2547,456,2500,463,2499,458,2546,451,2597,439,2647,421,2693,395,2720,375,2738,353,2745,329,2740,300,2724,273,2703,253"/>
+<area shape="poly" id="edge53_Node000030_Node000002" title=" " alt="" coords="633,173,373,192,260,208,221,217,200,227,181,257,171,292,169,327,172,358,166,358,164,327,166,291,176,254,197,223,219,212,259,203,373,187,633,168"/>
+<area shape="poly" id="edge54_Node000030_Node000003" title=" " alt="" coords="733,178,733,310,733,386,733,417,735,442,744,463,764,483,785,493,820,503,922,518,1057,528,1210,535,1518,542,1737,542,1737,548,1518,547,1210,541,1056,534,922,523,819,508,783,498,761,487,740,466,730,443,728,417,728,386,728,310,728,178"/>
+<area shape="poly" id="edge55_Node000030_Node000004" title=" " alt="" coords="633,174,413,191,284,207,155,228,150,229,149,224,154,223,283,202,413,186,633,168"/>
+<area shape="poly" id="edge51_Node000030_Node000008" title=" " alt="" coords="828,168,2219,231,2219,236,828,173"/>
+<area shape="poly" id="edge50_Node000030_Node000009" title=" " alt="" coords="740,176,767,232,779,270,784,310,784,386,783,442,790,463,808,483,825,489,861,495,976,505,1309,519,1821,531,1940,537,1939,543,1821,536,1309,524,976,510,860,500,824,494,805,488,785,465,778,442,779,386,779,310,774,271,762,234,735,179"/>
+<area shape="poly" id="edge52_Node000030_Node000013" title=" " alt="" coords="778,175,1261,293,1259,298,777,180"/>
+<area shape="rect" id="Node000031" title=" " alt="" coords="211,225,437,251"/>
+<area shape="poly" id="edge56_Node000030_Node000031" title=" " alt="" coords="666,180,403,226,402,220,665,175"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="462,225,693,251"/>
+<area shape="poly" id="edge57_Node000030_Node000032" title=" " alt="" coords="707,180,616,222,614,217,705,175"/>
 </map>

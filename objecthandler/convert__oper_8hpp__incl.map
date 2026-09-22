@@ -1,21 +1,44 @@
 <map id="convert_oper.hpp" name="convert_oper.hpp">
-<area shape="rect" id="node1" title="Class ConvertOper &#45; Perform datatype conversions of OPERs." alt="" coords="508,5,643,32"/>
-<area shape="rect" id="node2" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,244,295,271"/>
-<area shape="rect" id="node6" title=" " alt="" coords="95,162,266,189"/>
-<area shape="rect" id="node7" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="583,80,706,107"/>
-<area shape="rect" id="node10" title=" " alt="" coords="530,244,589,271"/>
-<area shape="rect" id="node18" href="$xloper_8hpp.html" title="Class Xloper &#45; Perform RAII for Excel&#39;s XLOPER datatype." alt="" coords="362,80,485,107"/>
-<area shape="rect" id="node19" title=" " alt="" coords="1585,80,1661,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,319,135,345"/>
-<area shape="rect" id="node4" title=" " alt="" coords="159,319,298,345"/>
-<area shape="rect" id="node5" title=" " alt="" coords="323,319,388,345"/>
-<area shape="rect" id="node8" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="341,162,476,189"/>
-<area shape="rect" id="node12" title=" " alt="" coords="552,162,615,189"/>
-<area shape="rect" id="node13" title=" " alt="" coords="639,162,775,189"/>
-<area shape="rect" id="node14" title=" " alt="" coords="800,155,943,196"/>
-<area shape="rect" id="node15" title=" " alt="" coords="967,155,1109,196"/>
-<area shape="rect" id="node16" title=" " alt="" coords="1133,155,1276,196"/>
-<area shape="rect" id="node17" href="$convert2_8hpp.html" title="Generic conversion functions &#45; used to convert from property_t or OPER to an C++ data type." alt="" coords="1300,162,1509,189"/>
-<area shape="rect" id="node9" title=" " alt="" coords="320,244,407,271"/>
-<area shape="rect" id="node11" title=" " alt="" coords="431,244,506,271"/>
+<area shape="rect" id="Node000001" title="Class ConvertOper &#45; Perform datatype conversions of OPERs." alt="" coords="508,5,643,31"/>
+<area shape="rect" id="Node000002" href="$ohdefines_8hpp.html" title="Preprocessor directives for ObjectHandler compilation." alt="" coords="162,240,295,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="508,30,397,46,268,72,208,89,154,108,112,130,86,154,78,172,86,191,98,205,114,217,150,235,148,239,111,222,95,209,81,193,73,172,81,150,109,125,152,103,206,84,267,67,396,41,507,24"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="95,159,266,185"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="517,33,437,53,351,81,274,118,211,154,208,150,272,113,349,76,436,48,516,28"/>
+<area shape="rect" id="Node000007" href="$property_8hpp.html" title="Class property_t &#45; A class to represent any of a selection of native C++ datatypes." alt="" coords="583,79,706,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="589,29,626,67,622,71,585,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="530,240,589,265"/>
+<area shape="poly" id="edge22_Node000001_Node000010" title=" " alt="" coords="643,18,897,29,1058,41,1218,57,1361,79,1421,93,1471,108,1509,125,1532,145,1537,157,1538,169,1533,181,1524,194,1509,201,1481,207,1391,217,1120,235,603,253,603,248,1119,229,1391,212,1480,201,1508,196,1520,190,1529,179,1533,168,1532,158,1527,149,1506,130,1469,113,1420,98,1360,84,1217,62,1057,46,897,35,643,24"/>
+<area shape="rect" id="Node000018" href="$xloper_8hpp.html" title="Class Xloper &#45; Perform RAII for Excel&#39;s XLOPER datatype." alt="" coords="362,79,485,104"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="552,33,461,75,459,70,550,28"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1585,79,1661,104"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="643,18,806,22,1035,31,1299,49,1566,76,1572,77,1572,82,1566,81,1298,54,1035,37,806,27,643,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,313,135,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,268,109,310,107,305,202,263"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,313,298,339"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="231,266,231,300,226,300,226,266"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="323,313,388,339"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,263,324,304,321,309,248,268"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="583,103,444,124,377,138,331,154,293,187,250,231,246,228,289,183,329,150,376,133,443,119,583,97"/>
+<area shape="rect" id="Node000008" href="$exception_8hpp.html" title="Class Exception &#45; A simple Exception class for ObjectHandler." alt="" coords="341,159,476,185"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="611,107,457,158,455,153,610,101"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="607,106,571,125,555,138,543,153,537,171,537,190,549,226,544,228,532,191,532,170,538,151,551,134,568,120,604,102"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="552,159,615,185"/>
+<area shape="poly" id="edge14_Node000007_Node000012" title=" " alt="" coords="638,106,603,150,599,147,634,103"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="639,159,775,185"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="656,103,692,147,687,150,652,106"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="800,152,943,192"/>
+<area shape="poly" id="edge16_Node000007_Node000014" title=" " alt="" coords="678,101,805,145,803,150,677,107"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="967,152,1109,192"/>
+<area shape="poly" id="edge17_Node000007_Node000015" title=" " alt="" coords="707,101,954,149,953,154,706,106"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="1133,152,1276,192"/>
+<area shape="poly" id="edge18_Node000007_Node000016" title=" " alt="" coords="707,96,888,116,1120,149,1119,154,887,121,706,101"/>
+<area shape="rect" id="Node000017" href="$convert2_8hpp.html" title="Generic conversion functions &#45; used to convert from property_t or OPER to an C++ data type." alt="" coords="1300,159,1509,185"/>
+<area shape="poly" id="edge19_Node000007_Node000017" title=" " alt="" coords="706,94,961,115,1289,149,1326,155,1325,160,1288,155,960,120,706,100"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="384,187,268,237,266,232,381,182"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="320,240,407,265"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="404,186,379,229,375,227,400,184"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="432,182,526,231,524,236,430,187"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="431,240,506,265"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="420,183,453,227,449,230,415,186"/>
+<area shape="poly" id="edge21_Node000018_Node000006" title=" " alt="" coords="389,107,230,158,228,153,387,101"/>
 </map>

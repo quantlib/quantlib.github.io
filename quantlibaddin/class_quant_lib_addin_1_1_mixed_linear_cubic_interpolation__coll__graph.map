@@ -1,7 +1,11 @@
 <map id="QuantLibAddin::MixedLinearCubicInterpolation" name="QuantLibAddin::MixedLinearCubicInterpolation">
-<area shape="rect" id="node1" title=" " alt="" coords="111,244,315,285"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_interpolation.html" title=" " alt="" coords="109,169,317,196"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,95,213,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,5,216,47"/>
-<area shape="rect" id="node5" title=" " alt="" coords="237,95,397,121"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,240,315,280"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_interpolation.html" title=" " alt="" coords="109,167,317,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,206,216,240,211,240,211,206"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_extrapolator.html" title=" " alt="" coords="8,93,213,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,124,198,164,195,169,137,129"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,216,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,59,113,93,108,93,108,59"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="237,93,397,119"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="291,129,232,169,229,164,288,124"/>
 </map>

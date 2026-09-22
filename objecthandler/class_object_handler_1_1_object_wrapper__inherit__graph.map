@@ -1,6 +1,9 @@
 <map id="ObjectHandler::ObjectWrapper" name="ObjectHandler::ObjectWrapper">
-<area shape="rect" id="node1" title="Container to ensure that Object references are updated." alt="" coords="93,80,313,107"/>
-<area shape="rect" id="node4" href="$class_object_handler_1_1_object_wrapper_x_l.html" title="Customization of the ObjectWrapper class for the Excel platform." alt="" coords="85,155,321,181"/>
-<area shape="rect" id="node2" href="$class_object_handler_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,188,32"/>
-<area shape="rect" id="node3" href="$class_object_handler_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="213,5,410,32"/>
+<area shape="rect" id="Node000001" title="Container to ensure that Object references are updated." alt="" coords="93,79,313,104"/>
+<area shape="rect" id="Node000004" href="$class_object_handler_1_1_object_wrapper_x_l.html" title="Customization of the ObjectWrapper class for the Excel platform." alt="" coords="85,152,321,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,118,206,152,201,152,201,118"/>
+<area shape="rect" id="Node000002" href="$class_object_handler_1_1_observer.html" title="Object that gets notified when a given observable changes." alt="" coords="5,5,188,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,36,187,76,184,81,124,40"/>
+<area shape="rect" id="Node000003" href="$class_object_handler_1_1_observable.html" title="Object that notifies its changes to a set of observers." alt="" coords="213,5,410,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,40,222,81,220,76,281,36"/>
 </map>

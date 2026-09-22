@@ -1,22 +1,48 @@
 <map id="valueobject.hpp" name="valueobject.hpp">
-<area shape="rect" id="node1" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="283,5,409,32"/>
-<area shape="rect" id="node2" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="238,80,329,107"/>
-<area shape="rect" id="node17" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="64,155,239,181"/>
-<area shape="rect" id="node18" href="$vo__group_8hpp_source.html" title=" " alt="" coords="353,80,464,107"/>
-<area shape="rect" id="node20" href="$vo__range_8hpp_source.html" title=" " alt="" coords="488,80,599,107"/>
-<area shape="rect" id="node3" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="427,304,513,331"/>
-<area shape="rect" id="node8" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="207,379,346,405"/>
-<area shape="rect" id="node9" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="240,229,372,256"/>
-<area shape="rect" id="node10" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="448,229,591,256"/>
-<area shape="rect" id="node16" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="5,229,92,256"/>
-<area shape="rect" id="node4" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="395,379,545,405"/>
-<area shape="rect" id="node5" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="457,453,523,480"/>
-<area shape="rect" id="node6" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="496,528,647,555"/>
-<area shape="rect" id="node7" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="532,603,611,629"/>
-<area shape="rect" id="node11" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="290,304,402,331"/>
-<area shape="rect" id="node12" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="538,304,653,331"/>
-<area shape="rect" id="node14" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="677,304,831,331"/>
-<area shape="rect" id="node13" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="570,379,698,405"/>
-<area shape="rect" id="node15" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="773,379,903,405"/>
-<area shape="rect" id="node19" href="$vo__all_8hpp_source.html" title=" " alt="" coords="499,155,588,181"/>
+<area shape="rect" id="Node000001" title="Class ValueObject &#45; Captures the inputs to an Object." alt="" coords="230,5,357,31"/>
+<area shape="rect" id="Node000002" href="$object_8hpp.html" title="Class Object &#45; Define interface for Objects to be stored in the Repository." alt="" coords="207,79,297,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,44,261,80,256,77,277,41"/>
+<area shape="rect" id="Node000017" href="$serializationfactory_8hpp.html" title="Class SerializationFactory &#45; A Singleton wrapping the boost::serialization interface." alt="" coords="341,152,515,177"/>
+<area shape="poly" id="edge29_Node000001_Node000017" title=" " alt="" coords="315,39,419,150,415,154,312,43"/>
+<area shape="rect" id="Node000003" href="$group_8hpp.html" title="class Group &#45; A collection of Objects" alt="" coords="286,299,373,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,116,328,297,323,299,258,118"/>
+<area shape="rect" id="Node000008" href="$objecthandler_8hpp_source.html" title=" " alt="" coords="184,372,323,397"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="194,107,124,128,89,142,57,159,31,178,14,199,8,223,17,249,34,273,55,295,105,329,157,354,205,369,204,375,155,358,102,334,52,299,30,277,12,252,3,223,9,197,27,174,54,154,87,137,123,123,193,102"/>
+<area shape="rect" id="Node000009" href="$libraryobject_8hpp.html" title="A customization of the Object class, suitable for most applications." alt="" coords="27,225,159,251"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="194,108,152,125,133,138,117,154,106,171,100,190,96,225,91,224,95,189,101,169,113,150,130,134,150,121,192,103"/>
+<area shape="rect" id="Node000010" href="$objectwrapper_8hpp.html" title="Class ObjectWrapper &#45; Ensure that Object references are up to date." alt="" coords="382,225,525,251"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="271,114,297,145,331,175,377,203,422,223,420,228,375,208,328,179,294,148,267,117"/>
+<area shape="rect" id="Node000016" href="$range_8hpp.html" title="class Range &#45; Container for a matrix of doubles" alt="" coords="127,152,214,177"/>
+<area shape="poly" id="edge24_Node000002_Node000016" title=" " alt="" coords="230,115,186,154,182,150,227,111"/>
+<area shape="poly" id="edge26_Node000002_Node000017" title=" " alt="" coords="294,107,400,149,398,154,292,112"/>
+<area shape="rect" id="Node000004" href="$getobjectvector_8hpp.html" title="Helper functions to facilitate retrieval of Object lists." alt="" coords="351,372,502,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,330,412,370,409,374,355,334"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="309,335,268,374,264,370,305,331"/>
+<area shape="rect" id="Node000005" href="$all_8hpp.html" title="#includes for all Excel conversion functions" alt="" coords="413,445,480,471"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="436,410,446,444,441,446,431,411"/>
+<area shape="rect" id="Node000006" href="$objecthandlerxl_8hpp.html" title="#includes for all functionality in ObjectHandler" alt="" coords="453,519,603,544"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="472,478,516,516,513,520,468,482"/>
+<area shape="rect" id="Node000007" href="$loop_8hpp.html" title="Support for Excel functions which loop on an input value." alt="" coords="489,592,567,617"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="531,558,531,592,525,592,525,558"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="285,402,403,468,503,516,501,521,400,473,283,407"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="115,259,180,322,240,370,236,374,177,326,112,262"/>
+<area shape="rect" id="Node000011" href="$objectwrapperxl_8hpp.html" title="Class ObjectWrapperXL &#45; Customization of the ObjectWrapper class for the Excel platform." alt="" coords="672,299,827,324"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="515,251,702,296,701,301,513,256"/>
+<area shape="rect" id="Node000014" href="$processor_8hpp.html" title="Class Processor &#45; Restore an Object&#39;s state after deserialization." alt="" coords="397,299,509,324"/>
+<area shape="poly" id="edge18_Node000010_Node000014" title=" " alt="" coords="456,264,456,299,451,299,451,264"/>
+<area shape="rect" id="Node000015" href="$repository_8hpp.html" title="Class Repository &#45; Maintain a store of Objects." alt="" coords="533,299,648,324"/>
+<area shape="poly" id="edge20_Node000010_Node000015" title=" " alt="" coords="489,254,569,296,567,301,486,259"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="785,329,804,343,820,360,828,379,824,398,803,425,779,448,722,483,661,507,604,522,603,516,660,502,720,478,775,443,799,421,819,396,823,379,816,363,801,347,782,333"/>
+<area shape="rect" id="Node000012" href="$callingrange_8hpp.html" title="Class CallingRange &#45; Processing for the host cell of an Object." alt="" coords="679,372,809,397"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="750,338,748,372,742,372,745,338"/>
+<area shape="rect" id="Node000013" href="$repositoryxl_8hpp.html" title="Class RepositoryXL &#45; Excel&#45;specific enhancements to the Repository class." alt="" coords="527,372,655,397"/>
+<area shape="poly" id="edge16_Node000011_Node000013" title=" " alt="" coords="713,332,618,374,616,369,711,327"/>
+<area shape="poly" id="edge17_Node000013_Node000006" title=" " alt="" coords="583,411,535,520,531,517,578,409"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="409,331,287,374,285,369,407,326"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="553,332,455,374,452,369,551,327"/>
+<area shape="poly" id="edge22_Node000015_Node000008" title=" " alt="" coords="524,329,308,375,307,369,522,324"/>
+<area shape="poly" id="edge23_Node000015_Node000013" title=" " alt="" coords="593,338,593,372,588,372,588,338"/>
+<area shape="poly" id="edge25_Node000016_Node000008" title=" " alt="" coords="182,189,232,323,251,371,246,373,227,325,177,191"/>
+<area shape="poly" id="edge27_Node000017_Node000008" title=" " alt="" coords="398,187,336,233,304,265,277,300,262,338,257,372,251,371,257,337,272,297,300,261,332,229,395,183"/>
+<area shape="poly" id="edge28_Node000017_Node000010" title=" " alt="" coords="439,189,452,224,447,226,434,191"/>
 </map>

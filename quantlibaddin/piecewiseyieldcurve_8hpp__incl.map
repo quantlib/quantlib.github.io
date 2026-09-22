@@ -1,11 +1,19 @@
 <map id="piecewiseyieldcurve.hpp" name="piecewiseyieldcurve.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="373,5,555,32"/>
-<area shape="rect" id="node2" href="$yieldtermstructures_8hpp.html" title=" " alt="" coords="363,80,565,107"/>
-<area shape="rect" id="node3" href="$termstructures_8hpp.html" title=" " alt="" coords="5,162,176,189"/>
-<area shape="rect" id="node6" title=" " alt="" coords="200,162,363,189"/>
-<area shape="rect" id="node7" title=" " alt="" coords="387,162,541,189"/>
-<area shape="rect" id="node8" title=" " alt="" coords="566,162,669,189"/>
-<area shape="rect" id="node9" title=" " alt="" coords="693,155,870,196"/>
-<area shape="rect" id="node4" href="$extrapolator_8hpp.html" title=" " alt="" coords="14,244,167,271"/>
-<area shape="rect" id="node5" title=" " alt="" coords="15,319,167,345"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,5,555,31"/>
+<area shape="rect" id="Node000002" href="$yieldtermstructures_8hpp.html" title=" " alt="" coords="363,79,565,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,31,467,65,461,65,461,31"/>
+<area shape="rect" id="Node000003" href="$termstructures_8hpp.html" title=" " alt="" coords="5,159,176,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,107,159,159,158,154,409,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="200,159,363,185"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="438,106,322,156,320,151,436,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="387,159,541,185"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="467,104,467,145,461,145,461,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="566,159,669,185"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="488,102,584,151,581,155,485,107"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="693,152,870,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="511,101,693,146,691,151,510,107"/>
+<area shape="rect" id="Node000004" href="$extrapolator_8hpp.html" title=" " alt="" coords="14,240,167,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="93,185,93,226,88,226,88,185"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="15,313,167,339"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="93,266,93,300,88,300,88,266"/>
 </map>

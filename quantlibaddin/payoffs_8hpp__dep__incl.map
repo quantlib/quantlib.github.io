@@ -1,5 +1,8 @@
 <map id="payoffs.hpp" name="payoffs.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node2" href="$qladdin_8hpp.html" title=" " alt="" coords="5,155,104,181"/>
-<area shape="rect" id="node3" href="$stickyratchet_8hpp.html" title=" " alt="" coords="41,80,175,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,104,31"/>
+<area shape="rect" id="Node000002" href="$qladdin_8hpp.html" title=" " alt="" coords="5,152,104,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,44,32,73,31,104,39,129,50,150,45,153,34,131,25,104,27,71,38,42"/>
+<area shape="rect" id="Node000003" href="$stickyratchet_8hpp.html" title=" " alt="" coords="41,79,175,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="74,40,101,77,97,80,69,43"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="93,117,65,153,61,150,89,113"/>
 </map>

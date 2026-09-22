@@ -1,5 +1,21 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,179,73"/>
-<area shape="rect" id="node2" href="$class_quant_lib_addin_1_1_swaption_vol_cube1.html" title=" " alt="" coords="227,5,432,47"/>
-<area shape="rect" id="node3" href="$class_quant_lib_addin_1_1_swaption_vol_cube2.html" title=" " alt="" coords="227,71,432,112"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,225,151,251"/>
+<area shape="rect" id="Node000001" href="$class_quant_lib_addin_1_1_discount_curve.html" title=" " alt="" coords="208,5,428,31"/>
+<area shape="poly" id="edge241_Node000000_Node000001" title=" " alt="" coords="85,211,100,173,123,126,156,79,197,40,218,29,221,33,200,44,160,82,128,129,105,175,90,213"/>
+<area shape="rect" id="Node000002" href="$class_quant_lib_addin_1_1_flat_forward.html" title=" " alt="" coords="217,55,419,80"/>
+<area shape="poly" id="edge242_Node000000_Node000002" title=" " alt="" coords="90,212,132,150,162,117,197,89,222,78,224,82,200,94,165,120,136,153,94,215"/>
+<area shape="rect" id="Node000003" href="$class_quant_lib_addin_1_1_forward_curve.html" title=" " alt="" coords="211,104,425,129"/>
+<area shape="poly" id="edge243_Node000000_Node000003" title=" " alt="" coords="99,213,142,175,169,156,198,140,232,127,234,132,200,144,172,160,145,179,103,217"/>
+<area shape="rect" id="Node000004" href="$class_quant_lib_addin_1_1_forward_spreaded_term_structure.html" title=" " alt="" coords="199,154,437,194"/>
+<area shape="poly" id="edge244_Node000000_Node000004" title=" " alt="" coords="139,219,241,192,243,197,140,224"/>
+<area shape="rect" id="Node000005" href="$class_quant_lib_addin_1_1_implied_term_structure.html" title=" " alt="" coords="215,218,421,258"/>
+<area shape="poly" id="edge245_Node000000_Node000005" title=" " alt="" coords="165,235,214,235,214,241,165,241"/>
+<area shape="rect" id="Node000006" href="$class_quant_lib_addin_1_1_interpolated_yield_curve.html" title=" " alt="" coords="216,282,420,322"/>
+<area shape="poly" id="edge246_Node000000_Node000006" title=" " alt="" coords="140,252,243,279,241,284,139,257"/>
+<area shape="rect" id="Node000007" href="$class_quant_lib_addin_1_1_piecewise_flat_forward_curve.html" title=" " alt="" coords="223,346,413,386"/>
+<area shape="poly" id="edge247_Node000000_Node000007" title=" " alt="" coords="104,259,146,296,200,332,228,343,226,348,197,336,143,301,100,263"/>
+<area shape="rect" id="Node000008" href="$class_quant_lib_addin_1_1_piecewise_yield_curve.html" title=" " alt="" coords="223,410,413,450"/>
+<area shape="poly" id="edge248_Node000000_Node000008" title=" " alt="" coords="94,262,135,329,165,365,200,396,224,408,221,413,197,400,161,369,130,332,89,265"/>
+<area shape="rect" id="Node000009" href="$class_quant_lib_addin_1_1_zero_curve.html" title=" " alt="" coords="221,475,415,500"/>
+<area shape="poly" id="edge249_Node000000_Node000009" title=" " alt="" coords="88,264,102,308,124,361,157,415,177,439,200,460,223,472,220,477,197,464,173,443,152,418,119,363,97,309,83,265"/>
 </map>

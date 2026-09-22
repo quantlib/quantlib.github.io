@@ -1,7 +1,11 @@
 <map id="iless.hpp" name="iless.hpp">
-<area shape="rect" id="node1" title="is_less comparison functors and less predicates" alt="" coords="334,5,414,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,172,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="196,80,363,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="387,80,553,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="578,87,663,114"/>
+<area shape="rect" id="Node000001" title="is_less comparison functors and less predicates" alt="" coords="334,5,414,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,172,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,33,171,78,170,72,333,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,79,363,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,33,315,72,311,68,358,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="387,79,553,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,29,438,68,435,72,386,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="578,86,663,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="413,28,567,76,576,79,574,84,565,81,411,33"/>
 </map>

@@ -1,3 +1,4 @@
 <map id="ObjectHandler::SerializationFactory" name="ObjectHandler::SerializationFactory">
-<area shape="rect" id="node1" title="A Singleton wrapping the boost::serialization interface." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="Node000001" title="A Singleton wrapping the boost::serialization interface." alt="" coords="5,5,209,45"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="224,18,236,25,228,32,210,34,209,29,226,27,231,25,222,23"/>
 </map>
