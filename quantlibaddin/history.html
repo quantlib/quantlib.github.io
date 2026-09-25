@@ -19,7 +19,7 @@
     <div id='wrapper'>
         <div id='header'>
         <div id='floatleft'><a class="imglink" href="index.html"><img src="images/logo_qla.jpg" width="180" height="72" border="0" alt="QuantLibAddin Logo"/></a></div>
-        <div id='floatright'><a class="imglink" href="http://quantlib.org"><img src="images/logo_ql.jpg" width="130" height="82" border="0" alt="QuantLib Logo"/></a></div>
+        <div id='floatright'><a class="imglink" href="https://www.quantlib.org"><img src="images/logo_ql.jpg" width="130" height="82" border="0" alt="QuantLib Logo"/></a></div>
         </div>
         <div id='content'>
             <div id='col-left'>
@@ -63,11 +63,14 @@
 <div class="contents">
 <div class="textblock"><p><b>Release 1.42 - September 2026</b></p>
 <ul>
+<li>Added qlRiskyBondEngine pricing engine, qlFraAmount FRA payoff function, and renamed qlFRAforwardRate to qlFraForwardRate; removed qlFixedRateBond2: deleted the <a class="el" href="namespace_quant_lib_addin.html">QuantLibAddin</a> wrapper constructor that accepted a vector of InterestRate objects as coupons, on the grounds that the same bond can be constructed via the simpler qlFixedRateBond interface which takes raw Rate values and a DayCounter directly (thanks to Francois Botha)</li>
+<li>Added new ratehelpers and updated example sheet (thanks to Sebastian Schlenkrich)</li>
+<li>Added FX forward instrument and DiscountingFxForwardEngine (thanks to Mike Scaturo)</li>
 <li>Added a cmake build that sits alongside the existing build using the manually maintained Visual Studio solution files</li>
 <li>Made the cmake build of the C++ addin work on Linux with gcc: portable WIN32/MSVC guards, gensrc moved into its own gensrc/CMakeLists.txt (optional QLA_RUN_GENSRC step), and a native linux-gcc preset</li>
 <li>Reenabled the C++ addin. In the visual studio build, the build of the C++ addin was still working. Fixed a problem where the build would fail if doxygen were not installed. Extended the cmake build to support the build of the C++ addin.</li>
-<li>Added FX forward instrument and DiscountingFxForwardEngine (thanks to Mike Scaturo)</li>
-<li>Added new ratehelpers and updated example sheet (thanks to Sebastian Schlenkrich)</li>
+<li>Upgraded project files to VS2026 (v145 toolset)</li>
+<li>Visual Studio project files: Redirect Debug PDB output to OutDir to avoid mspdbsrv post-build copy lock</li>
 <li>Updated for compatibility with the ORE fork of <a class="el" href="namespace_quant_lib.html">QuantLib</a>:<ul>
 <li>qlCalendarHolidayList: Calendar::holidayList() changed from static to instance method; updated gensrc metadata from Procedure/alias to EnumerationMember</li>
 <li>qlCalendarAdvance: Calendar::advance() gained an optional 5th parameter; suppressed in gensrc metadata and reimplemented manually in manual.cpp / loop_calendar_manual.hpp with the correct cmf5 bind signature</li>
@@ -82,9 +85,6 @@
 <li>swaptionvolstructure.cpp, dividendvanillaoption.cpp, credit.cpp: updated for renamed/removed <a class="el" href="namespace_quant_lib.html">QuantLib</a> classes</li>
 </ul>
 </li>
-<li>Upgraded project files to VS2026 (v145 toolset)</li>
-<li>Visual Studio project files: Redirect Debug PDB output to OutDir to avoid mspdbsrv post-build copy lock</li>
-<li>Added qlRiskyBondEngine pricing engine, qlFraAmount FRA payoff function, and renamed qlFRAforwardRate to qlFraForwardRate; removed qlFixedRateBond2: deleted the <a class="el" href="namespace_quant_lib_addin.html">QuantLibAddin</a> wrapper constructor that accepted a vector of InterestRate objects as coupons, on the grounds that the same bond can be constructed via the simpler qlFixedRateBond interface which takes raw Rate values and a DayCounter directly (thanks to Francois Botha)</li>
 </ul>
 <p><b>Release 1.22.0 - May 2021</b></p>
 <ul>
@@ -441,7 +441,7 @@
 <!-- start footer part -->
             </div>
             <div class='clearfix'></div>
-<div id="footer">SourceForge logo copyright &#169; Open Source Technology Group<br>reposit logo <a href="http://www.reposit.be">copyright &#169; 2015 reposit Ltd Dublin</a><br>all other content <a href="license.html">copyright &#169; 2004-20015 The QuantLib Group</a></div>
+<div id="footer">reposit logo <a href="http://www.reposit.be">copyright &#169; 2015 reposit Ltd Dublin</a><br>all other content <a href="license.html">copyright &#169; 2004-2026 The QuantLib Group</a></div>
         </div>
         <div class='clearfix'></div>
     </div>

@@ -19,7 +19,7 @@
     <div id='wrapper'>
         <div id='header'>
         <div id='floatleft'><a class="imglink" href="index.html"><img src="images/logo_qla.jpg" width="180" height="72" border="0" alt="QuantLibAddin Logo"/></a></div>
-        <div id='floatright'><a class="imglink" href="http://quantlib.org"><img src="images/logo_ql.jpg" width="130" height="82" border="0" alt="QuantLib Logo"/></a></div>
+        <div id='floatright'><a class="imglink" href="https://www.quantlib.org"><img src="images/logo_ql.jpg" width="130" height="82" border="0" alt="QuantLib Logo"/></a></div>
         </div>
         <div id='content'>
             <div id='col-left'>
@@ -61,11 +61,7 @@
   <div class="headertitle"><div class="title">Expose QuantLib Template Classes to QuantLibXL</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><table border="1" bgcolor="lightsteelblue">
-<tr>
-<td><b>NB:</b> These pages may be out of date. The project no longer provides source code tarballs / zip files. To compile the code, clone the <a href="https://github.com/eehlers/QuantLibAddIn">repo</a> and follow the README.md.   </td></tr>
-</table>
-<div align="center"><small>&copy; 2011 Andrew Downes</small></div> <div align="center"><small><a href="tutorials.html">back to tutorials index</a></small></div><p>This document demonstrates how to expose a template QuantLib class to excel. As a prerequisite it is assumed that you have already compiled QuantLibXL from source code using the Full build documented in the tutorial <a class="el" href="build_qlxl.html">Build QuantLibXL From Source Code</a>.</p>
+<div class="textblock"><div align="center"><small>&copy; 2011 Andrew Downes</small></div> <div align="center"><small><a href="tutorials.html">back to tutorials index</a></small></div><p>This document demonstrates how to expose a template QuantLib class to excel. As a prerequisite it is assumed that you have already compiled QuantLibXL from source code using the Full build documented in the tutorial <a class="el" href="build_qlxl.html">Build QuantLibXL From Source Code</a>.</p>
 <p>Here we expose the QuantLib class PiecewiseZeroInflationCurve. The method used is based on the PiecewiseYieldCurve class which has already been exposed to Excel. This document outlines the necessary steps and gives most of the required code base, for a more detailed explanation see the corresponding files for the PiecewiseYieldCurve. for a tutorial on exposing regular QuantLib classes to QuantLibXL, see also <a class="el" href="extend_tutorial.html">Expose QuantLib Classes to QuantLibXL</a>.</p>
 <p>The PiecewiseZeroInflationCurve class can have up to three template arguments. However, for this tutorial we only consider the first template argument, we use the default template type for the second and third arguments.</p>
 <p>Some additional classes such as the InflationRateHelper class and ZeroInflationTermStructure class are required to construct a PiecewiseZeroInflationCurve, as such a brief outline of the files and class names used to expose these to Excel is given. Steps 3-6 are the main steps relating to wrapping a template class.</p>
@@ -717,7 +713,7 @@ default='false'&gt;
 <!-- start footer part -->
             </div>
             <div class='clearfix'></div>
-<div id="footer">SourceForge logo copyright &#169; Open Source Technology Group<br>reposit logo <a href="http://www.reposit.be">copyright &#169; 2015 reposit Ltd Dublin</a><br>all other content <a href="license.html">copyright &#169; 2004-20015 The QuantLib Group</a></div>
+<div id="footer">reposit logo <a href="http://www.reposit.be">copyright &#169; 2015 reposit Ltd Dublin</a><br>all other content <a href="license.html">copyright &#169; 2004-2026 The QuantLib Group</a></div>
         </div>
         <div class='clearfix'></div>
     </div>
