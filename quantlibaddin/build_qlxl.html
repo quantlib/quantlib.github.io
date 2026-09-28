@@ -110,10 +110,10 @@
 3 A Note on Directories</h1>
 <p>You are now ready to proceed with the build. The source code is distributed as two downloads: </p><ul>
 <li>a single combined archive containing QuantLibXL together with its sibling projects gensrc, ObjectHandler and QuantLibAddin; and </li>
-<li><a href="https://www.quantlib.org/">QuantLib</a> 1.42.0, the core C++ analytics library, which is released separately.</li>
+<li>the <a href="https://github.com/OpenSourceRisk/QuantLib">OpenSourceRisk fork of QuantLib</a>, the core C++ analytics library, which is obtained separately from its own repository (it is not packaged as a 1.42.0 release, so you clone or download it directly - see section 4).</li>
 </ul>
 <p>The build refers to the prerequisite projects QuantLib, ObjectHandler, QuantLibAddin, and (for the Full build) gensrc using relative pathnames. In order for this to work, these projects must reside side by side in the directory tree, and the name of each project's parent directory must not include the version number (e.g. <code>QuantLib</code> not <code>QuantLib-1.42.0</code>). The combined archive already contains gensrc, ObjectHandler, QuantLibAddin and QuantLibXL in the correct layout, so you only need to add QuantLib alongside them.</p>
-<p>Create a new empty folder on your hard drive to serve as the root directory for the build. You can use any path; for purposes of this tutorial the build directory is <code>C:\QuantLibAddin-1.42.0</code>. Unpack the combined archive into that directory. Then unpack QuantLib alongside them and manually rename its target directory, removing the <code>1.42.0</code> suffix. After all of the source code is unpacked you should have the following directory structure: </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc (required only for the Full build)
+<p>Choose a parent directory on your hard drive under which the build tree will live. You can use any path; for purposes of this tutorial the parent directory is <code>C:\</code>, so the build root becomes <code>C:\QuantLibAddin-1.42.0</code>. Unpack the combined archive <em>into the parent</em> (e.g. <code>C:\</code>), not into a folder that is itself named <code>QuantLibAddin-1.42.0</code>. Then unpack QuantLib alongside them and manually rename its target directory, removing the <code>1.42.0</code> suffix. After all of the source code is unpacked you should have the following directory structure: </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc (required only for the Full build)
 C:\QuantLibAddin-1.42.0\ObjectHandler
 C:\QuantLibAddin-1.42.0\QuantLib
 C:\QuantLibAddin-1.42.0\QuantLibAddin
@@ -122,7 +122,7 @@ C:\QuantLibAddin-1.42.0\QuantLibXL
 4 Install the Source Code</h1>
 <p>Download the combined source-code archive from:</p>
 <p><a href="https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0">https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0</a></p>
-<p>and uncompress it to <code>C:\QuantLibAddin-1.42.0</code>. This single archive contains gensrc, ObjectHandler, QuantLibAddin and QuantLibXL, already laid out side by side under a top-level <code>QuantLibAddin</code> folder; no separate per-project download of those projects is required.</p>
+<p>and uncompress it into the <em>parent</em> directory (e.g. <code>C:\</code>) to obtain <code>C:\QuantLibAddin-1.42.0</code>. This single archive contains gensrc, ObjectHandler, QuantLibAddin and QuantLibXL, already laid out side by side under a top-level <code>QuantLibAddin-1.42.0</code> folder; no separate per-project download of those projects is required.</p>
 <p>Download a copy of the source code for the OpenSourceRisk fork of <a class="el" href="namespace_quant_lib.html">QuantLib</a>. At the time of this writing, that code has not been packaged for version 1.42.0. You will have to grab it from their repo:</p>
 <p><a href="https://github.com/OpenSourceRisk/QuantLib">https://github.com/OpenSourceRisk/QuantLib</a></p>
 <p>Download it alongside the bundled projects, renaming the target directory to <code>C:\QuantLibAddin-1.42.0\QuantLib</code>.</p>
@@ -135,12 +135,15 @@ C:\QuantLibAddin-1.42.0\QuantLibXL
 <p>The build process creates the QuantLibXL XLL file <code>QuantLibXL\xll\QuantLibXL-v145-x64-mt-s-1_42_0.xll</code> (the exact name reflects your toolset and platform). Instructions for loading the addin are provided in the QuantLibXL installation document: <a href="https://www.quantlibxl.org/installation.html">https://www.quantlibxl.org/installation.html</a></p>
 <h1><a class="anchor" id="build_qlxl_cmake"></a>
 6 Build QuantLibXL with CMake</h1>
-<p>The cmake build is x64 only. It builds each project into its own build tree, so you build the prerequisites first and then point the QuantLibXL build at them. To see the presets available on your platform, run <code>cmake &ndash;list-presets</code>; the example below uses the <code>windows-vs2026-x64-static</code> preset. The <code>-DRUN_GENSRC=ON</code> option selects the <b>Full</b> build (it runs gensrc to regenerate the autogenerated source code and requires Python 3); omit it for a <b>Basic</b> build.</p>
+<p>The cmake build is x64 only. It builds each project into its own build tree, so you build the prerequisites first and then point the QuantLibXL build at them. There is no ready-made preset to select on Windows (the <code>windows-...</code> entries in <code>CMakePresets.json</code> are hidden base presets, not directly selectable), so drive the build with an explicit generator. The <code>-DRUN_GENSRC=ON</code> option selects the <b>Full</b> build (it runs gensrc to regenerate the autogenerated source code and requires Python 3); omit it for a <b>Basic</b> build.</p>
 <p>Build QuantLib, ObjectHandler and QuantLibAddin first (see <a class="el" href="build_cpp.html">Build A QuantLibAddin C++ Environment on Windows and/or Linux</a> for the addin libraries), then configure and build the XLL:</p>
 <pre class="fragment">cd C:\QuantLibAddin-1.42.0\QuantLibXL
-cmake --preset windows-vs2026-x64-static -DRUN_GENSRC=ON ^
-    "-DCMAKE_PREFIX_PATH=../QuantLib/build/windows-vs2026-x64-static;../ObjectHandler/build/windows-vs2026-x64-static;../QuantLibAddin/build/windows-vs2026-x64-static"
-cmake --build build\windows-vs2026-x64-static --config Release --target QuantLibXL
+cmake -S . -B build\windows-x64 -G "Visual Studio 18 2026" -A x64 ^
+    -DRUN_GENSRC=ON ^
+    -DBoost_USE_STATIC_RUNTIME=ON -DMSVC_LINK_DYNAMIC_RUNTIME=OFF ^
+    -DBOOST_INCLUDEDIR=C:\path\to\boost -DBOOST_LIBRARYDIR=C:\path\to\boost\stage\lib ^
+    "-DCMAKE_PREFIX_PATH=../QuantLib/build/windows-x64;../ObjectHandler/build/windows-x64;../QuantLibAddin/build/windows-x64"
+cmake --build build\windows-x64 --config Release --target QuantLibXL
 </pre><p>The build produces the same QuantLibXL XLL described above. Instructions for loading the addin are provided in the QuantLibXL installation document: <a href="https://www.quantlib.org/quantlibxl/installation.html">https://www.quantlib.org/quantlibxl/installation.html</a></p>
 <div align="center"><small><a href="tutorials.html">back to tutorials index</a></small></div> </div></div><!-- contents -->
 </div><!-- PageDoc -->

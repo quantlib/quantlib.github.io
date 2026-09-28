@@ -84,11 +84,13 @@ Overview</h1>
 <dd><dl>
 <dt><a class="el" href="build_cpp.html#build_cpp_vs_download">2.1 Download</a> </dt>
 <dd></dd>
-<dt><a class="el" href="build_cpp.html#build_cpp_vs_build">2.2 Build</a> </dt>
+<dt><a class="el" href="build_cpp.html#build_cpp_vs_boostprops">2.2 Configure Boost</a> </dt>
 <dd></dd>
-<dt><a class="el" href="build_cpp.html#build_cpp_vs_test">2.3 Test</a> </dt>
+<dt><a class="el" href="build_cpp.html#build_cpp_vs_build">2.3 Build</a> </dt>
 <dd></dd>
-<dt><a class="el" href="build_cpp.html#build_cpp_vs_usage">2.4 Usage</a> </dt>
+<dt><a class="el" href="build_cpp.html#build_cpp_vs_test">2.4 Test</a> </dt>
+<dd></dd>
+<dt><a class="el" href="build_cpp.html#build_cpp_vs_usage">2.5 Usage</a> </dt>
 <dd></dd>
 </dl>
 </dd>
@@ -131,7 +133,7 @@ Overview</h1>
 <h3><a class="anchor" id="build_cpp_vs_directories"></a>
 2.1.1 Directories</h3>
 <p>The Visual Studio project files for QuantLibAddin rely on relative pathnames to refer to the prerequisite projects QuantLib, gensrc, and ObjectHandler. In order for this to work, these projects must reside side by side in the directory tree, and the name of each project's parent directory must not include the version number (e.g. <code>QuantLib</code> not <code>QuantLib-1.42.0</code>). The combined archive already contains gensrc, ObjectHandler and QuantLibAddin in the correct layout, so you only need to add QuantLib alongside them.</p>
-<p>Create a new empty folder on your hard drive to serve as the root directory for the build. You can use any path; for purposes of this tutorial the build directory is <code>C:\QuantLibAddin-1.42.0</code>. After unpacking (below) you should have the following directory structure: </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc
+<p>Choose a parent directory on your hard drive under which the build tree will live. You can use any path; for purposes of this tutorial the parent directory is <code>C:\</code>, so the build root becomes <code>C:\QuantLibAddin-1.42.0</code>. The archive already includes the <code>QuantLibAddin-1.42.0</code> folder, so you uncompress it <em>into the parent</em> rather than into a folder that is itself named <code>QuantLibAddin-1.42.0</code>. After unpacking (below) you should have the following directory structure: </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc
 C:\QuantLibAddin-1.42.0\ObjectHandler
 C:\QuantLibAddin-1.42.0\QuantLib
 C:\QuantLibAddin-1.42.0\QuantLibAddin
@@ -139,16 +141,46 @@ C:\QuantLibAddin-1.42.0\QuantLibAddin
 2.1.2 Uncompress the Source Code</h3>
 <p>Download the combined source-code archive from:</p>
 <p><a href="https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0">https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0</a></p>
-<p>and uncompress it to <code>C:\QuantLibAddin-1.42.0</code>. This single archive contains gensrc, ObjectHandler and QuantLibAddin, already laid out side by side under a top-level <code>QuantLibAddin-1.42.0</code> folder; no separate per-project download of those projects is required.</p>
+<p>The archive already contains a single top-level <code>QuantLibAddin-1.42.0</code> folder holding gensrc, ObjectHandler and QuantLibAddin side by side, so uncompress it into the <em>parent</em> directory (e.g. <code>C:\</code>) to obtain <code>C:\QuantLibAddin-1.42.0</code>; do not uncompress it into a folder that is itself named <code>QuantLibAddin-1.42.0</code> or the projects will end up double-nested. No separate per-project download of those projects is required.</p>
 <p>Download a copy of the source code for the OpenSourceRisk fork of <a class="el" href="namespace_quant_lib.html">QuantLib</a>. At the time of this writing, that code has not been packaged for version 1.42.0. You will have to grab it from their repo:</p>
 <p><a href="https://github.com/OpenSourceRisk/QuantLib">https://github.com/OpenSourceRisk/QuantLib</a></p>
 <p>Download it alongside the bundled projects, renaming the target directory to <code>C:\QuantLibAddin-1.42.0\QuantLib</code>.</p>
+<h2><a class="anchor" id="build_cpp_vs_boostprops"></a>
+2.2 Configure Boost</h2>
+<p>The Visual Studio projects locate Boost through two property sheets that are <b>not</b> part of the source archive (they contain machine-specific paths), so you must create them by hand before building.</p>
+<p>First create <code>ObjectHandler\boost.props</code> - used by ObjectHandler and QuantLibAddin - adjusting the paths to your Boost build: </p><pre class="fragment">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
+  &lt;ItemDefinitionGroup&gt;
+    &lt;ClCompile&gt;
+      &lt;AdditionalIncludeDirectories&gt;C:\path\to\boost;%(AdditionalIncludeDirectories)&lt;/AdditionalIncludeDirectories&gt;
+      &lt;LanguageStandard&gt;stdcpp17&lt;/LanguageStandard&gt;
+    &lt;/ClCompile&gt;
+  &lt;/ItemDefinitionGroup&gt;
+  &lt;ItemDefinitionGroup Condition="'$(Platform)'=='x64'"&gt;
+    &lt;Link&gt;
+      &lt;AdditionalLibraryDirectories&gt;C:\path\to\boost\stage\lib;%(AdditionalLibraryDirectories)&lt;/AdditionalLibraryDirectories&gt;
+    &lt;/Link&gt;
+  &lt;/ItemDefinitionGroup&gt;
+  &lt;ItemDefinitionGroup Condition="'$(Platform)'=='Win32'"&gt;
+    &lt;Link&gt;
+      &lt;AdditionalLibraryDirectories&gt;C:\path\to\boost\stage32\lib;%(AdditionalLibraryDirectories)&lt;/AdditionalLibraryDirectories&gt;
+    &lt;/Link&gt;
+  &lt;/ItemDefinitionGroup&gt;
+&lt;/Project&gt;
+</pre><p>The QuantLib project uses its own pair of sheets under <code>QuantLib\MSVC</code>, which are likewise absent (they are imported unconditionally, so both must exist). Create the <code>QuantLib\MSVC</code> folder and add <code>quantlib.x64.user.props</code> (used for both x64 configurations): </p><pre class="fragment">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
+  &lt;PropertyGroup&gt;
+    &lt;IncludePath&gt;C:\path\to\boost;$(IncludePath)&lt;/IncludePath&gt;
+    &lt;LibraryPath&gt;C:\path\to\boost\stage\lib;$(LibraryPath)&lt;/LibraryPath&gt;
+  &lt;/PropertyGroup&gt;
+&lt;/Project&gt;
+</pre><p> and <code>quantlib.Win32.user.props</code> (used for both Win32 configurations - point <code>LibraryPath</code> at your 32-bit Boost libraries). Even if you build x64 only, create <code>quantlib.Win32.user.props</code> too (with any valid content), otherwise the build stops immediately with <code>error MSB4019: The imported project "...\\%QuantLib\\MSVC\\quantlib.x64.user.props" was not found</code>.</p>
 <h2><a class="anchor" id="build_cpp_vs_build"></a>
-2.2 Build</h2>
+2.3 Build</h2>
 <p>A single solution file, <code>QuantLibAddin\QuantLibAddin.sln</code>, is provided. The platform toolset is selected automatically from the version of Visual Studio used to open the solution (VS 2022 / v143 and VS 2026 / v145 are supported), so there is no longer a separate solution file per compiler version.</p>
 <p>Open the solution, choose configuration <code>Release (static runtime)</code> and platform <code>x64</code>, and execute menu item <code>Build | Build Solution</code>.</p>
 <h2><a class="anchor" id="build_cpp_vs_test"></a>
-2.3 Test</h2>
+2.4 Test</h2>
 <p>Open a DOS prompt in directory </p><pre class="fragment">C:\QuantLibAddin-1.42.0\QuantLibAddin\Clients\Cpp\bin
 </pre><p>Execute the example program. The output should appear similar to the following: </p><pre class="fragment">Begin example program.
 QuantLibAddin version = 1.42.0
@@ -156,12 +188,12 @@ ObjectHandler version = 1.42.0
 option PV = 3.84431
 End example program.
 </pre><h2><a class="anchor" id="build_cpp_vs_usage"></a>
-2.4 Usage</h2>
+2.5 Usage</h2>
 <h3><a class="anchor" id="build_cpp_vs_include"></a>
-2.4.1 #include</h3>
+2.5.1 #include</h3>
 <p>Add the following directive to your project's source file: </p><pre class="fragment">#include &lt;qlo/qladdin.hpp&gt;
 </pre><h3><a class="anchor" id="build_cpp_vs_link"></a>
-2.4.2 Link</h3>
+2.5.2 Link</h3>
 <p>Your project's link to the QuantLibAddin library is established automatically by the directive </p><pre class="fragment">#pragma comment(lib, QLADDIN_LIB_NAME)
 </pre><p> in file <code>qlo/auto_link.hpp</code></p>
 <p>The name of the library depends on your compiler and configuration. For example, if you're using VS 2026 (v145), platform x64, configuration Release (static runtime), the library is called </p><pre class="fragment">QuantLibAddin\lib\QuantLibObjects-v145-x64-mt-s-1_42_0.lib
@@ -178,7 +210,7 @@ End example program.
 3.1.2 Uncompress the Source Code</h3>
 <p>Download the combined source-code archive from:</p>
 <p><a href="https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0">https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0</a></p>
-<p>and uncompress it under <code>/home/username/build</code>. This single archive contains gensrc, ObjectHandler and QuantLibAddin, already laid out side by side under a top-level <code>QuantLibAddin-1.42.0</code> folder.</p>
+<p>and uncompress it under <code>/home/username/build</code>. This single archive contains gensrc, ObjectHandler and QuantLibAddin, already laid out side by side under a top-level <code>QuantLibAddin-1.42.0</code> folder, so unpack it into <code>/home/username/build</code> itself (not into a subfolder already named <code>QuantLibAddin-1.42.0</code>) to obtain <code>/home/username/build/QuantLibAddin-1.42.0</code>.</p>
 <p>Download a copy of the source code for the OpenSourceRisk fork of <a class="el" href="namespace_quant_lib.html">QuantLib</a>. At the time of this writing, that code has not been packaged for version 1.42.0. You will have to grab it from their repo:</p>
 <p><a href="https://github.com/OpenSourceRisk/QuantLib">https://github.com/OpenSourceRisk/QuantLib</a></p>
 <p>Download it alongside the bundled projects, renaming the target directory to <code>C:\QuantLibAddin-1.42.0\QuantLib</code>.</p>
@@ -188,8 +220,14 @@ End example program.
 /home/username/build/QuantLibAddin-1.42.0/QuantLibAddin
 </pre><h2><a class="anchor" id="build_cpp_cmake_build"></a>
 3.2 Build</h2>
-<p>The cmake build is driven by presets. The example below uses the Linux preset <code>linux-gcc</code>; on Windows you would select one of the <code>windows-...</code> presets instead (e.g. <code>windows-vs2026-x64-static</code>). The <code>-DRUN_GENSRC=ON</code> option runs gensrc (a Python 3 script) to regenerate the auto-generated source code; it is required for the first build from a fresh release.</p>
-<p>Build the prerequisites QuantLib and ObjectHandler first, then configure and build the QuantLibAddin wrapper library and the C++ demo client (<code>QLADemo</code>), telling cmake where the prerequisite build trees are:</p>
+<p>The cmake build on Linux is driven by the preset <code>linux-gcc</code> (run <code>cmake &ndash;list-presets</code> to confirm it is available on your platform). The <code>-DRUN_GENSRC=ON</code> option runs gensrc (a Python 3 script) to regenerate the auto-generated source code; it is required for the first build from a fresh release.</p>
+<p>On Windows there is no ready-made preset to select (the <code>windows-...</code> entries in <code>CMakePresets.json</code> are hidden base presets, not directly selectable), so drive the build with an explicit generator instead, for example: </p><pre class="fragment">cmake -S . -B build\windows-x64 -G "Visual Studio 18 2026" -A x64 ^
+    -DRUN_GENSRC=ON ^
+    -DBoost_USE_STATIC_RUNTIME=ON -DMSVC_LINK_DYNAMIC_RUNTIME=OFF ^
+    -DBOOST_INCLUDEDIR=C:\path\to\boost -DBOOST_LIBRARYDIR=C:\path\to\boost\stage\lib ^
+    -DCMAKE_PREFIX_PATH="..\QuantLib\build\windows-x64;..\ObjectHandler\build\windows-x64"
+cmake --build build\windows-x64 --config Release --target QLADemo
+</pre><p>Build the prerequisites QuantLib and ObjectHandler first, then configure and build the QuantLibAddin wrapper library and the C++ demo client (<code>QLADemo</code>), telling cmake where the prerequisite build trees are. The Linux commands are:</p>
 <pre class="fragment">cd /home/username/build/QuantLibAddin-1.42.0/QuantLibAddin
 cmake --preset linux-gcc -DRUN_GENSRC=ON \
     -DCMAKE_PREFIX_PATH="../QuantLib/build/linux-gcc;../ObjectHandler/build/linux-gcc"

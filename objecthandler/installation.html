@@ -130,13 +130,13 @@ Overview</h1>
 <h3><a class="anchor" id="inst_vs_directories"></a>
 2.1.1 Directories</h3>
 <p>The Visual Studio project files for ObjectHandler rely on relative pathnames to refer to the prerequisite project gensrc. In order for this to work, these projects must reside side by side in the directory tree. The single source-code archive already contains them in the correct layout, so you only need to unpack it.</p>
-<p>Create a new empty folder on your hard drive to serve as the root directory for the build. You can use any path; for purposes of this tutorial the build directory is <code>C:\QuantLibAddin-1.42.0</code>. Unpack the source-code archive into that directory. The archive expands to a single top-level <code>QuantLibAddin</code> folder containing all of the projects, so after unpacking you should have at least the following directory structure (the archive also contains the other projects in the distribution): </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc
+<p>Choose a parent directory on your hard drive under which the build tree will live. You can use any path; for purposes of this tutorial the parent directory is <code>C:\</code>, so the build root becomes <code>C:\QuantLibAddin-1.42.0</code>. The archive already expands to a single top-level <code>QuantLibAddin-1.42.0</code> folder containing all of the projects, so unpack it <em>into the parent</em> (e.g. <code>C:\</code>), not into a folder that is itself named <code>QuantLibAddin-1.42.0</code>. After unpacking you should have at least the following directory structure (the archive also contains the other projects in the distribution): </p><pre class="fragment">C:\QuantLibAddin-1.42.0\gensrc
 C:\QuantLibAddin-1.42.0\ObjectHandler
 </pre><h3><a class="anchor" id="inst_vs_uncompress"></a>
 2.1.2 Uncompress the Source Code</h3>
 <p>Download the source-code distribution archive from:</p>
 <p><a href="https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0">https://github.com/eehlers/QuantLibAddIn/releases/tag/v1.42.0</a></p>
-<p>and uncompress it to <code>C:\QuantLibAddin-1.42.0</code>. This single archive contains gensrc, ObjectHandler and the other projects in the distribution; no separate per-project download is required.</p>
+<p>and uncompress it into the <em>parent</em> directory (e.g. <code>C:\</code>) to obtain <code>C:\QuantLibAddin-1.42.0</code>. This single archive contains gensrc, ObjectHandler and the other projects in the distribution; no separate per-project download is required.</p>
 <h2><a class="anchor" id="inst_vs_build"></a>
 2.2 Build</h2>
 <p>ObjectHandler is available in three configurations:</p>
